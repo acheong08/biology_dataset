@@ -1,0 +1,40 @@
+Immunity
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Immunity depends on the persistance of memory cells
+
+Â  Â Â 
+The adaptive immune system relies on the clonal expansion of plasma
+cells to produce sufficiently large numbers of antibodies
+
+-   This means there is a delay between the initial exposure to a
+    pathogen and the production of large quantities of antibodies
+-   If pathogens can reproduce rapidly during this delay period, they
+    can impede normal body functioning and cause disease
+
+Memory cells are produced to prevent this delay in subsequent exposures
+and hence prevent disease symptoms developing
+
+-   When a B lymphocyte is activated and divides to form plasma cells, a
+    small proportion will differentiate into memory cells
+-   Memory cells are long living and will survive in the body for many
+    years, producing low levels of circulating antibodies
+-   If a second infection with the same pathogen occurs, memory cells
+    will react more vigorously to produce antibodies faster
+-   As antibodies are produced faster, the pathogen cannot reproduce in
+    sufficient amounts to cause disease symptoms
+-   Hence, because pathogen exposure no longer causes the disease to
+    occur, the individual is said to be immune
+
+Immunological Memory
+
+[immunological memory]

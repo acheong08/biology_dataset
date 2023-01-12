@@ -1,0 +1,100 @@
+Membrane Models
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of evidence from electron microscopy that led to the
+proposal of the Davson-Danielli modelÂ 
+
+Â  Â Â 
+The fluid-mosaic model was not the first scientifically accepted
+paradigm to describe membrane structure
+
+The first model that attempted to describe the position of proteins
+within the bilayer was proposed by Hugh Davson and James Danielli in
+1935
+
+When viewed under a transmission electron microscope, membranes exhibit
+a characteristic 'trilaminarâ€™Â appearance
+
+-   Trilaminar = 3 layers (two dark outer layers and a lighter inner
+    region)
+
+Electron Micrograph of Plasma Membrane
+
+[membrane EM]
+
+Danielli and Davson proposed a model whereby two layers of protein
+flanked a central phospholipid bilayer
+
+-   The model was described as a 'lipo-protein sandwichâ€™, as the lipid
+    layer was sandwiched between two protein layers
+-   The dark segments seen under electron microscope were identified
+    (wrongly) as representing the two protein layers
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of the falsification of the Davson-Danielli model that
+led to the Singer-Nicolson modelÂ 
+
+Â  Â Â 
+There were a number of problems with the lipo-protein sandwich model
+proposed by Davson and Danielli:
+
+-   It assumed all membranes were of a uniform thickness and would have
+    a constant lipid-protein ratioÂ 
+-   It assumed all membranes would have symmetrical internal and
+    external surfaces (i.e. not bifacial)
+-   It did not account for the permeability of certain substances (did
+    not recognise the need for hydrophilic pores)Â 
+-   The temperatures at which membranes solidified did not correlate
+    with those expected under the proposed modelÂ 
+
+Falsification Evidence:
+
+Membrane proteins were discovered to be insoluble in water (indicating
+hydrophobic surfaces) and varied in size
+
+-   Such proteins would not be able to form a uniform and continuous
+    layer around the outer surface of a membrane
+
+Fluorescent antibody tagging of membrane proteins showed they were
+mobile and not fixed in place
+
+-   Membrane proteins from two different cells were tagged with red and
+    green fluorescent markers respectively
+-   When the two cells were fused, the markers became mixed throughout
+    the membrane of the fused cell
+-   This demonstrated that the membrane proteins could move and did not
+    form a static layer (as per Davson-Danielli)
+
+Freeze fracturing was used to split open the membrane and revealed
+irregular rough surfaces within the membraneÂ 
+
+-   These rough surfaces were interpreted as beingÂ transmembrane
+    proteins, demonstrating that proteins were not solely localised to
+    the outside of the membrane structure
+
+New Model:
+
+In light of these limitations, a new model was proposed by Seymour
+Singer and Garth Nicolson in 1972
+
+According to this model, proteins were embedded within the lipid bilayer
+rather than existing as separate layers
+
+This model, known as the fluid-mosaic model, remains the model preferred
+by scientists today (with refinements)
+
+Models of Membrane Structure
+
+[membrane models]

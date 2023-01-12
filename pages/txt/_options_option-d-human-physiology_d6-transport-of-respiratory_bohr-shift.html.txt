@@ -1,0 +1,37 @@
+Bohr Shift
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The Bohr shift explains the increased release of oxygen by
+haemoglobin in respiring tissues
+
+Â  Â Â 
+TheÂ oxyhaemoglobinÂ dissociation curve demonstrates the saturation of
+haemoglobin by oxygen under normal conditions
+
+-   pH changes alter the affinity of haemoglobin for oxygen and hence
+    alters the uptake and release of O₂ by haemoglobin
+
+Carbon dioxide lowers the pH of the blood (by forming carbonic acid),
+which causes haemoglobin to release its oxygen
+
+-   This is known as the Bohr effect â€“ a decrease in pH shifts the
+    oxygen dissociation curve to the right
+
+Cells with increased metabolism (i.e. respiring tissues) release greater
+amounts of carbon dioxide (product of cell respiration)
+
+-   Hence haemoglobin is promoted to release its oxygen at the regions
+    of greatest need (oxygen is an input of cell respiration)
+
+The Bohr Shift
+
+[bohr shift]

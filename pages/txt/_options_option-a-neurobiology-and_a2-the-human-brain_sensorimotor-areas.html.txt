@@ -1,0 +1,23 @@
+Sensorimotor Areas
+
+Tactile perception (touch) and gross physical movements are coordinated
+by the sensorimotor areas of the brain
+
+-   The primary motor cortex is located in theÂ precentral gyrus
+    (frontal lobe) and handles motor signals
+-   The somatosensory cortex is located in theÂ postcentral gyrus
+    (parietal lobe) and handles tactile sensory signals
+
+These two regions each form a cortical homunculus â€“ a neurological map
+of the anatomical divisions of the body
+
+-   Parts of this representation of the human body are
+    disproportionately large as these regions are highly innervated
+-   The hands, tongue and lips are very large as these appendages
+    require more nervous control (e.g. for speech)
+-   Areas with less innervation (e.g. torso) have less of the cortex
+    dedicated to their functioning and appear small
+
+Cortical Homunculus of the Sensorimotor Areas
+
+[homunculus]

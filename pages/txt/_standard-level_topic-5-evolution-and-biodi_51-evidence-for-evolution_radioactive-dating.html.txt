@@ -1,0 +1,101 @@
+Radioactive Dating
+
+One of the most commonly used methods for determining the age of fossils
+is via radioactive dating (a.k.a. absolute dating)
+
+-   This method involves comparing the ratio of radioactive isotopes in
+    the fossil to that found in the atmosphere today
+
+Radioisotopes are alternative forms of an element that have the same
+number of protons but a different number of neutrons
+
+-   These isotopes are unstable and decay at a constant rate to form a
+    more stable daughter isotope
+
+There are three types of radioactive decay that can occur (depending on
+the radioisotope involved):
+
+-   Alpha decay â€“ Atom releases two protons and two neutrons (alpha
+    particle) to form a new, more stable element
+-   Beta decay â€“ A neutron decays to produce a proton, electron and
+    anti-neutrino (electron is released and a new element forms)
+-   Gamma decay â€“ Involves the release of electromagnetic radiation
+    (gamma rays), but does not change the mass of the atom
+
+Alpha radiation can be stopped by paper, beta radiation can be stopped
+by wood, while gamma radiation is stopped by lead
+
+Types of Radioactive Decay
+
+[radioisotopes]
+
+Half Life
+
+Radioisotopes decay at a constant rate and the time taken for half the
+original radioisotope to decay is known as the half life
+
+-   Different radioisotopes have different half lives and are thus
+    useful for dating different types of fossilised remains
+
+Short Range Dating
+
+-   All living things contain carbon and this carbon exists as a mix of
+    two isotopes â€“ ¹²C (stable) and ¹⁴C (radioactive)
+-   While alive, the proportion of the two isotopes will mirror
+    environmental levels (as carbon is constantly being cycled)
+-   When an organism dies, the ratio no longer remains fixed but changes
+    as ¹⁴C breaks down into ¹⁴N (beta decay)
+-   Scientists can measure the amount of ¹⁴C remaining in a sample to
+    determine how long ago it died
+-   ¹⁴C has a half life of only 5,730 years and so can only effectively
+    date samples less than ~60,000 years old
+
+Long Range Dating
+
+-   Longer range dating can be accomplished by dating the rocks around
+    the fossil to determine an age range (relative dating)
+-   Dating can only be undertaken on igneous rock, not the fossils
+    themselves or the sedimentary rock in which they are found
+-   ⁴⁰K is released in lava from active volcanos and decays into ⁴⁰Ar
+    with a half life of approximately 1.3 billion years
+-   Using the volcanic eruption as an indicator of when a rock layer
+    (strata) developed, the age of the fossil can be approximated
+-   As ⁴⁰Ar is inert and would have been released as a gas during the
+    eruption, its levels in the rock indicate radioactive decay
+
+Radioactive Decay Curve
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to show the proportion of radioisotope
+remaining
+
+Other Dating Techniques
+
+While radioisotope dating is the most commonly used method for dating
+fossils, other techniques do exist
+
+-   These other techniques include relative dating via index fossils and
+    electron spin resonance (ESR)
+
+Index Fossils
+
+-   The earth is arranged into sedimentary layers (stratification) with
+    older stratum at the bottom and newer layers on top
+-   Different regions will not always have the same sedimentary layers
+    due to environmental conditions (erosion, flooding, etc.)
+-   Index fossils represent short-lived species and thus can only be
+    found in a restricted depth of rock strata
+-   Index fossils can be used to synchronise the ages of rock layers
+    when other dating techniques are not available
+
+Electron Spin Resonance
+
+-   Electron spin resonance (ESR) is a useful dating tool for organic
+    samples that are aged between 50,000 â€“ 500,000 years old
+-   ESR depends on the fact that when objects are buried they are
+    bombarded by natural radiation from the soil
+-   This causes the electrons in minerals to move to (and remain in) a
+    higher energy state
+-   The number of high energy electrons in a sample can be used to
+    determine when the sample was buried

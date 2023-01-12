@@ -1,0 +1,34 @@
+7.1 Â DNA Structure and Replication
+
+[big ninja]
+
+Essential Idea:
+The structure of DNA is Â 
+ideally suited to its function
+
+Â  Â  Â 
+Understandings:
+
+-   DNA structure suggested a mechanism for DNA replication
+-   DNA replication is carried out by a complex system of enzymes
+-   DNA polymerase can only add nucleotides to the 3â€™Â end of a primer
+-   DNA replication is continuous on the leading strand and
+    discontinuous on the lagging strand
+-   Some regions of DNA do not code for proteins but have other
+    important functions
+-   Nucleosomes help to supercoil the DNA
+
+Applications:
+
+-   Rosalind Franklinâ€™s and Maurice Wilkinsâ€™Â investigation of DNA
+    structure by X-ray diffraction
+-   Use of nucleotides containing dideoxyribonucleic acid to stop DNA
+    replication in preparation of samples for base sequencing
+-   Tandem repeats are used in DNA profiling
+
+Skills:
+
+-   Analysis of results of the Hershey and Chase experiment providing
+    evidence that DNA is the genetic material
+-   Utilisation of molecular visualisation software to analyse the
+    association between protein and DNA within the nucleosome

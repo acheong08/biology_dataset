@@ -1,0 +1,66 @@
+Biogas Production
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Biogas is produced by bacteria and archaeans from organic matter
+in fermenters
+
+Â  Â Â 
+Biogas is a clean and renewable fuel source produced by the breakdown of
+organic matter by particular microorganisms
+
+-   Biogas is primarily composed of methane, carbon dioxide and water
+    vapour
+-   Biogas can be produced from a variety of sources of biomass â€“
+    including manure, sewage, agricultural waste or food scraps
+
+The production of biogas involves two groups of microorganisms â€“
+eubacteria and archaeans (methanogens)
+
+-   Bacteria first convert the organic material into organic acids and
+    alcohol
+-   Other bacteria convert these products into acetate, carbon dioxide
+    and hydrogen gas
+-   Archaeans then create methane, either via breakdown of acetate or
+    via a reaction between carbon dioxide and hydrogen gasÂ 
+
+The production of biogas can occur in small-scale fermenters under
+anaerobic conditions
+
+-   The fermenter needs to be maintained at a neutral pH (~ 7) and
+    constant temperature (~ 35ÂºC) to maximise yield
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Production of biogas in a small-scale fermenter
+
+Â  Â Â 
+Small-scale biogas fermenters are air-tight containers that
+anaerobically break down kitchen and garden wastes to produce biogas
+
+-   The fermentation process produces a digested slurry (digestate),
+    which can be used as a fertilizer
+-   The biogas forms within the slurry and collects at the top of the
+    chamber, where it can be transported for use via an outlet
+
+The main design elements of a biogas fermenters are an air-tight
+chamber, an inlet and a vessel for biogas collection
+
+-   A small-scale fermenter can also be directly linked to toilets for
+    the additional treatment of human excreta
+-   Small-scale biogas fermenters are typically used by households or
+    communities in rural areas as a supplementary fuel source
+
+Overview of Biogas Production
+
+[biogas]

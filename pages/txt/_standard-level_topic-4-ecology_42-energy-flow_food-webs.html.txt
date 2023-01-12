@@ -1,0 +1,19 @@
+Food Webs
+
+A food web is a diagram that shows how food chains are linked together
+into more complex feeding relationships
+A food web is more representative of actual feeding pathways within an
+ecosystem because:
+
+-   Organisms can have more than one food source
+-   Organisms can have more than one predator
+
+This means that, unlike a food chain, organisms in a food web can occupy
+more than one trophic level
+
+-   Hint: When constructing food webs, position organisms at their
+    highest trophic level (keeps all arrows pointing in same direction)
+
+Example of a Food Web (Pond Ecosystem)
+
+[food web]

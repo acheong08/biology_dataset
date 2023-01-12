@@ -1,0 +1,16 @@
+Epistasis
+
+Epistasis describes a condition whereby one gene controls the expression
+of another gene
+In mice, the expression of a specific fur colour by one gene is
+dependent upon the production of hair pigment by another gene
+
+-   Black fur (B) is dominant to brown fur (b), but in the absence of
+    hair pigment (cc) mice will appear albino
+
+In humans, the gene for baldness supersedes genes for hair colour and
+hence is epistatic in nature
+
+Epistasis â€“ Mouse Coat Colour
+
+[epistasis]

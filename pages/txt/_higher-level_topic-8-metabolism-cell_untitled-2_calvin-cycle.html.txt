@@ -1,0 +1,67 @@
+Calvin Cycle
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Calvinâ€™s experiment to elucidate the carboxylation of RuBP
+
+Â  Â Â 
+The light independent reactions are also collectively known as the
+Calvin cycle â€“ named after American chemist Melvin Calvin
+
+-   Calvin mapped the complete conversion of carbon within a plant
+    during the process of photosynthesis
+
+Calvinâ€™s elucidation of photosynthetic carbon compounds is commonly
+classed theÂ â€˜lollipop experimentâ€™
+
+-   This is due to the fact that the apparatus he utilised was thought
+    to resemble an upside-down lollipop
+
+Lollipop Experiment
+
+-   Radioactive carbon-14 is added to aÂ â€˜lollipopâ€™Â apparatus
+    containing green algae (Chlorella)
+-   Light is shone on the apparatus to induce photosynthesis (which will
+    incorporate the carbon-14 into organic compounds)
+-   After different periods of time, the algae is killed by running it
+    into a solution of heated alcohol (stops cell metabolism)
+-   Dead algal samples are analysed using 2D chromatography, which
+    separates out the different carbon compounds
+-   Any radioactive carbon compounds on the chromatogram were then
+    identified using autoradiography (X-ray film exposure)
+-   By comparing different periods of light exposure, the order by which
+    carbon compounds are generated was determined
+-   Calvin used this information to propose a sequence of events known
+    as the Calvin cycle (light independent reactions) Â 
+
+Summary of the Lollipop Experiment
+
+This browser cannot play the embedded video file.
+
+[lollipop-experiment]
+
+Key Events of the Calvin Cycle
+
+The Calvin cycle outlines the events that result in the formation of
+organic molecules from inorganic sources (CO₂)
+
+-   Ribulose bisphosphate (RuBP) is carboxylated by carbon
+    dioxideÂ (CO₂) to form a hexose biphosphate compound
+-   The hexose biphosphate compound immediately breaks down into
+    molecules ofÂ glycerate-3-phosphate (GP)
+-   The GP is converted by ATP and NADPH into molecules of triose
+    phosphate (TP)
+-   TP can be used to form organic molecules or can be recombined by ATP
+    to reform stocks of RuBP
+
+Calvin Cycle Compounds
+
+[calvin table]

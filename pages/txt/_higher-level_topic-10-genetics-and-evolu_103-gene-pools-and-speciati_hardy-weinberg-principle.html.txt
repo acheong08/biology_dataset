@@ -1,0 +1,68 @@
+Hardy-Weinberg Principle
+
+The Hardy-Weinberg equation is a means by which the frequency of two
+alternate alleles can be predicted within a population
+For two alleles of a given genetic characteristic, three genotypes are
+possible (assuming Mendelian inheritance): AA, Aa and aa
+
+-   Dominant allele is A, with a frequency of p
+-   Recessive allele is a, with a frequency of q
+
+The Hardy-Weinberg Equation
+â€¢ Â The total frequency of both alleles will be 100% â€“ in other
+words: Â p + q = 1
+â€¢ Â Because genotypes consist of two alleles, this equation must be
+squared: Â ( p + q ) ²Â  = Â 1
+â€¢ Â This gives the expanded Hardy-Weinberg equation: Â p² + 2pq + q² =
+Â 1 Â Â (whereby p²Â = AA ; 2pq = Aa ; q²Â = aa)Â 
+
+Graphical Representation of the Hardy-Weinberg Principle
+
+[hardy weinberg equation]
+
+Hardy-Weinberg Conditions
+
+For the Hardy-Weinberg equation to be accurate, certain population
+conditions are assumed:
+
+-   The population is largeÂ with random mating
+-   There is no mutation or gene flow
+-   There is no natural selection or allele-specific mortality
+
+Worked Example
+
+Suppose we had a population of 500 people, in which 9% were albino
+(albinism is a recessive characteristic)
+
+-   How many individuals in this population are heterozygous?
+
+Using the equations: Â  Â p + q = Â 1 Â  Â and Â  Â p²Â + 2pq + q²Â =
+Â 1
+
+-   If q²Â = 0.09 Â  â‡’ Â  q = 0.3 Â (âˆš 0.09)
+-   If q = 0.3 Â Â â‡’ Â  p = 0.7 Â (p + 0.3 = 1)
+-   If p = 0.7 Â Â â‡’ Â Â p²Â = 0.49 Â  (0.7²)
+-   2pq = 0.42 Â Â â‡’ Â  (0.49 + 2pq + 0.09 = 1)Â 
+
+Substituting these numbers for frequencies and applying them to the
+original population shows that:
+
+-   49% of people are homozygous dominant (AA), which is 245 individuals
+    (0.49Â Ã— 500)
+-   9% of people are homozygous recessive (aa), which is 45 individuals
+    (0.09Â Ã— 500)
+-   42% of people are heterozygous (Aa), which is 210 individuals
+    (0.42Â Ã— 500)
+
+Practice Question
+
+[question] In cats, the trait for black fur (B) is dominant to white fur
+(b).
+In a population of 250 cats, there are 40 cats with white fur.
+What is the relative frequencies of the two alleles (B and b) within the
+population?
+How many of the cats with black fur are heterozygous for this
+characteristic?
+Remember:        p + q = 1      AND      p² + 2pq + q² = 1
+
+[metric system]

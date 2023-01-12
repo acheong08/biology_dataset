@@ -1,0 +1,75 @@
+DNA Experiments
+
+Griffithâ€™s Experiment
+
+In 1928, Frederick Griffith conducted one of the first experiments to
+show that cells possessed genetic material
+
+Griffith's experiment involved the use of two strains of pneumococcus
+â€“ a deadly virulent strain (S) or a non-virulent strain (R)
+
+-   When Griffith infected mice with the non-virulent bacteria (strain
+    R), the mice survived
+-   When Griffith infected mice with the virulent bacteria (strain S),
+    the mice died
+-   When Griffith infected mice with heat-killed virulent bacteria
+    (strain R), the mice survived as the bacteria had been killed
+-   When Griffith infected mice with a mix of heat-killed strain S and
+    living strain R, the mice were found to have died
+
+From this Griffithâ€™s concluded that the living R cells had somehow
+been transformed into virulent S cells
+
+-   This indicated that there was some form of transferrable genetic
+    material present within the cells (i.e. DNA)
+
+Griffithâ€™s Experiment â€“ Demonstrating Bacterial Transformation
+
+[Griffiths experiment]
+
+Avery-MacLeod-McCarty Experiment
+
+Oswald Avery and colleagues expanded upon the findings of Frederick
+Griffith to demonstrate that DNA is the genetic material
+
+-   They prepared cultures containing the heat-killed S strain and then
+    removed lipids and carbohydrates from the solution
+-   Next they treated the solutions with different digestive enzymes
+    (DNase, RNase or protease) to destroy the targeted compound
+-   Finally, they introduced living R strain cells to the culture to see
+    which cultures would develop transformed S strain bacteria
+
+Only in the culture treated with DNase did the S strain bacteria fail to
+grow (i.e. no DNA = no transformation)
+
+-   This indicated that DNA was the genetic component that was being
+    transferred between cells
+
+Despite this finding, the scientific community was reluctant to accept
+the role of DNA as a genetic material
+
+-   It was only 8 years later, when Hershey and Chase conducted their
+    experiment, that the concept gained traction
+
+Avery-MacLeod-McCarty Experiment â€“ DNA as the Genetic Material of the
+Cell
+
+[Avery experiment]
+
+DNA Structure Elucidation
+
+Four scientists are generally recognised as having contributed to the
+elucidation of DNA structure
+
+-   Rosalind Franklin and Maurice Wilkins used X-ray diffraction
+    techniques to identify key properties of the DNA molecule
+-   Wilkins shared this data (without Franklinâ€™s permission)Â with two
+    other scientists, James Watson and Francis Crick
+-   Watson and Crick used this data to help construct an accurate model
+    of DNA structure (as a doubleÂ helix)
+-   In 1962, Watson, Crick and Wilkins were awarded the Nobel prize
+    (Franklinâ€™s critical efforts were not recognised)
+
+Pioneers of DNA Structure
+
+[DNA pioneers]

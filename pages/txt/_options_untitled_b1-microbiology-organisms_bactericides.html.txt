@@ -1,0 +1,39 @@
+Bactericides
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Experiments showing zone of inhibition of bacterial growth by
+bactericides in sterile bacterial cultures
+
+Â  Â Â 
+Bactericides are substances which kill bacteria â€“ they include certain
+types of disinfectants, antiseptics and antibiotics
+
+-   Whereas bactericidal agents will kill bacteria, bacteriostatic
+    agents function by slowing their growth and reproduction
+
+The efficacy of a particular bactericide can be tested by examining its
+effect on bacterial growth in a sterile bacterial culture
+
+-   If a bactericide is effective against a particular bacterial strain,
+    there will be no growth around the agent (zone of inhibition)
+-   The larger the zone of inhibition, the more effective the
+    bactericidal agent is at killing the bacterial strain
+
+The zone of inhibition will also be affected by the solubility of the
+bactericide (i.e. fast diffusion rate = large zone of inhibition)
+
+-   This is an important consideration when testing multiple
+    bactericides on the same growth medium
+
+Effect of Bactericides on Bacterial Growth
+
+[bactericide]

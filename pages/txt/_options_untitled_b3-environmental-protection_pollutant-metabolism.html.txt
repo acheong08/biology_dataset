@@ -1,0 +1,113 @@
+Pollutant Metabolism
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Some pollutants are metabolised by microorganisms
+
+Â  Â Â 
+A pollutant is a substance introduced into the environment that has an
+adverse effect upon a natural resource
+
+-   Certain pollutants may be disintegrated via the biological
+    metabolism of microorganisms (biodegradation)
+
+Examples of pollutants that may be metabolised by microorganisms
+include:
+
+-   Oil: Â Hydrocarbons in crude oil may be metabolised by Pseudomonas
+-   Benzene: Â Aromatic hydrocarbons (e.g. benzene) may be metabolised
+    by halophilic Marinobacter
+-   Mercury: Â Toxic methyl mercury may be converted into environmental
+    mercury by Pseudomonas
+-   Uranium: Â Uranium can be converted by Geobacter sulfureducens into
+    a insoluble form that can be easily collected
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Degradation of oil by Pseudomonas
+
+â€¢ Â Degradation of benzene by halophilic bacteria such as Marinobacter
+
+Â  Â Â 
+Oil Spills
+
+Crude oil is a non-uniform material composed of a mixture of
+hydrocarbons in variable proportions
+
+-   It can be processed to form petroleum products that can be refined
+    to form various types of fuels (e.g. gasoline, etc.)
+-   When crude oil is released from containment (i.e. via damaged
+    tankers or pipelines), it will form a floating slick on water
+
+Crude oil is biodegradable and hence oil spills are commonly dispersed
+by bacterial decomposition (bioremediation)
+
+-   Physical procedures (such as the surface pumping of an oil slick)
+    are highly laborious, expensive and slow
+-   Chemical procedures (such as the use of dispersants) may be
+    non-biodegradable and toxic to marine ecosystemsÂ 
+
+Pseudomonas is a chemoheterotroph that can utilise crude oil as its sole
+carbon source, making it efficient at oil degradation
+
+-   The hydrocarbons within the oil are converted into biomass or broken
+    down via respiration into carbon dioxide and water
+-   Spraying the oil with essential inorganic nutrients (e.g. nitrates,
+    phosphates, etc.) assists in the conversion to biomass
+-   The efficiency of oil degradation can also be improved by the
+    presence of a surfactant (helps distribute the bacteria)
+
+A high presence of salt at an oil spill may inhibit bacterial species
+(such asÂ Pseudomonas) from being able to degrade the oil
+
+-   Oil spills commonly occur in marine environments â€“ oil is
+    frequently extracted in off-shore locations and transported by ship
+-   Additionally, the extraction of oil from underground reserviors is
+    oftenÂ accompanied by brine (salt water)
+
+Marinobacter are a halophilic ('salt-lovingâ€™) bacteria that can
+degrade certain hydrocarbons present in crude oil (i.e. benzene)
+
+-   Whilst not as efficient at degrading oil as Pseudomonas, its
+    tolerance for salt environments makes it a useful alternative
+
+Hydrocarbon Metabolism by Chemoheterotrophs
+
+[hydrocarbon metabolism]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Conversion by Pseudomonas of methyl mercury into elemental mercury
+
+Â  Â Â 
+Mercury Contamination
+
+Mercury exists in three forms: as a metal (elemental mercury), as
+inorganic ions or as an organic form (methyl mercury)
+
+-   Elemental mercury is produced as an industrial pollutant and is
+    converted to the other forms by aquatic bacterial communities
+
+Methyl mercury is the most toxic form and will accumulate within aquatic
+ecosystems polluted by elemental mercury
+
+-   Pseudomonas is capable of degrading the toxic methyl mercury to form
+    elemental mercury and methane gas
+-   This makes Pseudomonas an important biological agent in the
+    treatment and remediation of mercury pollution
+
+Mercury Conversion
+
+[mercury]

@@ -1,0 +1,23 @@
+X-Inactivation
+
+X-inactivation is the process by which one of the two X chromosomes
+present in females is inactivated
+
+-   This ensures that females do not produce twice as many X-linked gene
+    proteins as males (who possess one X chromosome)
+
+The silenced X chromosome is packaged as transcriptionally inactive
+heterochromatin, forming a structure called a Barr body
+
+-   Once an X chromosome is inactivated, it will remain permanently
+    inactive in the cell (and all cells derived from it)
+
+X-inactivation occurs randomly in mammals, meaning both X chromosomes
+may be active in different cells
+
+-   This allows for a heterozygous phenotype to occur in the female as a
+    whole
+
+X-Inactivation and the Formation of a Barr Body
+
+[barr body]

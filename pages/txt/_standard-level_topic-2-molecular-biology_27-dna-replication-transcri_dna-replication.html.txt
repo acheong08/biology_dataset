@@ -1,0 +1,52 @@
+DNA Replication
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Helicase unwinds the double helix and separates the two strands by
+breaking hydrogen bonds
+
+â€¢ Â DNA polymerase links nucleotides together to form a new strand,
+using the pre-existing strand as a template
+
+Â  Â Â 
+DNA replication is a semi-conservative process whereby pre-existing
+strands act as templates for newly synthesised strands
+
+The process of DNA replication is coordinated by two key enzymes
+â€“Â helicase and DNA polymerase
+
+Helicase
+
+-   Helicase unwinds the double helix and separates the two
+    polynucleotide strands
+-   It does this by breaking the hydrogen bonds that exist between
+    complementary base pairs
+-   The two separated polynucleotide strands will act as templates for
+    the synthesis of new complementary strands
+
+DNA Polymerase
+
+-   DNA polymerase synthesises new strands from the two parental
+    template strands
+-   Free deoxynucleoside triphosphates (nucleotides with 3 phosphate
+    groups) align opposite their complementary base partner
+-   DNA polymerase cleaves the two excess phosphates and uses the energy
+    released to link the nucleotide to the new strand
+
+DNA Replication Summary
+
+[DNA replication]
+
+DNA Replication Animation
+
+This browser cannot play the embedded video file.
+
+[dna-replication-sl]

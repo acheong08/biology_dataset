@@ -1,0 +1,44 @@
+Phospholipid Bilayer
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Phospholipids form bilayers in water due to the amphipathic
+properties of phospholipid molecules
+
+[phospholipid structure]
+
+Â  Â Â 
+Structure of Phospholipids:
+
+-   Consist of a polar head (hydrophilic) composed of a glycerol and a
+    phosphate molecule
+-   Consist of two non-polar tails (hydrophobic) composed of fatty acid
+    (hydrocarbon) chains
+-   Because phospholipids contain both hydrophilic (water-loving) and
+    lipophilic (fat-loving) regions, they are classed as amphipathic
+
+Arrangement in Membranes:
+
+-   Phospholipids spontaneously arrange into a bilayer
+-   The hydrophobic tail regions face inwards and are shielded from the
+    surrounding polar fluids, while the two hydrophilic head regions
+    associate with the cytosolic and extracellular fluids respectively
+
+Properties of the Phospholipid Bilayer:
+
+-   The bilayer is held together by weak hydrophobic interactions
+    between the tails
+-   Hydrophilic / hydrophobic layers restrict the passage of many
+    substances
+-   Individual phospholipids can move within the bilayer, allowing for
+    membrane fluidity and flexibility
+-   This fluidity allows for the spontaneous breaking and reforming of
+    membranes (endocytosis / exocytosis)

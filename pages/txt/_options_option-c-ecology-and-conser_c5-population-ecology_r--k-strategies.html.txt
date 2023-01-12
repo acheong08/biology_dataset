@@ -1,0 +1,47 @@
+r / K Strategies
+
+The terms r-selection and K-selection are used by ecologists to describe
+the growth and reproduction strategies of organisms
+
+-   r-selected species have a high growth rate but low survivability
+    (â€œcheapâ€? offspring)
+-   K-selected species have a low growth rate but high survivability
+    (â€œexpensiveâ€? offspring)
+
+r-selection
+
+-   Occurs in unstable environments where there are ecological
+    disruptions and resources are used for maximising reproduction
+-   There are usually many offspring per brood, which require little
+    parental care and have a high rate of mortality
+-   The body size of offspring is typically small and they have an early
+    onset of maturity (short developmental span)
+-   Population size is typically variable (highly fluctuating) and an
+    example of a r-selected organism is a pioneer species
+
+K-selection
+
+-   Predominates in stable or predictable environments where resources
+    are used for maximising long-term survival
+-   There are usually very few offspring per brood, each requiring high
+    levels of parental care (resulting in low mortality)
+-   The body size of offspring is typically larger and they have a late
+    onset of maturity (long developmental span)
+-   Population size is typically stable (reaches carrying capacity) and
+    an example of K-selection is a climax species
+
+It can be difficult to determine if a species is following a r-strategy
+or a K-strategy as they represent two ends of an extreme
+
+-   In reality, most organisms typically demonstrate an intermediate
+    strategy somewhere along the spectrum (e.g. type II growth)
+-   Some species may even change their selection strategy according to
+    environmental conditions
+
+The r-K Scale of Reproductive Strategy: Offspring Numbers
+
+[r-k scale]
+
+Comparison of r-K Strategies: Growth Rate and Survivorship
+
+[growth vs survival]

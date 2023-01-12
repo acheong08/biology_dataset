@@ -1,0 +1,54 @@
+Anesthetics
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Anesthetics act by interfering with neural transmissions between
+areas of sensory perception and the CNS
+
+Â  Â Â 
+Anesthetics act on ion channels to block the conduction of sensory nerve
+signals to the central nervous system
+
+-   This results in the loss of sensation (numbness) in the affected
+    region, allowing for surgical interventions to occur
+
+Anesthetics can be grouped into two classes â€“ local anesthetics and
+general anesthetics
+
+-   Local anesthetics only affect a localised region â€“ usually by
+    blocking axonal sodium influx (conduction block)
+-   General anesthetics affect the whole body â€“ this may involve
+    blocking calcium influx to prevent neurotransmitter exocytosis
+
+General versus Local Anesthesia
+
+[anesthesia]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â The effect of anesthetics on awareness
+
+Â  Â Â 
+Different types of anesthetics will affect consciousness in different
+ways:
+
+-   General anesthetics will induce a temporary loss of consciousness as
+    they interfere with neural transmissions in the brain
+-   Local anesthesia will not result in a loss of consciousness and only
+    cause a reversible loss of sensation to the affected area
+
+General anesthetics are typically inhaled (to affect the whole body),
+while local anaesthetics are injected into specific regions
+
+-   General anesthetics are administered by trained specialists who
+    monitor patient vitals for the duration of the procedure

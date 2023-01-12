@@ -1,0 +1,152 @@
+Vaccination
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Vaccines contain antigens that trigger immunity but do not cause
+the disease
+
+Â  Â Â 
+Vaccinations induce long-term immunity to specific pathogenic infections
+by stimulating the production of memory cells
+
+-   A vaccine is a weakened or attenuated form of the pathogen that
+    contains antigens but is incapable of triggering disease
+-   The antigenic determinants in a vaccine may be conjugated to an
+    adjuvant, which functions to boost the immune response
+-   The body responds to an injected vaccine by initiating a primary
+    immune response, which results in memory cells being made
+-   When exposed to the actual pathogen, the memory cells trigger a more
+    potent secondary immune response
+-   As a consequence of this more potent immune response, disease
+    symptoms do not develop (individual is immune to pathogen)
+
+The length of time a person is immune to infection following a
+vaccination depends on how long the memory cells survive for
+
+-   Memory cells may not survive a lifetime and individuals may
+    subsequently require a booster shot to maintain immunity
+
+Vaccination
+
+[vaccination]
+
+Herd Immunity
+
+Vaccinations programmes are implemented to reduce the outbreak of
+particular infectious diseases within populations
+
+-   An epidemic is a substantially increased occurrence of a particular
+    infection within a given region
+-   A pandemic is an epidemic that has spread across a
+    largeÂ geographical area (like a continent)
+
+Vaccination confers immunity to vaccinated individuals but also
+indirectly protects non-vaccinated individuals via herd immunity
+
+-   Herd immunity is when individuals who are not immune to a pathogen
+    are protected from exposure by the large amounts of immune
+    individuals within the community
+
+[herd immunity]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Smallpox was the first infectious disease of humans to have been
+eradicated by vaccination
+
+Â  Â Â 
+Smallpox was the first infectious disease of humans to have been
+eradicated via vaccination
+
+-   When a disease stops circulating in a region it is considered
+    eliminated â€“ if it is eliminated worldwide, it is considered
+    eradicated
+
+Smallpox was targeted for eradication in 1967 by the World Health
+Organisation (WHO), via a global vaccination programme
+
+-   The last known case of smallpox in a civilian was registered in 1977
+    and it was officially declared eradicated by WHO in 1980
+
+The eradication of smallpox by vaccination was successful for a number
+of reasons:
+
+-   Smallpox was easily identifiable due to overt clinical symptoms,
+    which helped to limit potential transmission
+-   Transmission only occurred via direct contact and there were no
+    animal vectors or reservoirs to sustain the infectious agent
+-   The infection period was short lived (3 â€“ 4 weeks) and the virus
+    was stable andÂ didnâ€™t mutate into alternate strains
+-   There was global cooperation and immunity was long-term so repeated
+    booster shots were unnecessary
+
+Eradication of Smallpox
+
+[smallpox]
+
+TED Talks: Â How we Conquered the Deadly Smallpox Virus
+
+This browser cannot play the embedded video file.
+
+[how-we-conquered-the-deadly]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of epidemiological data related to vaccination programmes
+
+Â  Â Â 
+Vaccination programmes have lead to a reduction in the incidence of
+infectious diseases in a number of regions
+
+-   Different nations will implement different vaccination practices
+    depending on the regional pathogenic threats
+
+The World Health Organisation keeps a record of disease incidence and
+immunisation schedules in different countries
+
+-   These records are updated yearly and can be accessed at the
+    following website: Â WHO Data and Statistics
+
+Epidemiology is the study of the patterns, causes and effects of health
+and disease conditions in a defined population
+
+-   It can be used to compare the incidence of a disease over time
+    (prior and following vaccination programme implementation)
+-   It can be used to compare the incidence of a disease in different
+    regions (both with and without vaccination programmes)
+
+Vaccination Data
+
+The following resources can be used to generate data tables and graphs
+relating to national vaccination programmes:
+
+-   Reported Disease Incidence Time Series Â (Excel file)
+-   Year of Introduction of Selected Vaccine Â (Excel file)
+
+When analysing trends associated with this data it is important to
+remember the following caveats:
+
+-   Populations have increased year on year, which would be likely to
+    increase the risk of potential outbreaks
+-   Improvements to health care services, public sanitation and medical
+    breakthroughs will also influence disease rates
+-   Different regions may experience different levels of exposure to
+    particular infections (due to climate and vector presence)
+
+Incidence of Measles in Australia based on WHO Data Records
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to swap between data table and graph

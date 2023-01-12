@@ -1,0 +1,44 @@
+Graded Potentials
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â A nerve impulse is only initiated if a threshold potential is
+reached
+
+Â  Â Â 
+Neurotransmitters bind to neuroreceptors on the post-synapticÂ membrane
+of target cells and open ligand-gated ion channels
+
+-   The opening of these channels cause small changes in membrane
+    potential known as graded potentials
+
+A nerve impulse is only initiated if a threshold potential is reached,
+so as to open the voltage-gated ion channels within the axon
+
+-   Excitatory neurotransmitters (e.g. noradrenaline) cause
+    depolarisation by opening ligand-gated sodium or calcium channels
+-   Inhibitory neurotransmitters (e.g. GABA) cause hyperpolarisation by
+    opening ligand-gated potassium or chlorine channels
+
+The combined action of all neurotransmitters acting on a target neuron
+determines whether a threshold potential is reached
+
+-   If overall there is more depolarisation than hyperpolarisation and a
+    threshold potential is reached, the neuron will fire
+-   If overall there is more hyperpolarisation than depolarisation and a
+    threshold potential is not reached, the neuron will not fire
+
+For a typicalÂ neuron, the threshold potential (required to open
+voltage-gated ion channels) is approximately â€“55 mV
+
+Graded versus Action Potentials
+
+[graded potential]

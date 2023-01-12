@@ -1,0 +1,55 @@
+Clones
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Clones are groups of genetically identical organisms, derived from
+a single original parent cell
+
+Â  Â Â 
+Clones are groups of genetically identical organisms or a group of cells
+derived from a single original parent cell
+
+-   Organisms that reproduce asexually will produce genetically
+    identical clones
+-   Additionally, mechanisms exist whereby sexually reproducing
+    organisms can produce clones (e.g. identical twins)
+
+Cloning multicellular organisms requires the production of stem cells
+(differentiated cells cannot form other cell types)
+
+-   Stem cells can be artificially generated from adult tissue using a
+    process called somatic cell nuclear transfer (SCNT)
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Production of cloned embryos produced by somatic cell nuclear
+transfer
+
+Â  Â Â 
+Somatic cell nuclear transfer is a method by which cloned embryos can be
+produced using differentiated adult cells
+
+-   Somatic cells are removed from the adult donor and cultured (these
+    cells are diploid and contain the entire genome)
+-   An unfertilised egg is removed from a female adult and its haploid
+    nucleus is removed to produce an enucleated egg cell
+-   The enucleated egg cell is fused with the nucleus from the adult
+    donor to make a diploid egg cell (with the donorâ€™s DNA)
+-   An electric current is then delivered to stimulate the egg to divide
+    and develop into an embryo
+-   The embryo is then implanted into the uterus of a surrogate and will
+    develop into a genetic clone of the adult donorÂ 
+
+Somatic Cell Nuclear Transfer
+
+[somatic cell nuclear transfer]

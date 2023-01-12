@@ -1,0 +1,35 @@
+Pseudogenes
+
+A transposon is a segment of DNA that inserts itself into another
+section within the genome (i.e.Â â€˜jumping' genes)
+
+-   Transposition often results in the duplication of the transposable
+    element
+-   If the duplicated sequence then undergoes random mutation, a
+    pseudogene will result
+
+A pseudogene is a non-functional sequence of DNA that is homologous to
+an active gene
+
+-   Pseudogenes may beÂ processed (retrotransposed) or non-processed
+    (duplicated)
+
+Processed pseudogenes
+
+-   Arise when a portion of an mRNA transcript is reverse transcribed
+    back into DNA and inserted into the chromosomal DNA
+-   Processed pseudogenes consequently lack introns and promoter
+    sequences, but may include a poly-A tract
+-   These pseudogenes may be randomly integrated anywhere in the genome
+
+Non-processed pseudogenes
+
+-   Arise as a result of gene duplication and subsequent inactivation by
+    mutation
+-   Non-processed pseudogenes will often be flanked by transcriptional
+    regulatory elements (e.g. promoters, etc.)
+-   These pseudogenes are usually located adjacent to the original gene
+
+Pseudogene Formation
+
+[pseudogene]

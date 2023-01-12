@@ -1,0 +1,98 @@
+Gene Delivery Systems
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Recombinant DNA can be introduced by direct physical or chemical
+methods or indirectly by vectors
+
+Â  Â Â 
+Gene delivery is the process of introducing foreign DNA into host cells
+for the purpose of genetic modification
+
+-   This delivery may occur directly via physical or chemical methods or
+    indirectly via the use of vectors
+
+Physical Delivery
+
+-   Electroporation â€“ An electric charge is applied to cells, which
+    permeabilises the membrane so that DNA can enter the cell
+-   Microinjection â€“ A fine needle is used to directly inject the
+    recombinant DNA into a single host cell
+-   Biolistics â€“ Recombinant DNA is coated onto gold particles and
+    fired into tissues by a biolistic device (â€˜gene gunâ€™)
+
+Chemical Delivery
+
+-   Calcium chloride â€“ Cells are treated in a calcium chloride
+    solution prior to a heat shock (which permeabilises the membrane)Â 
+-   Liposomes â€“ Recombinant DNA is stored within a lipid bilayer
+    vesicle (liposome), which fuses with the cell via endocytosis
+
+Vector Delivery
+
+-   Agrobacterium tumefaciens â€“ A rod-shaped bacterium that can insert
+    a recombinant plasmid into a host cell
+-   Tobacco mosaic virus â€“ A retrovirus that can insert genetic
+    material into host cells (primarily tobacco plants)
+
+Methods of Gene Delivery
+
+[gene delivery systems]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Recombinant DNA can be introduced into whole plants, leaf discs or
+protoplasts
+
+Â  Â Â 
+Recombinant DNA can be introduced into whole plants, leaf discs or
+protoplasts (plant cells with the cell wall removed)
+
+-   Introducing DNA into whole plants can allow for the targeted
+    recombination of particular plant tissues
+-   Recombinant leaf discs can be regenerated under laboratory
+    conditions to form new transgenic plants
+-   Protoplasts may take up DNA more easily (due to the absence of a
+    cell wall) and can be regenerated into whole plants
+
+When regenerating whole plants, groups of plant cells form a growing
+mass (callus) from which plant structures develop
+
+-   Gene delivery systems may be more or less effective depending on the
+    target (whole plant, leaf disc or protoplast)
+
+Plant Transgenesis Techniques
+
+[plant transgenesis]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Recombinant DNA must be inserted into the plant cell and taken up
+by its chromosome or chloroplast DNAÂ 
+
+Â  Â Â 
+When recombinant DNA is inserted into a plant cell, it is either taken
+up into a chromosome or into chloroplast DNA
+
+-   Alternatively, the recombinant DNA may remain as an independent
+    construct within the cell (i.e. in an autonomous plasmid)
+
+Integrating the target gene into chloroplast DNA offers certain
+advantages when developing genetically modified crops
+
+-   Genes found inÂ chloroplast DNA will not be present in pollen
+    produced by transgenic plants (no chloroplasts in pollen grains)
+-   This means the target gene cannot be accidentally released into wild
+    plants via cross-pollination

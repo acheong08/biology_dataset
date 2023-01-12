@@ -1,0 +1,67 @@
+Animal Complexity
+
+Animal phyla can be differentiated according to a number of features of
+increasing complexity
+
+-   These features include body symmetry, number of body openings, body
+    segmentation and the presence of a notochord
+
+Body Symmetry
+
+-   Body symmetry describes the alignment of body parts around a central
+    axis (radial = circular plane ; bilateral = linear plane)
+-   Porifera are the most primitive of animals and lack any body
+    symmetry (asymmetrical) as they have no true tissues or organs
+-   Cnidaria are sedentary or slow moving and have radial symmetry, so
+    as to experience the environment equally from all directionsÂ 
+-   All other animals have bilateral symmetry, which promotes
+    development of a head and allows for streamlined, directional
+    movement
+
+Types of Body Symmetry
+
+[body symmetry]
+
+Body Openings
+
+-   Porifera are the most basic invertebrate and have no body openings
+    â€“ instead they exchange materials through pores
+-   Cnidaria and platyhelminths have a singular body opening, leading to
+    a saccular digestive system
+-   All other specified phyla have two body openings (i.e. a separate
+    mouth and anus), resulting in a tubular digestive system
+-   Having two body openings allows for specialisation of digestive
+    processes as food is travelling in a single direction
+
+Platyhelminth â€“ Saccular Digestive System
+
+[platyhelminth]
+
+Body Segmentation
+
+-   Segmentation of body parts allows for the specialisation of function
+    in these different areas
+-   Organisms with more basic body plans (including porifera, cnidaria
+    and platyhelminths) lack distinctive body segmentation
+-   Organisms with more developed body plans have segmented bodies (e.g.
+    annelids, mollusca, arthropoda, chordata)
+-   Sometimes body segmentation may not be clearly visible â€“ all
+    molluscs have a mantle, visceral mass and muscular foot but these
+    segments may not be readily apparent through visual inspection
+
+Body Segments in Mollusca
+
+[body segments]
+
+Chordates
+
+-   All chordates share four key features: a notochord, a hollow dorsal
+    nerve tube, pharyngeal slits and a postanal tail
+-   These features are always present in an embryonic state, but might
+    not always persist into adulthood
+-   In vertebrates (a sub-phyla), the notochord is largely replaced and
+    surrounded by vertebra, forming a backbone
+
+Chordate Features
+
+[chordate features]

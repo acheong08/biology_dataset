@@ -1,0 +1,25 @@
+Types of RNA
+
+RNA functions to transfer genetic instructions from the nucleus to the
+cytoplasm, where the information is decoded
+
+There are three main types of RNA which cooperate to complete this goal:
+
+-   Messenger RNAÂ (mRNA)Â â€“ a transcript copy of a gene which encodes
+    a specific polypeptide
+-   Transfer RNAÂ (tRNA)Â â€“ carries the polypeptide subunits (amino
+    acids) to the organelle responsible for synthesis (ribosome)
+-   Ribosomal RNAÂ (rRNA)Â â€“ a primary component of the ribosome and
+    is responsible for its catalytic activity
+
+Additionally, cells may produce other variants of non-coding RNA to
+support and regulate the expression of genes:
+
+-   Small nuclear RNA (snRNA) â€“ a component of the spliceosome
+    (involved in splicing of introns)
+-   Short interfering RNA (siRNA) â€“ moderates gene expression levels
+    via RNA interference (RNAi)
+
+Three Main Types of RNA
+
+[]

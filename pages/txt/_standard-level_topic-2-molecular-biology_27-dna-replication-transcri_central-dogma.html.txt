@@ -1,0 +1,23 @@
+Central Dogma
+
+The central dogma of molecular biology explains the flow of genetic
+information within a cell
+
+-   DNA codes for RNA via the process of transcription (occurs within
+    the nucleus)
+-   RNA codes for protein via the process of translation (occurs at the
+    ribosomes)
+
+This information flow was always considered to be uni-directional:
+Â DNAÂ â†’ RNAÂ â†’ Protein
+However in 1970 it was discovered that retroviruses could copy DNA from
+an RNA sequence
+
+-   These viruses possess an enzyme (reverse transcriptase) that allows
+    for reverse transcription to occur
+-   Reverse transcription is now commonly used in scientific studies to
+    establish gene expression profiles
+
+The Central Dogma of Molecular Biology
+
+[central dogma]

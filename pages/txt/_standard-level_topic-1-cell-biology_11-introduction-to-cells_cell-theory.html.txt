@@ -1,0 +1,59 @@
+Cell Theory
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â According to the cell theory, living organisms are composed of
+cells
+
+Â  Â Â 
+Principles of the Cell Theory
+
+The cell theory states that:
+
+1. Â All living things are composed of cells (or cell products)
+
+2. Â The cell is the smallest unit of life
+
+3. Â Cells only arise from pre-existing cells
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Questioning the cell theory using atypical examples (striated
+muscle, giant algae, aseptate hyphae)
+
+Â  Â Â 
+Caveats to the Cell Theory
+
+Certain types of cells / tissues do not conform to a standard notion of
+what constitutes a cell:
+
+-   Striated muscle fibres:
+    -   Muscle cells fuse to form fibres that may be very long (>300mm)
+    -   Consequently, they have multiple nuclei despite being surrounded
+        by a single, continuous plasma membrane
+    -   Challenges the idea that cells always function as autonomous
+        units
+-   Aseptate fungal hyphae:
+    -   Fungi may have filamentous structures called hyphae, which are
+        separated into cells by internal walls called septa
+    -   Some fungi are not partitioned by septa and hence have a
+        continuous cytoplasm along the length of the hyphae
+    -   Challenges the idea that living structures are composed of
+        discrete cells
+-   Giant Algae
+    -   Certain species of unicellular algae may grow to very large
+        sizes (e.g. Acetabularia may exceed 7 cm in length)
+    -   Challenges the idea that larger organisms are always made of
+        many microscopic cells
+
+[cell theory exceptions]

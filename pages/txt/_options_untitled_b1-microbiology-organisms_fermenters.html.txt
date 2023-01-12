@@ -1,0 +1,98 @@
+Fermenters
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Microorganisms are used in industry because they are small and
+have a fast growth rate
+
+â€¢ Â Microorganisms in fermenters become limited by their own waste
+products
+
+Â  Â Â 
+Microorganisms are used in industry to produce a range of chemical
+compounds, enzymes and drugs â€“ this is because:
+
+-   They are small and so can be grown economically in fermenters on
+    either solid or liquid media
+-   They have a fast growth rate and so can produce large yields in
+    short periods of time
+-   They can be genetically modified with relative ease to synthesise
+    non-natural products of interest
+-   May be able to tolerate unusual growth conditions (e.g.
+    extremophiles can grow in high temperatures or acidic conditions)
+
+When grown in fermenters, microorganism rate of growth will eventually
+become limited by metabolic waste products
+
+-   The fermentation reaction can be periodically halted to replenish
+    nutrients and remove wastes (batch culture)
+-   Alternatively, nutrient and waste levels can be dynamically adjusted
+    to maintain the reaction indefinitely (continuous culture)
+
+Microorganism Growth Rate (Fixed Container)
+
+[bacterial growth]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Fermenters allow large-scale production of metabolites by
+microorganisms
+
+Â  Â Â 
+A fermenter is an enclosed and sterilised vessel that maintains optimal
+conditions for the growth of a microorganism
+
+-   The microorganism undergoes fermentation to produce large quantities
+    of a desired metabolite for commercial use
+
+Product can be collected from a fermenter after a fixed amount of time
+(batch cultivation) or ongoing (continuous cultivation)
+
+-   In batch cultivation, the microorganism goes through all the stages
+    of growth prior to the collection of product
+-   In continuous cultivation, the microorganism is maintained at a peak
+    rate of growth (exponential phase)
+
+Diagram of a Standard Fermenter
+
+[fermenter]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Probes are used to monitor conditions within fermenters
+
+â€¢ Â Conditions are maintained at optimal levels for the growth of the
+microorganism being cultured
+
+Â  Â Â 
+Probes and sensors are used to monitor condtions within the fermenter in
+order to maintain optimal levels of microbial growth
+
+-   Motorised stirring paddles function to distribute heat and materials
+    evenly within the reaction chamber
+-   An external water jacket can be used to absorb excess heat and
+    maintain a constant viable temperature
+-   An aerator can introduced compressed air into the chamber, while a
+    defoamer can hinder the formation of foamÂ 
+-   Acid/base inlets allow for the regulation of pH levels within the
+    chamber (formation of product may alter pH)
+-   Nutrient inlets and exhaust outlets allow for the introduction of
+    sugars or the removal of metabolic wastes
+
+The necessary adjustments required for continued growth may differ
+between batch cultivation and continuous cultivation
+
+-   In both cases, conditions within the fermenter must remain aseptic
+    to prevent contamination of the microorganism

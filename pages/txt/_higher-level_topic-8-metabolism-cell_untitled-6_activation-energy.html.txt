@@ -1,0 +1,48 @@
+Activation Energy
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Enzymes lower the activation energy of the chemical reactions that
+they catalyse
+
+Â  Â Â 
+Every chemical reaction requires a certain amount of energy in order to
+proceed â€“ this is the activation energy (E_(A))
+
+-   Enzymes speed up the rate of a biochemical reaction by lowering the
+    activation energy
+-   When an enzyme binds to a substrate it stresses and destabilises the
+    bonds in the substrate
+-   This reduces the overall energy level of the substrateâ€™s
+    transitionary state, meaning less energy is needed to convert it
+    into a product and the reaction proceeds at a faster rate
+
+Activation Energy
+
+[activation energy]
+
+Types of Enzymatic Reactions
+
+If the reactants contain more energy than the products, the free energy
+is released into the system (exergonic)
+
+-   These reactions are usually catabolic (breaking down), as energy is
+    released from broken bonds within a molecule
+
+If the reactants contain less energy than the products, free energy is
+lost to the system (endergonic)
+
+-   These reactions are usually anabolic (building up), as energy is
+    required to synthesise bonds between molecules
+
+Reaction Pathways of an Exergonic and Endergonic Process
+
+[exergonic vs endergonic]

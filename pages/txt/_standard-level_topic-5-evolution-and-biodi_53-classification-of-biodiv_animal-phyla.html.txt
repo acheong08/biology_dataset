@@ -1,0 +1,106 @@
+Animal Phyla
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Recognition features of porifera, cnidaria,Â platyhelmintha,
+annelida, mollusca, arthropoda and chordata
+
+Â  Â Â 
+The kingdom Animalia can be sub-divided into two main groups â€“
+invertebrates (no backbone) and vertebrates (most chordata)
+
+-   Examples of invertebrate phyla include porifera,
+    cnidaria,Â platyhelmintha, annelida, mollusca and arthropoda
+-   All vertebrates belong to the phylum chordata â€“ however not all
+    chordata are vertebrates (e.g. invertebrate sea squirts)
+-   These phyla can be differentiated according to a few key recognition
+    features
+
+[porifera icon]
+
+Porifera
+
+-   No body symmetry (asymmetrical)
+-   No mouth or anus (have pores to facilitate the circulation of
+    material)
+-   May have silica or calcium carbonate based spicules for structural
+    support
+-   Examples include sea sponges
+
+[cnidaria icon]
+
+Cnidaria
+
+-   Have radial symmetry
+-   Have a mouth but no anus (single entrance body cavity)
+-   May have tentacles with stinging cells for capturing and disabling
+    prey
+-   Examples include jellyfish, sea anemones and coral
+
+[platyhelminth icon]
+
+Platyhelmintha
+
+-   Have bilateral symmetry
+-   Have a mouth but no anus (single entrance body cavity)
+-   Have a flattened body shape to increase SA:Vol ratio and may be
+    parasitic
+-   Examples include tapeworms and planaria
+
+[annelid icon]
+
+Annelida
+
+-   Have bilateral symmetry
+-   Have a separate mouth and anus
+-   Body composed of ringed segments with specialisation of segments
+-   Examples include earthworms and leeches
+
+[mollusc icon]
+
+Mollusca
+
+-   Have bilaterial symmetry
+-   Have a separate mouth and anus
+-   Body composed of a visceral mass, a muscular foot and a mantle (may
+    produce shell)
+-   Examples include snails, slugs, octopi, squid and bivalves (e.g.
+    clams)
+
+[arthropod icon]
+
+Arthropoda
+
+-   Have bilateral symmetry
+-   Have a separate mouth and anus
+-   Have jointed body sections / appendages and have a hard exoskeleton
+    (chitin)
+-   Examples include insects, crustaceans, spiders, scorpions and
+    centipedes
+
+[chordate icon]
+
+Chordata
+
+-   Have bilateral symmetry
+-   Have a separate mouth and anus
+-   Have a notochord and a hollow, dorsal nerve tube for at least some
+    period of their life cycle
+-   Examples include mammals, birds, reptiles, amphibians and fish (also
+    invertebrate seaÂ squirts)
+
+Invertebrate Phyla Recognition Features:
+
+[invertebrate phyla table]
+
+Overview of Invertebrate Phyla
+
+[invertebrate phyla]

@@ -1,0 +1,50 @@
+Mitotic Index
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Determination of a mitotic index from a micrograph
+
+Â  Â Â 
+The mitotic index is a measure of the proliferation status of a cell
+population (i.e. the proportion of dividing cells)Â 
+
+The mitotic index may be elevated during processes that promote
+division, such as normal growth or cellular repair
+
+-   It also functions as an important prognostic tool for predicting the
+    response of cancer cells to chemotherapy
+
+Identifying Mitotic Cells
+
+Cells undergoing mitosis will lack a clearly defined nucleus and possess
+visibly condensed chromosomes
+
+-   Prophase â€“ Chromosomes condensed but still confined to a nuclear
+    region
+-   Metaphase â€“ Chromosomes aligned along the equator of the cell
+-   Anaphase â€“ Two distinct clusters of chromosomes apparent at poles
+    of the cell
+-   Telophase â€“ Two nuclear regions present within a single cell
+    (difficult to see as cytokinesis occurs concurrently)
+
+[stages of mitosis]
+
+Calculating Mitotic Index
+
+The mitotic index is the ratio between the number of cells in mitosis
+and the total number of cells
+
+It can be determined by analysing micrographs and counting the relative
+number of mitotic cells versus non-dividing cells
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the image to show / hide calculation results

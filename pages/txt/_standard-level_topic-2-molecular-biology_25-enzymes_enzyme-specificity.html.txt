@@ -1,0 +1,32 @@
+Enzyme Specificity
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Enzymes can be denatured
+
+Â  Â Â 
+All enzymes possess an indentation or cavity to which the substrate can
+bind with high specificity â€“ this is the active site
+
+-   The shape and chemical properties of the active site are highly
+    dependent on the tertiary structure of the enzyme
+
+Like all proteins, enzyme structure can be modified by external factors
+such as high temperatures and extreme pH
+
+-   These factors disrupt the chemical bonds which are necessary to
+    maintain the tertiary structure of the enzyme
+-   Any change to the structure of the active site (denaturation) will
+    negatively affect the enzymeâ€™s capacity to bind the substrate
+
+Effect of Denaturation on Enzyme Activity
+
+[enzyme denaturation]

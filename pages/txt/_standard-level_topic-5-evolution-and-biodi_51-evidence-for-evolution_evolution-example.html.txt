@@ -1,0 +1,45 @@
+Evolution Example
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Development of melanistic insects in polluted areas
+
+Â  Â Â 
+Peppered moths (Biston betularia) exist in two distinct polymorphic
+forms â€“ a light colouration and a darker melanic variant
+
+-   In an unpolluted environment, the trees are covered by a
+    pale-coloured lichen, which provides camouflage for the lighter moth
+-   In a polluted environment, sulphur dioxide kills the lichen while
+    soot blackens the bark, providing camouflage for the dark moth
+
+Peppered Moth Variants (Light vs Dark Colouration)
+
+[peppered moth]
+
+The frequency of the two different forms of peppered moth is dependent
+on the environment and evolves as conditions change
+
+-   Before the industrial revolution, the environment was largely
+    unpolluted and the lighter moth had a survival advantage
+-   Following the industrial revolution, the environment became heavily
+    polluted, conferring a survival advantage to the darker moth
+-   Recent environmental policies in Europe are reducing pollution
+    levels, altering the frequency of the two populations once again
+
+Evolution of the Peppered Moth in a Polluted Environment
+
+[peppered moth graph]
+
+Graph represents the findings of a 1953 study by Bernard Kettlewell
+comparing peppered moth populations in polluted and non-polluted regions
+
+Link:Â Â Peppered Moth Simulation

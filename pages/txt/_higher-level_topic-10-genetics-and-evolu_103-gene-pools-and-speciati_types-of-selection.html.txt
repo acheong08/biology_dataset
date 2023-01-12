@@ -1,0 +1,63 @@
+Types of Selection
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Identifying examples of directional, stabilising and disruptive
+selection
+
+Â  Â Â 
+Natural selection is the change in the composition of a gene pool in
+response to a differentially selective environmental pressure
+
+-   The frequency of one particular phenotype in relation to another
+    will be a product of the type of selection that is occurring
+
+Stabilising Selection
+
+-   Where an intermediate phenotype is favoured at the expense of both
+    phenotypic extremes
+-   This results in the removal of extreme phenotypes (phenotypic
+    distribution becomes centrally clustered to reflect homogeneity)
+-   Operates when environmental conditions are stable and competition is
+    low
+-   An example of stabilising selection is human birth weights (too
+    large = birthing complications ; too small = risk of infant
+    mortality)
+
+Directional Selection
+
+-   Where one phenotypic extreme is selected at the cost of the other
+    phenotypic extreme
+-   This causes the phenotypic distribution to clearly shift in one
+    direction (towards the beneficial extreme)
+-   Operates in response to gradual or sustained changes in
+    environmental conditions
+-   Directional selection will typically be followed by stabilising
+    selection once an optimal phenotype has been normalised
+-   An example of directional selection is the development of antibiotic
+    resistance in bacterial populations
+
+Disruptive Selection
+
+-   Where both phenotypic extremes are favoured at the expense of the
+    intermediate phenotypic ranges
+-   This causes the phenotypic distribution to deviate from the centre
+    and results in a bimodal spread
+-   This occurs when fluctuating environmental conditions (e.g. seasons)
+    favour the presence of two different phenotypes
+-   Continued separation of phenotypic variants may eventually split the
+    population into two distinct sub-populations (speciation)
+-   An example of disruptive selection is the proliferation of black or
+    white moths in regions ofÂ sharply contrasting colour extremes
+
+Types of Selection â€“ Stabilising, Directional and Disruptive
+
+[types of selection]

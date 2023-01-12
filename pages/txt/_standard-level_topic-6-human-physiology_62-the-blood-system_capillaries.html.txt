@@ -1,0 +1,84 @@
+Capillaries
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Capillaries have permeable walls that allow exchange of material
+between cells in tissues and blood in capillaries
+
+Â  Â Â 
+Structure and Function
+
+The function of capillaries is to exchange materials between the cells
+in tissues and blood travelling at low pressure (<10mmHg)
+
+-   Arteries split into arterioles which in turn split into capillaries,
+    decreasing arterial pressure as total vessel volume is increased
+-   The branching of arteries into capillaries therefore ensures blood
+    is moving slowly and all cells are located near a blood supply
+-   After material exchange has occurred, capillaries will pool into
+    venules which will in turn collate into larger veins
+
+Capillaries have specialised structures in order to accomplish their
+task of material exchange:
+
+-   They have a very small diameter (~ 5 Âµm wide) which allows passage
+    of only a single red blood cell at a time (optimal exchange)
+-   The capillary wall is made of a single layer of cells to minimise
+    the diffusion distance for permeable materials
+-   They are surrounded by a basement membrane which is permeable to
+    necessary materials
+-   They may contain pores to further aid in the transport of materials
+    between tissue fluid and blood
+
+Capillaries structure may vary depending on its location in the body and
+specific role:
+
+-   The capillary wall may be continuous with endothelial cells held
+    together by tight junctions to limit permeability of large molecules
+-   In tissues specialised for absorption (e.g. intestines, kidneys),
+    the capillary wall may be fenestrated (contains pores)
+-   Some capillaries are sinusoidal and have open spaces between cells
+    and be permeable to large molcules and cells (e.g. in liver)
+
+Capillary Structure
+
+[capillaries]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Blood flows through tissues in capillaries
+
+Â  Â Â 
+Flow of Blood
+
+Blood flows through the capillaries very slowly and at a very low
+pressure in order to allow for maximal material exchange
+
+-   The high blood pressure in arteries is dissapated by extensive
+    branching of the vessels and the narrowing of the lumen
+
+The higher hydrostatic pressure at the arteriole end of the capillary
+forces material from the bloodstream into the tissue fluid
+
+-   Material that exits the capillaries at body tissues include oxygen
+    and nutrients (needed by the cells for respiration)
+
+The lower hydrostatic pressure at the venule end of the capillary allows
+materials from the tissues to enter the bloodstream
+
+-   Materials that enters the capillaries at body tissues include carbon
+    dioxide and urea (wastes produced by the cells)
+
+Material Exchange in the Capillaries
+
+[capillary exchange]

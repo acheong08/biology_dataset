@@ -1,0 +1,102 @@
+Linked Genes
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Gene loci are said to be linked if on the same chromosome
+
+Â  Â Â 
+A linkage group is a group of genes whose loci are on the same
+chromosome and hence donâ€™t independently assort
+
+-   Linked genes will tend to be inherited together and hence donâ€™t
+    follow normal Mendelian inheritance for a dihybrid cross
+-   Instead the phenotypic ratio will be more closely aligned to a
+    monohybrid cross as the two genes are inherited as a single unit
+-   Linked genes may become separated via recombination (due to crossing
+    over during synapsis in meiosis I)
+
+[linkage symbols]
+
+Unlinked versus Linked Inheritance Patterns
+
+[unlinked vs linked]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Morganâ€™s discovery of non-Mendelian ratios in Drosophila
+
+Â  Â Â 
+Thomas Hunt Morgan provided a key contribution to our current
+understanding of gene linkage by discovering non-Mendelian ratios in
+Drosophila melanogaster (fruit flies)
+
+-   His breeding experiments involving fruit flies clearly demonstrated
+    that linked genes were not independently assorted
+
+Sex Linkage
+
+When cross-breeding red-eyed wild types with white-eyed mutants, he
+discovered a clear sex bias in phenotypic distribution
+
+-   All female offspring of a red-eyed male were red-eyed, whereas all
+    male offspring of a white-eyed female were also white-eyed
+-   Morgan described this distribution as 'sex-limitedâ€™Â inheritance
+    and inferred it was caused by the gene for eye colour being located
+    on a sex chromosome (i.e. X-linked)
+
+Morgan's Discovery of Sex Linkage in Drosophila
+
+[sex linked flies]
+
+Gene Linkage
+
+Morgan went on to identify a number of different traits in fruit flies
+that did not conform to Mendelian ratios
+
+-   Certain phenotypic combinations occurred in much lower frequencies
+    than was to be expected
+
+Based on this data, Morgan made two key proposals:
+
+-   The alleles for these traits were located on a shared chromosome
+    (gene linkage) and hence did not independently assort
+-   Linked alleles could be uncoupled via recombination (crossing over)
+    to create alternative phenotypic combinations, but these new
+    phenotypes would occur at a much lower frequency
+
+Morgan also observed that the amount of crossing over between linked
+genes differed depending on the combination of traits
+
+-   This led to the idea that crossover frequency may be a product of
+    the distance between two genes on a chromosome â€“Â genes with a
+    higher crossover frequency are further apart, whereas genes with a
+    lower crossover frequency are closer together
+-   Morgan used this concept to develop the first gene linkage maps that
+    showed the relative positions of genes on a chromosome
+
+Gene Linkage and Recombination Frequencies
+
+[]
+      Crossover Site:                 None                 One
+                 Two                  Three                  Four
+
+From the above diagrams it can be seen that:Â 
+
+-   LongÂ aristae and red eyes are more likely to be separated via
+    recombination (high crossover frequency)
+-   Long aristae and long legs are less likely to be separated via
+    recombination (low crossover frequency)Â 
+
+This indicates that the aristae and leg genes are located closer
+together, whereas the eye gene is more distant
+Link: Â Fruit Fly Genetics

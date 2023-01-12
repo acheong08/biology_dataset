@@ -1,0 +1,38 @@
+BioNinja App
+
+[bioninja app]
+
+The BioNinja App for iOS devices (iPads and iPhones) is now complete!
+
+It can be found on the iTunes Store:Â Click here
+
+-   If you like it, please give it a positive review!
+-   If you donâ€™t like it, shut up! (seriously, itâ€™s free - so
+    donâ€™t be a troll)
+
+Please Note:Â Be sure toÂ refreshÂ the app the first time you load it
+(to update to latest version)
+
+-   External assets (e.g. songs and animations) will not work until the
+    app has been refreshed
+
+More Information:
+
+-   I had to really rush the process in order to get the app released
+    before the May 2018 exams
+-   Unless there is something seriously wrong, I donâ€™t plan on fixing
+    any of the quirks (too hard!)
+-   If there are any issues, please just send me an email rather than
+    posting a bad review
+-   Please be aware that the songs and animations may not work on really
+    old devices
+-   Also, the sound wonâ€™t work if the phone is set to silent / vibrate
+    (you need toÂ unmuteÂ it)
+
+Attention: Android Users
+
+I am trying to get an Android version completed as well, but Iâ€™m not
+exactly a tech expert and am having some issues
+
+-   If anyone is proficient at coding and wants to give it a go (for
+    free - Iâ€™m not paying for a free app!) - contact me!

@@ -1,0 +1,17 @@
+Mosaicism
+
+Mosaicism describes the presence of two populations of cells with
+distinct genotypes within a single organism
+
+-   It is caused when either mutation or division error creates two
+    distinct cell types which divide into separate cell lines
+
+Mosaicism is more pronounced when errors occur in early embryo
+development and thus affects a greater proportion of cells
+
+-   X-inactivation in mammals creates a mosaic of genotypes linked to
+    the X chromosome only, and hence is not true mosaicism
+
+Mosaicism
+
+[mosaicism]

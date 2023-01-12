@@ -1,0 +1,83 @@
+Modelling Digestion
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of dialysis tubing to model absorption of digested foods in
+the intestine
+
+Â  Â Â 
+Most food is solid and in the form of large complex molecules which are
+insolube and chemically inert (not readily usable)
+
+The process of digestion therefore performs two key functions:
+
+-   It breaks down insoluble molecules into smaller subunits which can
+    be readily absorbed into body tissues
+-   It breaks down inert molecules into usable subunits which can be
+    assimilated by cells and reassembled into new products
+
+Modelling Digestion
+
+A core function of the digestive system is to break down large molecules
+into smaller subunits that can be absorbed by cells
+
+-   Cell membranes are impermeable to large molecules (polypeptides,
+    polysaccharides) unless transport is facilitated by proteins
+
+The size-specific permeability of cell membranes can be modelled using
+dialysis tubing (Visking tubing)
+
+-   Dialysis tubing contains pores typically ranging from 1 - 10 nm in
+    diameter and is semi-permeable according to molecular size
+-   Large molecules such as starch cannot pass through the tubing,
+    however smaller molecules (such as maltose) can cross
+-   Unlike the membranes of living cells, dialysis tubing is not
+    selectively permeable based on charge (ions can freely cross)
+
+Dialysis Tubing
+
+[dialysis tubing]
+
+Digestion Experiments
+
+Digestive enzymes like amylase can break down inpermeable polymers
+(starch) into permeable subunits (maltose)
+
+-   Dialysis tubing is impermeable to amylase and starch, but permeable
+    to maltose (and water)
+
+Experiment 1: Â Measuring Meniscus Levels
+
+-   A length of dialysis tubing is attached to a thistle funnel and
+    filled with starch solution (control condition)
+-   A second length of tubing is attached to a thistle funnel and filled
+    with starch and amylase solution (experimental condition)
+-   Both apparatuses are placed in a beaker filled with water
+-   Over time, water will move into the tubing via osmosis (towards the
+    solute) causing the meniscus level to rise
+-   The tube with amylase will have less solute (as starch is digested)
+    and hence the meniscus level should not rise as much
+
+Experiment 2: Â Measuring Maltose Diffusion
+
+-   A length of dialysis tubing is filled with starch solution and
+    suspended in a beaker of water (control condition)
+-   A second length of tubing is filled with starch and amylase solution
+    and suspended in a beaker of water (experimental condition)
+-   The amylase will digest the starch into maltose, which is small
+    enough to diffuse out of the tubing and into the beaker
+-   The presence of maltose can be detected using Benedictâ€™s reagent
+    or glucose indicator strips
+
+Using Dialysis Tubing to Model Digestive Processes (Starch Breakdown and
+Maltose Absorption)
+
+[digestion experiments]

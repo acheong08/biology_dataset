@@ -1,0 +1,65 @@
+Bulk Transport
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The fluidity of membranes allows materials to be taken into cells
+by endocytosis or released by exocytosisÂ 
+
+Â  Â Â 
+The membrane is principally held together by weak hydrophobic
+associations between the fatty acid tails of phospholipids
+
+This weak association allows for membrane fluidity and flexibility, as
+the phospholipids can move around to some extent
+
+This allows for the spontaneous breaking and reforming of the bilayer,
+allowing larger materials to enter or leave the cell without having to
+cross the membrane (this is an active process and requires ATP
+hydrolysis)
+
+[cytosis]
+
+Endocytosis
+
+The process by which large substances (or bulk amounts of smaller
+substances) enter the cell without crossing the membrane
+
+-   An invagination of the membrane forms a flask-like depression which
+    envelopes the extracellular material
+-   The invagination is then sealed off to form an intracellular vesicle
+    containing the material
+
+There are two main types of endocytosis:
+
+-   Phagocytosis â€“ The process by which solid substances are ingested
+    (usually to be transported to the lysosome)
+-   Pinocytosis â€“ The process by which liquids / dissolved substances
+    are ingested (allows faster entry than via protein channels)Â 
+
+Endocytosis via an Electron Microscope
+
+[endocytosis EM]
+
+Exocytosis
+
+The process by which large substances (or bulk amounts of small
+substances) exit the cell without crossing the membrane
+
+-   Vesicles (typically derived from the Golgi) fuse with the plasma
+    membrane, expelling their contents into the extracellular
+    environment
+-   The process of exocytosis adds vesicular phospholipids to the cell
+    membrane, replacing those lost when vesicles are formed via
+    endocytosis
+
+Process of Exocytosis
+
+[exocytosis]

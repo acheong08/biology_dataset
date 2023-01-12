@@ -1,0 +1,35 @@
+Gene Editing
+
+Gene editing involves the insertion, removal or replacement of DNA
+within the genome of a living organism
+
+-   The most precise, efficient and flexible method of gene editing
+    currently available involves the CRISPR editing system
+
+CRISPR is a short sequence of DNA which functions as a target for
+CRISPR-associated nucleases (Cas nuclease)
+
+-   CRISPR stands forÂ â€˜clustered regularly interspaced short
+    palindromic repeatsâ€™
+-   CRISPR provides bacterial immunity to viruses by flanking viral DNA
+    sequences that have been integrated into the genome
+-   The viral DNA isÂ transcribedÂ into an RNA sequence that â€“ via
+    CRISPR â€“ associates with a Cas nuclease
+-   The viral RNA andÂ Cas nuclease drift throughout the cell until the
+    viral RNA identifies and binds to complementary viral DNA
+-   This enables the Cas nuclease to target and destroy the viral DNA
+    sequence, preventing infection
+
+The CRISPR / Cas system has been modified to selectively remove any
+targeted sequence, allowing for precise gene editing
+
+-   TheÂ Cas protein is complexed with a synthetically derived guide RNA
+    molecule that is complementary to a target sequence
+-   The guide RNA will bind to the target sequence, prompting its
+    excision by the Cas nuclease
+-   Following the removal of the target sequence, another sequence of
+    DNA can be integrated in its place (gene editing)
+
+Gene Editing via the CRISPR / Cas System
+
+[gene editing]

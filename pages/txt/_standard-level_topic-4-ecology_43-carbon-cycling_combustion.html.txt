@@ -1,0 +1,63 @@
+Combustion
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Carbon dioxide is produced by the combustion of biomass and
+fossilised organic matter
+
+Â  Â Â 
+
+[carbon combustion]
+
+When organic compounds rich in hydrocarbons are heated in the presence
+of oxygen, they undergo a combustion reaction
+
+-   This reaction is exergonic (produces energy) and releases carbon
+    dioxide and water as by-products
+-   The carbon dioxide is typically released into the atmosphere,
+    increasing the concentration of the gas in the air
+
+Example: Combustion of Propane Â = Â C₃H₈ + 5 O₂Â Â â†’Â Â 3 CO₂ + 4
+H₂O + energy
+
+Complete Combustion of a Hydrocarbon
+
+[combustion]
+
+Combustion Sources
+
+1. Â Fossil Fuels
+
+Organic compounds can become rich in hydrocarbons when compacted
+underground for millions of years
+
+-   The heat and pressure over time triggers a chemical transformation
+    that results in the compaction of the organic matter
+-   The resulting products of this process are fossil fuels (coal, oil
+    and natural gas)
+-   Because this geological process takes millions of years to occur,
+    fossil fuels are a non-renewable energy source
+
+2. Â Biomass
+
+An alternative to relying on fuels produced by geological processes is
+to manufacture fuels from biological processes
+
+-   Living organisms produce hydrocarbons as part of their total biomass
+    (either for use or as a waste product)
+-   These hydrocarbons can be extracted and purified to produce an
+    alternative fuel source (e.g. bioethanol and biodiesel)
+-   Provided new raw materials are provided and waste products are
+    removed, this source of energy is renewable
+
+Producing Renewable Energy From Biomass
+
+[biodiesel]

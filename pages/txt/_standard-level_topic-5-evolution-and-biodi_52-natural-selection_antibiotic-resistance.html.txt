@@ -1,0 +1,53 @@
+Antibiotic Resistance
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Evolution of antibiotic resistance in bacteria
+
+Â  Â Â 
+Antibiotics are chemicals produced by microbes that either kill
+(bactericidal) or inhibit the growth (bacteriostatic) of bacteria
+
+-   Antibiotics are commonly used by man as a treatment for bacterial
+    infections (not effective against viral infections)
+
+In a bacterial colony, over many generations, a small proportion of
+bacteria may develop antibiotic resistance via gene mutation
+
+-   When treated with antibiotics, the resistant bacteria will survive
+    and reproduce by binary fission (asexual reproduction)
+-   The antibiotic resistant bacteria will flourish in the absence of
+    competition from other strains of bacteria (killed by antibiotic)
+-   Antibiotic resistant bacteria may also confer resistance to
+    susceptible strains by transferring plasmids via bacterial
+    conjugation
+-   The introduction of antibiotic (selection pressure) has caused the
+    antibiotic resistance gene to become more frequent (evolution)
+
+An example of antibiotic resistance in bacteria can be seen in the
+evolution of Staphylococcus aureus (Golden staph)
+
+-   Golden staph can cause infections to the skin (lesions and boils) as
+    well as more serious infections (pneumonia, meningitis)
+-   Historically, these infections were treated using the antibiotic
+    methicillinÂ 
+-   Bacterial strains developed that were resistant to this antibiotic
+    (methicillin-resistant Staphylococcus aureus â€“ or MRSA)
+-   These strains proliferated whileÂ susceptible strains died
+    outÂ (methicillin-sensitiveÂ Staphylococcus aureusÂ â€“ or MSSA)
+-   MRSA infections are now especially present in hospitals and nursing
+    homes, where the use of methicillin was most common
+-   Medical practitioners now prescribe alternate antibiotic agents to
+    treat infections caused by Staphylococcus aureus
+
+Antibiotic Resistance in Bacteria
+
+[antibiotic resistance]

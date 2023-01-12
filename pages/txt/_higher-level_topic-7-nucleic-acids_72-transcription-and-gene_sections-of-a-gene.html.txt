@@ -1,0 +1,70 @@
+Sections of a Gene
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â The promoter as an example of non-coding DNA with a function
+
+Â  Â Â 
+A gene is a sequence of DNA which is transcribed into RNA and contains
+three main parts:
+
+Promoter
+
+-   The non-coding sequence responsible for the initiation of
+    transcription
+-   The core promoter is typically located immediately upstream of the
+    geneâ€™s coding sequence
+-   The promoter functions as a binding site for RNA polymerase (the
+    enzyme responsible for transcription)
+-   The binding of RNA polymerase to the promoter is mediated and
+    controlled by an array of transcription factors in eukaryotes
+-   These transcription factors bind to either proximal control elements
+    (near the promoter) or distal control elements (at a distance)
+
+Coding Sequence
+
+-   After RNA polymerase has bound to the promoter, it causes the DNA
+    strands to unwind and separate
+-   The region of DNA that is transcribed by RNA polymerase is called
+    the coding sequence
+
+Terminator
+
+-   RNA polymerase will continue to transcribe the DNA until it reaches
+    a terminator sequence
+-   The mechanism for transcriptional termination differs between
+    prokaryotes and eukaryotes
+
+Sections of a Gene
+
+[sections of a gene]
+
+Antisense vs Sense
+
+A gene (DNA) consists of two polynucleotide strands, but only one is
+transcribed into RNA
+
+-   TheÂ antisense strand is the strand that is transcribed into RNA
+    -   Its sequence is complementary to the RNA sequence and will be
+        the "DNA versionâ€?Â of the tRNA anticodon sequence
+    -   The antisense strand is also referred to as the template strand
+-   The sense strand is the strand that is not transcribed into RNA
+    -   Its sequence will be theÂ â€œDNA versionâ€?Â of the RNA sequence
+        (i.e. identical except for T instead of U)
+    -   The sense strand is also referred to as the coding strand
+        (because it is a DNA copy of the RNA sequence)
+
+Either of the 2 polynucleotide strands may contain a gene, and hence the
+determination of sense and antisense is gene specific
+
+Antisense vs Sense Strands
+
+[sense vs antisense]

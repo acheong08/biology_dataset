@@ -1,0 +1,70 @@
+Insulin and Glucagon
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Insulin and glucagon are released byÂ Î² andÂ Î±Â cells of the
+pancreas to control blood glucose concentration
+
+Â  Â Â 
+The body needs glucose to make ATP (via cell respiration), however the
+amount required will fluctuate according to demand
+
+-   High levels of glucose in the blood can damage cells (creates
+    hypertonicity) and hence glucose levels must be regulated
+
+Two antagonistic hormones are responsible for regulating blood glucose
+concentrations â€“ insulin and glucagon
+
+-   These hormones are released from pancreatic pits (called the islets
+    of Langerhans) and act principally on the liver
+
+When blood glucose levels are high (e.g. after feeding):
+
+-   Insulin is released from beta (Î²) cells of the pancreas and cause a
+    decrease in blood glucose concentration
+-   This may involve stimulating glycogen synthesis in the liver
+    (glycogenesis), promoting glucose uptake by the liver and adipose
+    tissue, or increasing the rate of glucose breakdown (by increasing
+    cell respiration rates)
+
+When blood glucose levels are low (e.g. after exercise):
+
+-   Â Glucagon is released from alpha (Î±) cells of the pancreas and
+    cause an increase in blood glucose concentration
+-   This may involve stimulating glycogen breakdown in the liver
+    (glycogenolysis), promoting glucose release by the liver and adipose
+    tissue, or decreasing the rate of glucose breakdown (by reducing
+    cell respiration rates)
+
+Regulating Blood Glucose Concentrations
+
+[blood glucose]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Causes and treatment of Type I and Type II diabetes
+
+Â  Â Â 
+Diabetes mellitus is a metabolic disorder that results from a high blood
+glucose concentration over a prolonged period
+
+-   It is caused by the body either not producing insulin (Type I) or
+    failing to respond to insulin production (Type II)
+-   It is treated with either insulin injections (Type I only) or by
+    carefully monitoring and controlling dietary intake (Type II)
+
+[IDDM vs NIDDM]
+
+Type I vs Type II Diabetes
+
+[diabetes]

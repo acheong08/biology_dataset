@@ -1,0 +1,68 @@
+Messenger RNA
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Eukaryotic cells modify mRNA after transcription
+
+Â  Â Â 
+In eukaryotes, there are three post-transcriptional events that must
+occur in order to form mature messenger RNA:
+
+Capping
+
+-   Capping involves the addition of a methyl group to the 5â€™-end of
+    the transcribed RNA
+-   The methylated cap provides protection against degradation
+    byÂ exonucleases
+-   It also allows the transcript to be recognised by the cellâ€™s
+    translational machinery (e.g. nuclear export proteins and ribosome)
+
+Polyadenylation
+
+-   Polyadenylation describes the addition of a long chain of adenine
+    nucleotidesÂ (a poly-A tail)Â to the 3â€™-end of the transcript
+-   The poly-A tail improves the stability of the RNA transcript and
+    facilitates its export from the nucleus
+
+Splicing
+
+-   Within eukaryotic genes are non-coding sequences called introns,
+    which must be removed prior to forming mature mRNA
+-   The coding regions are calledÂ exons and these are fused together
+    when introns are removed to form a continuous sequence
+-   Introns are intruding sequences whereas exons are expressing
+    sequences
+-   The process by which introns are removed is called splicing
+
+Post-Transcriptional Modifications
+
+[post transcription]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Splicing of mRNA increases the number of different proteins an
+organism can produce
+
+Â  Â Â 
+Splicing can also result in the removal ofÂ exons â€“ a process known as
+alternative splicing
+
+The selective removal of specificÂ exons will result in the formation of
+different polypeptides from a single gene sequence
+
+-   For example, a particular protein may be membrane-bound or cytosolic
+    depending on the presence of an anchoring motif
+
+Alternative Splicing
+
+[alternative splicing]

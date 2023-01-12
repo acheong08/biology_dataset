@@ -1,0 +1,71 @@
+Punnett Grids
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Construction of Punnett grids for predicting the outcome of
+monohybrid genetic crossesÂ 
+
+Â  Â Â 
+A monohybrid cross determines the allele combinations for potential
+offspring for one gene only
+
+Monohybrid crosses can be calculated according to the following steps:
+
+-   Step 1: Â Designate letters to represent alleles (dominant = capital
+    letter ; recessive = lower case ; co-dominant = superscript)
+-   Step 2: Â Write down the genotype and phenotype of the prospective
+    parents (this is the P generation)
+-   Step 3: Â Write down the genotype of the parental gametes (these
+    will be haploid and thus consist of a single allele each)
+-   Step 4: Â Draw a grid with maternal gametes along the top and
+    paternal gametes along the left (this is a Punnett grid)
+-   Step 5: Â Complete the Punnett grid to determine potential genotypes
+    and phenotypes of offspring (this is the F₁ generation)
+
+Overview of a Monohybrid Cross
+
+[punnett grid]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Comparison of predicted and actual outcomes of genetic crosses
+using real data
+
+Â  Â Â 
+The genotypic and phenotypic ratios calculated via Punnett grids are
+only probabilities and may not always reflect actual trends
+
+-   E.g. When flipping a coin there is a 50% chance of landing on heads
+    â€“ this doesnâ€™t mean you will land on heads 50% of the time
+
+When comparing predicted outcomes to actual data, larger data sets are
+more likely to yield positive correlations
+
+-   Gregor Mendel performed over 5,000 crosses as part of his pea plant
+    experiment
+-   However many statisticians believe Mendelâ€™s results are too close
+    to the exact ratios predicted to be genuine
+
+Mendelâ€™s Pea Plant Experimental Data
+
+[Mendel's data]
+
+Mendel crossed different varieties of pea plants and recorded the
+characteristics of resultant offspring
+
+-   Initially, he crossed purebred dominant and purebred recessive
+    plants in order to produce heterozygotes (F₁ generation)
+-   He then self-pollinated the heterozygotes to produce an F₂
+    generation and counted the dominant and recessive phenotypes
+-   The expected ratio of dominant : recessive phenotypes was 3 : 1 â€“
+    this ratio was supported by the experimental data

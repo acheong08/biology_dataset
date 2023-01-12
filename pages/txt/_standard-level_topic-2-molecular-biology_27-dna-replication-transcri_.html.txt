@@ -1,0 +1,45 @@
+2.7 Â DNA Replication, Transcription & Translation
+
+[big ninja]
+
+Essential Idea:
+Genetic information in DNA can be accurately copied and
+can be translated to makeÂ the proteins needed by the cell
+
+Â  Â  Â 
+Understandings:
+
+-   The replication of DNA is semi-conservative and depends on
+    complementary base pairing
+-   Helicase unwinds the double helix and separates the two strands by
+    breaking hydrogen bonds
+-   DNA polymerase links nucleotides together to form a new strand,
+    using the pre-existing strand as a template
+-   Transcription is the synthesis of mRNA copied from the DNA base
+    sequences by RNA polymerase
+-   Translation is the synthesis of polypeptides on ribosomes
+-   The amino acid sequence of polypeptides is determined by mRNA
+    according to the genetic code
+-   Codons of three bases on mRNA correspond to one amino acid in a
+    polypeptide
+-   Translation depends on complementary base pairing between codons on
+    mRNA and anticodons on tRNA
+
+Applications:
+
+-   Use of Taq DNA polymerase to produce multiple copies of DNA rapidly
+    by the polymerase chain reaction (PCR)
+-   Production of human insulin in bacteria as an example of the
+    universality of the genetic code allowing for gene transfer between
+    species
+
+Skills:
+
+-   Use a table of the genetic code to deduce which codon(s) correspond
+    to which amino acid
+-   Analysis of Meselson and Stahlâ€™s results to obtain support for the
+    theory of semi-conservative replication of DNA
+-   Use a table of mRNA codons and their corresponding amino acids to
+    deduce the sequence of amino acids coded by a short mRNA strand of
+    known base sequence
+-   Deducing the DNA base sequence for the mRNA strand

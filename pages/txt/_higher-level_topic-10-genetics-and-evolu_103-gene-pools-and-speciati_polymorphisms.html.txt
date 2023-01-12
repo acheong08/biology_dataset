@@ -1,0 +1,39 @@
+Polymorphisms
+
+A polymorphism is the occurrence of two or more clearly different
+phenotypes within the same population of a species
+
+-   Whereas alleles are the individual components of a gene,
+    polymorphisms are the individual components of a traits
+-   Consequently, polymorphisms reflect the involvement of more than one
+    allele for any given gene in the gene pool
+
+Transient Polymorphisms
+
+Occurs when there are two alleles in the gene pool and one allele is
+gradually replacing the other
+
+This is due to a strong environmental pressure causing directional
+selection to eliminate one allele from the gene pool
+
+Example: Â Light vs dark melanic variants of the peppered moth
+(direction of selection determined by environment)
+
+Transient Polymorphism â€“ Melanism in Peppered Moths
+
+[transient polymorphism]
+
+Balanced Polymorphisms
+
+Occurs when there are two alleles in the gene pool and the frequency of
+the two alleles is not changing
+
+This is due to selective pressures promoting the coexistence of two
+alleles (heterozygous advantage) via stabilising selection
+
+Example: Â Sickle cell anaemia in African nations (heterozygotes do not
+develop anaemia but have resistance to malaria)
+
+Balanced Polymorphism â€“ Heterozygous Advantage in Sickle Cell Anaemia
+
+[balanced polymorphism]

@@ -1,0 +1,49 @@
+Energy Efficiency
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Energy losses between trophic levels restrict the length of food
+chains and the biomass of higher trophic levels
+
+Â  Â Â 
+When energy transformations take place in living organisms the process
+is never 100% efficient
+
+-   Most of the energy is lost to the organism â€“ either used in
+    respiration, released as heat, excreted in faeces or unconsumed
+-   Typically energy transformations are ~10% efficient, with about 90%
+    of available energy lost between trophic levels
+-   The amount of energy transferred depends on how efficiently
+    organisms can capture and use energy (usually between 5 â€“ 20%)
+
+As energy is lost between trophic levels, higher trophic levels store
+less energy as carbon compounds and so have less biomass
+
+-   Biomass is the total mass of a group of organisms â€“ consisting of
+    the carbon compounds contained in the cells and tissues
+-   Because carbon compounds store energy, scientists can measure the
+    amount of energy added to organisms as biomass
+-   Biomass diminishes along food chains with the loss of carbon
+    dioxide, water and waste products (e.g. urea) to the environmentÂ 
+
+Because energy and biomass is lost between each level of a food chain,
+the number of potential trophic levels are limited
+
+-   Higher trophic levels receive less energy / biomass from feeding and
+    so need to eat larger quantities to obtain sufficient amounts
+-   Because higher trophic levels need to eat more, they expend more
+    energy (and biomass) hunting for food
+-   If the energy required to hunt food exceeds the energy available
+    from the food eaten, the trophic level becomes unviable
+
+Representation of Energy Flow Along a Food Chain
+
+[energy efficiency]

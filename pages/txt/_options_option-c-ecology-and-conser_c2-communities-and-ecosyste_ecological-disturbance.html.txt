@@ -1,0 +1,123 @@
+Ecological Disturbance
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Disturbance influxes the structure and rate of change within
+ecosystems
+
+Â  Â Â 
+Environmental disturbances may cause fluctuations to the structure and
+rate of change within ecosystems
+
+-   Environmental disturbances may be natural or artificial (human
+    induced) in origin
+
+Natural Disturbance
+
+A natural environmental disturbance may give rise to secondary
+succession â€“ where one ecosystem is replaced by another
+
+-   Secondary succession occurs when succession starts on existing soil
+    following the upheaval of a pre-existing ecosystem
+-   This upheaval results in the removal of existing biota and allows a
+    new ecosystem to develop on the site of the old
+-   Because the soil is already developed, dominance is usually achieved
+    by the fastest growing plants
+
+The progression of secondary succession can be summarised as follows:
+
+-   An environmental disturbance, such as a bushfire or earthquake,
+    destroys the pre-existing climax community
+-   Grasses and herbaceous plants are the first to grow back as the soil
+    is already present (no pioneer species required)
+-   Fast growing trees will develop to their fullest, while shade
+    tolerant trees will develop in the understory
+-   Eventually the fast-growing trees may be overtaken by larger,
+    slower-growing trees as the ecosystem reverts to its prior state
+
+Secondary Succession
+
+[secondary succession]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Consideration of one example how humans interfere with nutrient
+cycling
+
+Â  Â Â 
+Deforestation is the permanent destruction of a forest via the removal
+or clearance of trees
+
+-   This human-induced degradation of forests is driven primarily by a
+    need for timber and cleared land for agricultural purposes
+
+Deforestation disturbs the normal nutrient cycling within the region in
+a number of ways:
+
+-   Less trees means there is less evapotranspiration, meaning there is
+    less moisture in the air (less precipitation)
+-   Fewer trees means less litter (due to less defoliation), which
+    reduces the production of humus (so less nutrients in soil)
+-   There will be a rapid loss of nutrients from leaching, but less
+    chemical weathering of rock (due to less water in soil)
+-   The soil will become acidic and release iron and aluminium to form
+    an infertile ferrilitic soil (nutrient poor)
+-   The soil layer will become increasingly thin and easily eroded once
+    the trees have been cleared
+-   The infertile soil will prevent vegetative growth, reducing
+    biodiversity and further nutrient cycling
+-   Logging operations may also alter the distribution of plant species
+    by removing the canopy and increasing light exposure
+-   Removal of the canopy also results in an increased loss of nutrients
+    from the soil via runoff
+
+The Effect of Deforestation on Nutrient Cycling
+
+[deforestation]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Investigation into the effect of an environmental disturbance on
+an ecosystem
+
+Â  Â Â 
+Environmental disturbances are caused by natural or artificial
+disruptions to a normal ecosystem, including:
+
+-   Fire breaks inÂ bush lands or regions damaged by bushfires
+-   Outer boundaries of population settlements or regions bordering
+    roads
+-   Dams and artificial rivers and creeks (e.g. irrigation sites)
+
+The effect of an environmental disturbance on an ecosystem can be
+measured in a number of ways:
+
+-   Population density (using the Lincoln index via the
+    capture-mark-recapture technique)
+-   Species diversity and richness (using the Simpsonâ€™s reciprocal
+    index)
+-   The presence and distribution of indicator species (to measure
+    levels of pollution)
+-   Canopy coverage and relative light intensity (could measure with a
+    lux meter)
+-   Biomass (via the average width of tree stems at a specified height)
+-   Edaphic factors such as soil erosion (via depth), water retention
+    (via drainage), pH and nutrient content
+
+Measurements taken from a disturbed area need to be compared against
+measurements taken from an undisturbed control
+
+-   This enables the investigator to statistically calculate both the
+    effect and magnitude of the environmental disturbance

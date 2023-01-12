@@ -1,0 +1,36 @@
+Endangered Species
+
+An endangered species is one that has been categorised by the IUCN as
+likely to become extinct
+
+-   The IUCN (International Union for Conservation of Nature) currently
+    lists over 3,000 species as endangered
+
+The determination of a species conservation status (likelihood of
+becoming extinct) is based on numerous factors:
+
+-   These include the rate of decline, population size, area of
+    geographic distribution and degree of population fragmentation
+
+The IUCN has produced a red list, which classifies species into nine
+groups:
+
+-   Extinct (EX) â€“ no surviving individuals (e.g. tasmanian tiger)
+-   Extinct in Wild (EW) â€“ captive individuals survive, but there is
+    no wild population (e.g. Barbary lion)
+-   Critically Endangered (CR) â€“ faces an extremely high risk of
+    extinction in the near future (e.g. red wolf)
+-   Endangered (EN) â€“ faces a high risk of extinction in the near
+    future (e.g. snow leopard)
+-   Vulnerable (VU) â€“ faces a high risk of endangerment in the medium
+    term (e.g. Indian rhinoceros)
+-   Near Threatened (NT) â€“ may be considered threatened in the near
+    future (e.g. tiger shark)
+-   Least Concern (LC) â€“ no immediate threat to species survival (e.g.
+    giraffe)
+-   All other organisms may be listed as Data Deficient (DD) or Not
+    Evaluated (NE)
+
+IUCN Red List
+
+[IUCN red list]

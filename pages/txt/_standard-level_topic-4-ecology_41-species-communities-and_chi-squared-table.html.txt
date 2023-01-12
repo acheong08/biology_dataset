@@ -1,0 +1,18 @@
+Chi Squared Table
+
+A chi-squared table shows the distribution of critical values according
+to each degree of freedom
+
+-   This allows for an assessment to be made as to whether the data is
+    statistically significant (p<0.05) or not
+
+For accurate data, the following conditions should be met:
+
+-   All items in the group should be independent and collected on a
+    random basis
+-   No group should contain very few items (e.g. less than 10)
+-   The total number of items should be large (e.g. more than 50)
+
+Chi Squared Distribution Table
+
+[chi table]

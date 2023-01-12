@@ -1,0 +1,71 @@
+Synaptic Formation
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â A developing neuron forms multiple synapses
+
+Â  Â Â 
+A synapse is a junction at which a neuron transmits a signal to another
+cell (relay neuron or effector)
+
+-   Most synapses transmit chemical signals, although electrical
+    synapses also exist
+
+A developing neuron will form multiple synapses, creating a vast array
+of permutable communication pathways
+
+-   Within the CNS, a neuron may form a synapse with another axon,
+    dendrite or cell body (soma)
+-   Within the PNS, a neuron may form a synapse with a muscle fibre
+    (neuromuscular) or gland (neuroglandular)
+-   SomeÂ neurons may form a synapse with capillaries and secrete
+    chemicals directly into the bloodstream (neurosecretory)
+
+Types of Synapses within the Central Nervous SystemÂ 
+
+[types of synapse]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Synapses that are not used do not persist
+
+â€¢ Â Neural pruning involves the loss of unusedÂ neurons
+
+Â  Â Â 
+During embryonic and early post-natal development, neurons will form
+multiple synapses to maximise available connections
+
+-   As an organism matures, some synapses are used more frequently and
+    these connections are consequently strengthened
+-   Other synapses are not used as often and these connections are
+    weakened and do not persist
+-   This strengthening and weakening of certain neural pathways is
+    central to the concept of how organisms learn
+
+Neural pruning involves the loss of unused neurons (by removing excess
+axons and eliminating their synaptic connections)
+
+-   Infant and adult brains typically have the same total number of
+    neurons (roughly 100 billion neurons in total)
+-   However infant brains form vastly more synaptic connections
+    (approximately twice the number found in adult brains)
+
+The purpose of neural pruning seems to be to reinforce complex wiring
+patterns associated with learned behaviour
+
+-   Pruning is influenced by environmental factors and is mediated by
+    the release of chemical signals from glial cells
+
+Synaptic Formation and Neural Pruning
+
+[neural pruning]

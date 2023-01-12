@@ -1,0 +1,42 @@
+Inflammation
+
+The inflammatory response is the non-specific way in which the body
+responds when a pathogen damages body tissue
+
+-   When tissue damage occurs, mast cells (localised) and basophils
+    (circulating) release a chemical called histamine
+-   Histamine causes local vasodilation and increases capillary
+    permeability to improve the recruitment of leukocytes to the region
+-   Damaged cells also release chemotactic factors which attract
+    leukocytes to the site of infection
+-   While inflammation is necessary to allow immune cells access to
+    damaged tissue, there are unavoidable side effects
+-   Increased blood flow causes redness and heat, while increased
+    permeability releases fluids and causes swelling and tenderness
+-   Inflammation can be either short-term (acute) or long-term (chronic)
+
+Inflammatory Response
+
+[inflammation]
+
+Fever
+
+A fever is an abnormally high temperature associated with infection and
+is triggered by the release of prostaglandins
+
+-   Fever may help to combat infection by reducing the growth rate of
+    microbes (via the inactivation of microbial enzymes)
+-   It may also increase metabolic activity in body cells and activate
+    heat shock proteins to strengthen the immune response
+
+A fever occurs when activated leukocytes release pro-inflammatory
+chemicals called cytokines
+
+-   Cytokines stimulate the anterior hypothalamus to produce
+    prostaglandins, which lead to an increase in body temperature
+-   Up to a certain point a fever may be beneficial, butÂ beyond a
+    tolerable limit it can cause damage to the bodyâ€™s own enzymes
+
+Mechanism of Fever
+
+[fever]

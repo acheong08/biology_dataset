@@ -1,0 +1,48 @@
+Cell Cycle
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Mitosis is division of the nucleus into two genetically identical
+daughter nuclei
+
+Â  Â Â 
+The cell cycle is an ordered set of events which culminates in the
+division of a cell into two daughter cells
+
+-   It can be roughly divided into two main phases:
+
+Interphase
+
+The stage in the development of a cell between two successive divisions
+
+This phase of the cell cycle is a continuum of three distinct stages:
+
+-   G¹ â€“ First intermediate gap stage in which the cell grows and
+    prepares for DNA replication
+-   S â€“ Synthesis stage in which DNA is replicated
+-   G² â€“ Second intermediate gap stage in which the cell finishes
+    growing and prepares for cell division
+
+M phase
+
+The period of the cell cycle in which the cell and contents divide to
+create two genetically identical daughter cells
+
+This phase is comprised of two distinct stages:
+
+-   Mitosis â€“ Nuclear division, whereby DNA (as condensed chromosomes)
+    is separated into two identical nuclei
+-   Cytokinesis â€“ Cytoplasmic division, whereby cellular contents are
+    segregated and the cell splits into two
+
+The Cell Cycle
+
+[cell cycle]

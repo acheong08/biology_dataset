@@ -1,0 +1,49 @@
+Body Mass Index
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Determination of body mass index by calculation or use of a
+nomogram
+
+Â  Â Â 
+The body mass index (BMI) provides a measure of relative mass based on
+the weight and height of the individual
+
+-   It is commonly used as a screening tool to identify potential weight
+    problems in sedentary adults
+
+Body mass index can be calculated according to the following formula:
+
+[Screen Shot 2015-01-05 at 12.18.12 pm]
+
+BMI ranges from underweight to obese, according to predetermined values
+based on an average adult population
+
+-   BMI values are not a valid indicator for pregnant women or
+    professional athletes with atypical muscle / fat ratios
+-   BMI calculations should not be used as a diagnostic tool and should
+    be used in conjunction with other measurements
+
+Standard Adult BMI Categories
+
+[BMI categories]
+
+Nomograms
+
+An alternative way of calculating body mass index is by using an
+alignment chart (nomogram)
+
+-   Nomograms display height and weight on perpendicular axes and then
+    assign BMI values to colour coded regions
+
+BMI Nomogram for Typical Adult
+
+[nomogram]

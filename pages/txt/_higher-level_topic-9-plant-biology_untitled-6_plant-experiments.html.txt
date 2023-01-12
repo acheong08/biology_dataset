@@ -1,0 +1,129 @@
+Plant Experiments
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Models of water transport in xylem using apparatus including
+filter paper, porous pots or capillary tubing
+
+Â  Â Â 
+The movement of water up the length of the xylem can be modelled using a
+number of simple apparatus
+
+-   These include capillary tubing, filter or blotting paper and porous
+    pots
+
+Capillary Tubing:
+
+-   Water has the capacity to flow along narrow spaces in opposition to
+    external forces like gravity (capillary action)
+-   This is due to a combination of surface tension (cohesive forces)
+    and adhesion with the walls of the tube surface
+-   The thinner the tube or the less dense the fluid, the higher the
+    liquid will rise (xylem vessels are thin: 20 â€“ 200 Âµm)Â 
+
+Filter Paper:
+
+-   Filter paper (or blotting paper) will absorb water due to both
+    adhesive and cohesive properties
+-   When placed perpendicular to a water source, the water will hence
+    rise up along the length of the paper
+-   This is comparable to the movement of water up a xylem (the paper
+    and the xylem wall are both composed of cellulose)
+
+Porous Pots:
+
+-   Porous pots are semi-permeable containers that allow for the free
+    passage of certain small materials through pores
+-   The loss of water from the pot is similar to the evaporative water
+    loss that occurs in the leaves of plants
+-   If the porous pot is attached by an airtight seal to a tube, the
+    water loss creates a negative pressure that draws more liquid
+
+Models of Water Transport
+
+This browser cannot play the embedded video file.
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Measurement of transpiration rates usingÂ potometers
+
+Â  Â Â 
+A potometer is a device that is used to estimate transpiration rates by
+measuring the rate of water loss / uptake Â 
+
+-   When a plant is affixed to theÂ potometer, transpiration can be
+    indirectly identified by the movement of water towards the plant
+-   This water movement can be assessed as a change in meniscus level or
+    by the movement of an air bubble towards the plant
+-   The initial starting position of the meniscus or air bubble can be
+    adjusted by introducing additional water from a reservoirÂ 
+
+When measuring transpiration rates with aÂ potometer, it is important to
+remember that not all water is lost to transpiration
+
+-   A small amount of water (~2%) is used in photosynthesis and to
+    maintain the viable turgidity of plant cells
+
+Measuring Transpiration Rate with a Potometer
+
+[potometer]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Design of an experiment to test hypotheses about the effect of
+temperature or humidity on transpiration rates
+
+Â  Â Â 
+Potometers can be used to test a number of variables that may affect the
+rate of transpiration in plants
+
+-   These variables include temperature, humidity, light intensity and
+    wind exposure
+
+Temperature:
+
+-   Increasing the ambient temperature is predicted to cause an increase
+    in the rate of transpiration
+-   Higher temperatures lead to an increase in the rate of water
+    vaporisation within the mesophyll, leading to more evaporation
+-   The effect of temperature variation can be tested experimentally by
+    using heaters or submerging in heated water baths
+
+Humidity:
+
+-   Increasing the humidity is predicted to cause a decrease in the rate
+    of transpiration
+-   Humidity is the amount of water vapour in the air â€“ less vapour
+    will diffuse from the leaf if there is more vapour in the air
+-   The effect of humidity can be tested experimentally by encasing the
+    plant in a plastic bag with variable levels of vapour
+
+Light Intensity:
+
+-   Increasing the light intensity to which a plant is exposed is
+    predicted to cause an increase in the rate of transpiration
+-   Increasing light exposure will cause more stomata to open in order
+    to facilitate photosynthetic gas exchange
+-   The effect of light intensity can be tested experimentally by
+    placing the plant at variable distances from a lamp
+
+Wind Exposure:
+
+-   Increasing the level of wind exposure is predicted to cause an
+    increase in the rate of transpiration
+-   Wind / air circulation will function to remove water vapour from
+    near the leaf, effectively reducing proximal humidity
+-   The effect of wind can be tested experimentally by using fans to
+    circulate the air around a plant

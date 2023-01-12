@@ -1,0 +1,71 @@
+Photosynthesis vs Respiration
+
+In many respects, photosynthesis and cell respiration are complementary
+reactions within the environment
+
+-   The products of photosynthesis function as the inputs of cell
+    respiration (oxygen and glucose)
+-   The products of cell respiration function as the inputs of
+    photosynthesis (carbon dioxide and water)
+
+Most producers (i.e. photoautotrophs) undertake both photosynthesis and
+cell respiration to survive
+
+-   Consumers (i.e. heterotrophs) only undertake cell respiration, but
+    will ingest or absorb photosynthetic products
+
+Interrelationship Between Processes
+
+[photo vs resp]
+
+Similarities
+
+Photosynthesis and cell respiration both involve the production of
+chemical energy (ATP)
+
+-   In photosynthesis, ATP is produced via light energy
+    (photophosphorylation) and used to make organic molecules
+-   In cellÂ respiration, ATP is produced by breaking down organic
+    molecules (oxidative phosphorylation)
+
+In both cases, the production of ATP involves an electron transport
+chain and chemiosmosis
+
+-   In photosynthesis, electrons are donated by chlorophyll and protons
+    accumulate within the lumen of the thylakoid
+-   In cell respiration, electrons are donated by hydrogen carriers and
+    protons accumulate in the intermembrane space
+
+Comparison of ATP Production
+
+[photo vs resp similar]
+
+Differences
+
+Photosynthesis and cell respiration are in many respects the reverse of
+one another
+
+-   Photosynthesis is an anabolic process, whereas cell respiration is a
+    catabolic process
+
+Photosynthesis:
+
+-   Water is broken down to oxygen to release electrons for an electron
+    transport chain
+-   Electrons from the transport chain are taken up by hydrogen carriers
+    (NADPH specifically)
+-   Uses the Calvin cycle to synthesise glucose (requires hydrogen
+    carriers and carbon dioxide)
+
+Cell Respiration:
+
+-   Uses the Krebs cycle to break down glucose (releases hydrogen
+    carriers and carbon dioxide
+-   Hydrogen carriers release electrons for an electron transport chain
+    (NADH and FADH₂ specifically)
+-   Electrons from the transport chain are taken up by oxygen (to form
+    water)
+
+Differences Between Photosynthesis and Cell Respiration
+
+[photo vs resp different]

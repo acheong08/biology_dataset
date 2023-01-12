@@ -1,0 +1,54 @@
+Karyotyping
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Description of methods used to obtain cells for karyotype analysis
+â€“ e.g. chorionic villi samplingÂ 
+
+Â  Â and amniocentesis and the associated risks
+
+Â  Â Â 
+Karyotyping is the process by which chromosomes are organised and
+visualised for inspection
+
+-   Karyotyping is typically used to determine the gender of an unborn
+    child and test for chromosomal abnormalities
+
+Cells are harvested from the foetus before being chemically induced to
+undertake cell division (so chromosomes are visible)
+
+-   The stage during which mitosis is arrested will determine whether
+    chromosomes appear with sister chromatids
+
+Finally, chromosomes are stained and photographed, before being
+organised according to structure
+
+-   The visual profile generated is called a karyogram
+
+Chorionic Villi Sampling
+
+Chorionic villi sampling involves removing a sample of the chorionic
+villus (placental tissue) via a tube inserted through the cervix
+
+-   It can be done at ~11 weeks of pregnancy with a slight risk of
+    inducing miscarriage (~1%)
+
+Amniocentesis
+
+Amniocentesis involves the extraction of a small amount of amniotic
+fluid (contains fetal cells) with a needle
+
+-   It is usually conducted later than CVS (~16 weeks of pregnancy) with
+    a slightly lower risk of miscarriage (~0.5%)
+
+Amniocentesis vs Chorionic Villi Sampling (CVS)
+
+[amniocentesis vs cvs]

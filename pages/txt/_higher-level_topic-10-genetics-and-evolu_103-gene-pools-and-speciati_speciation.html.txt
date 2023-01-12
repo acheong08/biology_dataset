@@ -1,0 +1,122 @@
+Speciation
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Speciation due to divergence of isolated populations can be
+gradual
+
+Â  Â Â 
+Speciation is an evolutionary process that results in the formation of a
+new species from a pre-existing species
+
+-   It occurs when reproductive isolating mechanisms prevent two
+    breeding organisms from producing fertile, viable offspring
+
+There are two basic mechanisms via which speciation can occur:
+
+-   Allopatric speciation (geographical isolation)
+-   Sympatric speciation (reproductive isolation)Â 
+
+Allopatric Speciation
+
+Allopatric speciation occurs when a geographical barrier physically
+isolates populations of an ancestral species
+
+-   The two populations begin to evolve separately as a result of
+    cumulative mutation, genetic drift and natural selection
+-   Eventually the two populations reach a degree of genetic divergence
+    whereby they can no longer interbreed (speciation)
+
+Sympatric Speciation
+
+Sympatric speciation is divergence of species within the same
+geographical location (i.e. without a physical barrier)
+
+-   Sympatric speciation may result from the reproductive isolation of
+    two populations as a result of genetic abnormalities
+-   Typically, a chromosomal error may arise which prevents successful
+    reproduction with any organism lacking the same error
+
+Allopatric versus Sympatric Speciation
+
+[types of speciation]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Speciation in the genus Allium by polyploidy
+
+Â  Â Â 
+Sympatric speciation is most commonly caused as the result of a meiotic
+failure during gamete formation
+
+-   If meiotic cells fail to undergo cytokinesis, chromosomal number
+    will double in the gamete (e.g. diploid instead of haploid)
+-   This will result in offspring that have additional sets of
+    chromosomes (polyploidy)
+-   Speciation will result if the polyploid offspring are viable and
+    fertile but cannot interbreed with the original parent population
+
+Polyploidy
+
+[autopolyploidy]
+
+Fertile polyploid offspring will typically require two polyploid parents
+(unless allopolyploidy occurs)
+
+-   This is because reproduction with the original parent population
+    results in offspring with an uneven number of chromosome sets
+-   Example:Â  diploid gamete + haploid gamete = infertile triploid
+    zygote (cannot halve an uneven number when forming gametes)
+
+Consequently, polyploidy is far more common in plant species as they may
+lack separate sexes or can reproduce asexually
+
+-   Self-pollination â€“ many plant species possess both male and female
+    reproductive parts (monoecious) and can hence self fertilise
+-   Asexual reproduction â€“ infertile polyploids can still reproduce
+    asexually via vegetative propagation
+
+Polyploid crops may be particularly desirable to farmers for a number of
+reasons:
+
+-   Allows for the production of seedless fruits (e.g. triploid
+    watermelons are infertile and hence do not produce seeds)
+-   Polyploid crops will typically grow larger and demonstrate improved
+    longevity and disease resistance (hybrid vigour)
+
+Consequently, farmers may induce polyploidy in certain plant species by
+treating plants with certain drugs (e.g.Â colchicine)
+
+Hybrid Vigour in Polyploids as a Result of Increased Gene Dosage
+
+[hybrid vigour]
+
+Speciation in Allium
+
+The genus Allium is comprised of monocotyledonous flowering plants and
+includes onions, garlic, chives and leeks
+
+-   In many of these species polyploidy has occurred, resulting in
+    reproductively isolated populations with distinct phenotypes
+
+Examples of polyploidy in Allium species includes:
+
+-   Diploid (2n) = ~ 16 chromosomes (e.g. Allium cepa â€“ garden onion)
+-   Triploid (3n) = ~ 24 chromosomes (e.g. Allium carinatum â€“ keeled
+    garlic)
+-   Tetraploid (4n) = ~ 32 chromosomes (e.g. Allium tuberosum â€“
+    chinese chives)
+-   Pentaploid (5n) = ~ 40 chromosomes (e.g. Allium oleraceum â€“ field
+    garlic)
+-   Octoploid (8n) = ~ 66 chromosomes (e.g. Allium nutans â€“ blue
+    chives)

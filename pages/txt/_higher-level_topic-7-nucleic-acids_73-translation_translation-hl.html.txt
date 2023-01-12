@@ -1,0 +1,89 @@
+Translation (HL)
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Initiation of translation involves assembly of the components that
+carry out the process
+
+Â  Â Â 
+Initiation
+
+The first stage of translation involves the assembly of the three
+components that carry out the process (mRNA, tRNA, ribosome)
+
+-   The small ribosomal subunit binds to the 5â€™-end of the mRNA and
+    moves along it until it reaches the start codon (AUG)
+-   Next, the appropriate tRNA molecule bind to the codon via its
+    anticodon (according to complementary base pairing)
+-   Finally, the large ribosomal subunit aligns itself to the tRNA
+    molecule at the P site and forms a complex with the small subunit
+
+[translation initiation]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Synthesis of the polypeptide involves a repeated cycle of events
+
+Â  Â Â 
+Elongation
+
+-   A second tRNA molecule pairs with the next codon in the ribosomal A
+    site
+-   The amino acid in the P site is covalently attached via a peptide
+    bond (condensation reaction) to the amino acid in the A site
+-   The tRNA in the P site is now deacylated (no amino acid), while the
+    tRNA in the A site carries the peptide chain
+
+Translocation
+
+-   The ribosome moves along the mRNA strand by one codon position (in a
+    5â€™Â â†’ 3â€™Â direction)
+-   The deacylated tRNA moves into the E site and is released, while the
+    tRNA carrying the peptide chain moves to the P site
+-   Another tRNA molecules attaches to the next codon in the now
+    unoccupied A site and the process is repeated
+
+[translation elongation]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Disassembly of the components follows termination of translation
+
+Â  Â Â 
+Termination
+
+The final stage of translation involves the disassembly of the
+components and the release of a polypeptide chain
+
+-   Elongation and translocation continue in a repeating cycle until the
+    ribosome reaches a stop codonÂ 
+-   These codons do not recruit a tRNA molecule, but instead recruit a
+    release factor that signals for translation to stop
+-   The polypeptide is released and the ribosome disassembles back into
+    its two independent subunits
+
+[translation termination]
+
+Translation Summary Animation
+
+This browser cannot play the embedded video file.
+
+[translation-2]
+
+Please Note:
+In this animation the release factor is represented as being similar to
+a tRNA molecule
+In reality, the release factor is a protein and would appear quite
+dissimilar to a tRNA moleculeÂ 

@@ -1,0 +1,70 @@
+Biodiversity
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Richness and evenness are components of biodiversity
+
+Â  Â Â 
+Biodiversity describes the variety and variability of all living
+organisms within a given ecological area
+
+-   Biodiversity can be used to refer to the number of species, their
+    genetic diversity or habitat variety (ecological variations)
+
+There are two main components that contribute to biodiversity â€“
+species richness and species evenness
+
+-   Species richness describes the number of different species present
+    in an area (more species = greater richness)
+-   Species evenness describes the relative abundance of the different
+    species in an area (similar abundance = more evenness)
+
+Biodiversity (Richness versus Evenness)
+
+[biodiversity]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of the biodiversity of two local communities using
+Simpsonâ€™s reciprocal index of diversity
+
+Â  Â Â 
+The Simpsonâ€™s reciprocal index can be used to measure the relative
+biodiversity of a given community
+
+-   It takes into account both the number of species present (richness)
+    and the number of individuals per species (evenness)
+-   A higher index value is indicative of a greater degree of
+    biodiversity within the community
+
+[Simpson Index]
+
+Simpsonâ€™s reciprocal index can be used to compare communities to
+identify intrinsic qualities:
+
+-   A high index value suggests a stable site with many different niches
+    and low competition (high richness and evenness)
+-   A low index value suggests a site with few potential niches where
+    only a few species dominate (low richness and evenness)
+-   The index value may change in response to an ecological disturbance
+    (such as human intervention or natural disasters)
+
+Practice Question
+
+[question]
+Use Simpson's reciprocal index to compare the biodiversity at two
+specific locations:
+Site 1: Species A = 6 ; Species B = 1 ; Species C = 1
+Site 2: Species A = 4 ; Species D = 4
+
+[metric system]

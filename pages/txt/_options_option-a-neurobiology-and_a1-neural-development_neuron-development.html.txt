@@ -1,0 +1,95 @@
+Neuron Development
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Neurons are initially produced by differentiation in the neural
+tube
+
+Â  Â Â 
+The neural tube containsÂ multipotent neuronal stem cells which can
+differentiate to form the different types of nerve cells:
+
+-   Neurons are specialised nerve cells that conduct messages â€“ they
+    can be sensory, motor or relay (interneurons)
+-   Glial cells provide physical and nutritional support for the neurons
+    â€“ roughly 90% of nerve cells in the brain are glial cells
+
+Neurons are produced by progenitor neuroblasts via a process known as
+neurogenesis
+
+-   Most neurons survive for the lifetime of the individual and do not
+    proliferate following embryogenesis (they are 'post-mitoticâ€™)
+-   Certain brain regions may be capable of adult neurogenesis, but most
+    of the nervous system is incapable of regeneration
+
+Neuron Production via Neurogenesis
+
+[neurogenesis]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Immature neurons migrate to a final location
+
+Â  Â Â 
+Immature neurons must migrate in order to adopt precise final positions
+that allow for the formation of neural circuitries
+
+-   This migration process is critical for the development of brain and
+    spinal architecture
+
+Neural migration may occur via one of two distinct processes â€“ glial
+guidance or somal translocation
+
+-   Glial cells may provide a scaffolding network along which an
+    immature neuron can be directed to its final location
+-   Alternatively, the neuron may form an extension at the cellâ€™s
+    perimeter and then translocate its soma along this length
+
+Mechanisms of Neural Migration
+
+This browser cannot play the embedded video file.
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â An axon grows from each immatureÂ neuron in response to chemical
+stimuli
+
+â€¢ Â Some axons extend beyond the neural tube to reach other parts of
+the body
+
+Â  Â Â 
+An immature neuron consists of a cell body (soma) containing a nucleus
+and cytoplasm
+
+-   Axons and dendrites will grow from each immature neuron in response
+    to chemical signals from surrounding cells
+-   Some axons may be quite short (within the CNS) but others may extend
+    to other parts of the body (within the PNS)
+
+An axon has a growth cone at its tip that contains highly motile growth
+filaments calledÂ filipodia
+
+-   Extension of theseÂ filipodia causes the expansion of the internal
+    cytoskeleton within the growth cone â€“ resulting in growth
+-   The direction of this expansion is controlled by chemical stimuli
+    released from surrounding cells
+-   These cells may release chemoattractant signals (grow towards) or
+    chemorepellant signals (grow away)
+-   Using these molecular guidance signals, axonÂ growth cones may
+    navigate long distances to reach specific targets
+
+Axon Guidance by Chemical Signals
+
+[axon guidance]

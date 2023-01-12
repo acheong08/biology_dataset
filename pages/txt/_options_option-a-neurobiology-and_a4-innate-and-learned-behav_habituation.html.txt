@@ -1,0 +1,34 @@
+Habituation
+
+Habituation is a type of learned behaviour whereby the strength of a
+response diminishes when the response is repeated
+
+-   The response is usually an innate behaviour (e.g. reflex), rather
+    than conditioned behaviours (which undergoÂ â€˜extinctionâ€™)
+
+An example of habituation can be seen in the response of crows to the
+presence of a scarecrow
+
+-   Initially the birds will react to the scarecrow as if it is a valid
+    threat (predator) and fly away
+-   Eventually the birds will react less and not fly away â€“
+    demonstrating habituation
+
+Habituation can even be seen in the slime mould Physarum polycephalum,
+which lacks any form of nervous system
+
+-   When introduced by a bitter (yet harmless) barrier between its food
+    source, the mould quickly learned to ignore the barrier
+-   This acquired behaviour could even be passed on to naive mould cells
+    when the two types of slime moulds fused
+
+The opposite of habituation is sensitisation â€“ whereby the strength of
+a response is amplified with repetition
+
+Habituation of Crow Behaviour
+
+[habituation]
+
+Link: Â Habituation in Slime Moulds
+
+Link: Â Direct Transfer of Learned Behaviour in Slime Moulds

@@ -1,0 +1,65 @@
+Energy Sources
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Determination of the energy content of food by combustion
+
+Â  Â 
+Determining Energy Content
+
+The energy content of food can be estimated by burning a sample of known
+mass and measuring the energy released via calorimetry
+
+-   Combustion of the food source causes the stored energy to be
+    released as heat, which raises the temperature of water
+-   The amount of energy required to raise 1 g of water by 1ÂºC is 4.18
+    J â€“ this is the specific heat capacity of water
+
+The equation for calculating the energy content of a food source via
+calorimetry is as follows:
+
+-   Energy (joules) = Mass of water (g)Â Ã— 4.2 (J/gÂºC)Â Ã— Temperature
+    increase (ÂºC)
+
+The biggest source of error in calorimetry is usually caused by the
+unwanted loss of heat to the surrounding environment
+
+-   The food sources should be burnt at a constant distance from the
+    water to ensure reliability of results
+-   The initial temperature and volume of water should also be kept
+    constant (1 g of water = 1 cm³ or 1 ml)
+
+Measuring Energy Content of Food via Calorimetry
+
+[My Image 1] [My Image 2]
+
+Comparing Energy Content
+
+The three types of nutrients that are commonly used as energy sources
+areÂ carbohydrates, lipids (fats) and proteins
+
+-   Carbohydrates are preferentially used as an energy source because
+    they are easier to digest and transport
+-   Lipids can store more energy per gram but are harder to digest and
+    transport (hence are used for long-term storage)
+-   Protein metabolism produces nitrogenous waste products which must be
+    removed from cells
+
+The relative energy content of carbohydrates, proteins and fats are as
+follows:
+
+-   Carbohydrates â€“ 1,760 kJ per 100 grams
+-   Proteins â€“ 1,720 kJ per 100 grams
+-   Fats â€“ 4,000 kJ per 100 grams
+
+Role of Organic Molecules in Energy Production
+
+[energy sources]

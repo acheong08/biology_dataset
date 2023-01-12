@@ -1,0 +1,82 @@
+Neuromodulators
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Many different slow acting neurotransmitters modulate fast
+synaptic transmission in the brain
+
+Â  Â Â 
+Neurotransmitters within the brain can be classified as either
+fast-acting or slow-acting according to their action
+
+-   Fast-acting neurotransmitters bind directly to ligand-gated ion
+    channels to initiate a rapid response (<1 millisecond)
+-   Slow-acting neurotransmitters bind to G-protein coupled receptors to
+    initiate a slower response (milliseconds â€“ minute)
+
+Slow-acting neurotransmitters trigger second messenger pathways within
+the post-synaptic cell, which allows for:
+
+-   A longer, more sustained duration of action (i.e. ion channels
+    remain open for longer to mediate greater depolarisation)
+-   Long term alterations to cellular activity to improve synaptic
+    transfer (i.e. increased expression of ion channels)
+
+Slow-acting neurotransmitters are called neuromodulators because they
+can modulate the efficiency of synaptic transfer
+
+-   Examples of fast-acting neurotransmitters include glutamate
+    (excitatory) and GABA (inhibitory)
+-   Examples of slow-acting neurotransmitters include dopamine,
+    serotonin, acetylcholine and noradrenaline
+
+By modulating the efficiency of synaptic transfer, slow-acting
+neurotransmitters can regulate fast synaptic transmission
+
+Fast Acting versus Slow Acting Neurotransmission
+
+[neuromodulators]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Memory and learning involve changes in neurons caused by
+slow-actingÂ neurotransmitters
+
+Â  Â Â 
+Slow-acting neurotransmitters can strengthen the neural pathways
+involved in learning and memory
+
+-   By activating second messenger systems, they can trigger
+    long-lasting changes to synaptic activity (long-term potentiation)
+
+When a neuron is repetitively stimulated by slow-acting
+neurotransmitters, second messengers promote cellular changes:
+
+-   There is an increase in dendritic receptors in the
+    post-synapticÂ neutron (improving post-synaptic stimulation)
+-   There is an increase in the production of neurotransmitters in the
+    pre-synaptic cell
+-   Neurons may undergo morphological changes to enlarge existing
+    synaptic connections or form new synapses
+
+The net effect of this long-term potentiation is that certain neural
+pathways become easier to stimulate
+
+-   This makes certain memories easier to recall (i.e. forming long-term
+    memories)
+-   This makes certain actions easier to repeat (i.e. learning of a new
+    skill or aptitude)
+
+Long Term Potentiation
+
+[potentiation]

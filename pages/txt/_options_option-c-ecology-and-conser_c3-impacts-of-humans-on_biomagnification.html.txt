@@ -1,0 +1,120 @@
+Biomagnification
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Pollutants become concentrated in the tissues of organisms at
+higher trophic levels by biomagnification
+
+Â  Â Â 
+Biomagnification is the process in which chemical substances become more
+concentrated at each trophic level
+
+-   In contrast, bioaccumulation refers to the build up of a chemical
+    substance in the tissues of a single organism
+
+Biomagnification occurs because organisms at higher trophic levels must
+consume more biomass to meet requirements
+
+-   Energy transformations are only ~10% efficient, so higher order
+    consumers must eat more to meet energy demands
+-   This means higher order consumers will experience increased
+    contamination from a chemical substance
+
+Biomagnification of a Pollutant
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to show representation of chemical
+concentration and relative toxic effects
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of data illustrating the causes and consequences of
+biomagnification
+
+Â  Â Â 
+An example of a chemical substance which is biomagnified is DDT
+(dichloroÂ diphenylÂ trichloroethane)
+
+-   DDT is a chemical pesticide that is sprayed on crops and
+    subsequently washed into waterways at low concentrations
+-   It is fat soluble and is selectively retained within the tissues of
+    an organism instead of being excrete
+
+When DDT is sprayed on water to eliminate mosquito larvae, it is taken
+up by algae and passed on to primary consumers
+
+-   At each subsequent trophic level the concentration of DDT stored in
+    the body increases due to increased food intake
+-   Very high levels of DDT were discovered in birds that preyed on
+    fish, and was found to interfere withÂ eggshell formation
+-   Birds exposed to high levels of DDT were found to produce thinner
+    shells, which decreased survival rates of fledglings
+
+Relationship between DDT Exposure and Eggshell Thickness
+
+[] Â Â  Â Â  Â Â Â  Â Â Â  Â Â Â Â Â Â  Â Â Â  Â Â Â Diagram: Â  Â Â Â 
+Diagram 1 Â Â Â  Â Â Â  Diagram 2Â Â Â  Â Â Â  Diagram 3
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Discussion of the trade-off between control of the malarial
+parasite and DDT pollution
+
+Â  Â Â 
+DDT was widely employed as a chemical pesticide in the 1940s and 1950s
+to control insect-borne diseases like malaria
+
+-   Its use as an agricultural insecticide led to the complete
+    eradication of malaria in many high socioeconomic world regions
+-   It was less effective in low socioeconomic tropical regions where
+    eradication programs could not be sustained
+
+Eradication programs were curtailed by the World Health Organisation in
+1969 over safety and environmental concerns
+
+-   DDT can bioaccumulate to toxic levels and poses a significant threat
+    to higher trophic levels (due to biomagnification)
+-   Current interventions for malaria now focus on non-spraying
+    strategies (such as the use of bednets soaked in insecticides)
+
+Prevalance of Mosquitoes in America during the 20th Century
+
+[mosquito distribution]
+
+Malaria versus DDT
+
+Arguments for DDT Spraying:
+
+-   DDT spraying is an affordable and effective means of killing
+    mosquitos that carry disease (malaria, dengue fever, etc.)
+-   Where the use of DDT has been discontinued, the incidence of malaria
+    and associated deaths have increased
+-   Health costs associated with the treatment of malaria are reduced
+    when DDT spraying is implemented
+-   Alternative strategies are not as cost-effective or successful
+
+Arguments against DDT Spraying:
+
+-   DDT spraying is associated with adverse health effects in humans
+    (cancer, birth defects, reduced fertility, etc.)
+-   DDT persists in the environment for long periods of time (more than
+    15 years)
+-   DDT is biomagnified in higher order consumers, which has adverse
+    consequences on ecosystems
+
+Malaria Control in South America (1960 â€“ 1993)
+
+[malaria vs DDT]

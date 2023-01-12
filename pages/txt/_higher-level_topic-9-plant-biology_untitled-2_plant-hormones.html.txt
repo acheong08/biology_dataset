@@ -1,0 +1,54 @@
+Plant Hormones
+
+Plant growth and development are controlled by plant hormones
+(phytohormones)
+
+-   There are 5 main plant hormones that coordinate plant growth and
+    development
+
+Auxins:
+
+-   Promote primary growth (lengthening) by promoting cell elongation
+    and increasing the rate of cell division
+-   Promote apical dominance â€“ whereby the apex / tip of a plant grows
+    while the lateral buds remain undeveloped
+-   Auxin concentrations may change in response to directional stimuli
+    (i.e. play a key role in tropisms)
+
+Cytokinins:
+
+-   Promote cell division (cytokinesis) and ensure roots and shoots grow
+    at equal rates
+-   Promotes secondary growth (thickening) and help to control the rate
+    of branching by a plant
+-   Cytokinins are also involved in stimulating the growth of fruit
+
+Gibberellins:
+
+-   Triggers germination in dormant seeds (initiates plant growth)
+-   Gibberellin also causes stem elongation by promoting cell elongation
+    and cell division
+
+Ethylene:
+
+-   A gas which acts as a plant hormone and stimulates maturation and
+    ageing (senescence)
+-   It is responsible for the ripening of certain fruit (auxins and
+    gibberellins promote fruit growth but inhibit ripening)
+-   It also contributes to the loss of leaves (abscission) and the death
+    of flowers
+
+Abscisic Acid:
+
+-   Abscisic acid (ABA) principally functions to inhibit plant growth
+    and development
+-   It promotes the death of leaves (abscission) and is responsible for
+    seed dormancy
+-   It generally initiates stress responses in plants (like winter
+    dormancy in deciduous plants)
+-   Abscisic acid controls the closing of stomata and hence regulates
+    water loss in plants
+
+Summary of the Main Classes of Plant Hormones
+
+[plant hormones]

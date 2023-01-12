@@ -1,0 +1,39 @@
+11.1 Â Antibody Production and Vaccination
+
+[big ninja]
+
+Essential Idea:
+Immunity is based on recognition of self
+and destruction of foreign materials
+
+Â  Â  Â 
+Understandings:
+
+-   Every organism has unique molecules on the surface of its cells
+-   Pathogens can be species-specific although others can cross species
+    barriers
+-   B lymphocytes are activated by T lymphocytes in mammals
+-   Activated B cells multiply to form clones of plasma cells and memory
+    cells
+-   Plasma cells secrete antibodies
+-   Antibodies aid the destruction of pathogens
+-   White blood cells release histamine in response to allergens
+-   Histamine causes allergic symptoms
+-   Immunity depends on the persistance of memory cells
+-   Vaccines contain antigens that trigger immunity but do not cause the
+    disease
+-   Fusion of a tumor cell with an antibody-producing cell creates a
+    hybridoma cell
+-   Monoclonal antibodies are produced by hybridoma cells
+
+Applications:
+
+-   Smallpox was the first infectious disease of humans to have been
+    eradicated by vaccination
+-   Monoclonal antibodies to hCG are used in pregnancy test kits
+-   Antigens on the surface of red blood cells stimulate antibody
+    production in a person with a different blood group
+
+Skills:
+
+-   Analysis of epidemiological data related to vaccination programmes

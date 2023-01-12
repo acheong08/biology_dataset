@@ -1,0 +1,43 @@
+3.2 Â Chromosomes
+
+[big ninja]
+
+Essential Idea:
+Chromosomes carry genes in a linear sequence
+that is shared by members of a species
+
+Â  Â  Â 
+Understandings:
+
+-   Prokaryotes have one chromosome consisting of a circular DNA
+    molecule
+-   Some prokaryotes also have plasmids but eukaryotes do not
+-   Eukaryote chromosomes are linear DNA molecules associated with
+    histone proteins
+-   In a eukaryote species there are different chromosomes that carry
+    different genes
+-   Homologous chromosomes carry the same sequence of genes but not
+    necessarily the same alleles of those genes
+-   Diploid nuclei have pairs of homologous chromosomes
+-   Haploid nucleiÂ have one chromosome of each pair
+-   The number of chromosomes is a characteristic feature of members of
+    a species
+-   A karyogram shows the chromosomes of an organism in homologous pairs
+    of decreasing length
+-   Sex is determined by sex chromosomes and autosomes are chromosomes
+    that do not determine sex
+
+Applications:
+
+-   Cairns' technique for measuring the length of DNA molecules by
+    autoradiography
+-   Comparison of genome size in T2 phage, Escherichia coli, Drosophila
+    melanogaster, Homo sapiens and Paris japonica
+-   Comparison of diploid chromosome numbers of Homo sapiens, Pan
+    troglodytes, CanisÂ familiaris, Oryza sativa and Parascaris equorum
+-   Use of karyograms to deduce sex and diagnose Down syndrome in humans
+
+Skills:
+
+-   Use of databases to identify the locus of a human gene and its
+    polypeptide product

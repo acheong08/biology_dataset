@@ -1,0 +1,61 @@
+Perception Issues
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Red-green colour-blindness as a variant of normal trichromatic
+vision
+
+Â  Â Â 
+Red-green colour blindness is a genetic disorder whereby an individual
+fails to discriminate between red and green hues
+
+-   There are three different types of cone cells, each of which absorbs
+    different wavelengths (trichromatic: red, green, blue)
+-   The genes responsible for producing red or green photoreceptors are
+    located on the X chromosome (sex-linked)
+-   If either of these genes are mutated, red and green wavelengths
+    cannot be distinguished
+-   As these genes are recessive and located on the X chromosome,
+    red-green colour-blindness is more common in males
+-   Red-green colour-blindness can be diagnosed using the Ishihara
+    colour test
+
+The Ishihara Colour Test
+(Click on the image to compare normal vision and colour blind vision)
+
+[My Image 1] [My Image 2]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of cochlear implants in deaf patients
+
+Â  Â Â 
+Cochlear implants may be used to stimulate the auditory centres of the
+brain in patients with non-functioning hair cells
+
+-   Standard hearing aids are ineffective in deaf patients as they
+    amplify sounds but do not bypass defective hearing structures
+
+Cochlear implants consist of two parts â€“ an external part (microphone
+/ transmitter) and an internal part (receiver / stimulator)
+
+-   The external components detect sounds, filter out extraneous
+    frequencies and then transmit the signals to the internal parts
+-   The internal components receive the transmissions and
+    produceÂ electrical signals via electrodes embedded in the cochlea
+-   The electrical signals are then transferred via the auditory nerve
+    to be processed by the brain
+
+Cochlear Implants
+
+[cochlear implant]

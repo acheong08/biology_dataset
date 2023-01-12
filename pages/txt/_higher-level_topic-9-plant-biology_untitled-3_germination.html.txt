@@ -1,0 +1,53 @@
+Germination
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Design of experiments to test hypotheses about factors affecting
+germination
+
+Â  Â Â 
+Germination is the process by which a seed emerges from a period of
+dormancy and begins to sprout
+
+For germination to occur, a seed requires a combination of:
+
+-   Oxygen â€“ for aerobic respiration (the seed requires large amounts
+    of ATP in order to develop)
+-   Water â€“ to metabolically activate the seed (triggers the synthesis
+    of gibberellin)
+-   Temperature â€“ seeds require certain temperature conditions in
+    order to sprout (for optimal function of enzymes)
+-   pH â€“ seeds require a suitable soil pH in order to sprout (for
+    optimal function of enzymes)
+
+Additionally, certain plant species may require additional conditions
+for germination:
+
+-   Fire â€“ some seeds will only sprout after exposure to intense heat
+    (e.g. after bushfires remove established flora)
+-   Freezing â€“ some seeds will only sprout after periods of intense
+    cold (e.g. in spring, following the winter snows)
+-   Digestion â€“ some seeds require prior animal digestion to erode the
+    seed coat before the seed will sprout
+-   Washing â€“ some seeds may be covered with inhibitors and will only
+    sprout after being washed to remove the inhibitors
+-   Scarification â€“ seeds are more likely to germinate if the seed
+    coat is weakened from physical damage
+
+Experiments can be developed using any of these factors as an
+independent variable
+
+-   Germination can be measured by the rate of seed growth over a set
+    period of time
+
+Factors Affecting Germination
+
+[germination factors]

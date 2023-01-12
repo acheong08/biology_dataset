@@ -1,0 +1,45 @@
+Resting Potential
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Neurons pump sodium and potassium ions across their membranes to
+generate a resting potential
+
+Â  Â Â 
+Neurons generate and conduct electrical signals by pumping positively
+charged ions (Na⁺ and K⁺) across their membrane
+
+-   The unequal distribution of ions on different sides of the membrane
+    creates a charge difference called a membrane potential
+
+A resting potential is the difference in charge across the membrane when
+a neuron is not firing
+
+-   In a typical resting potential, the inside of the neuron is more
+    negative relative to the outside (approximately â€“70 mV)
+
+The maintenance of a resting potential is an active process (i.e. ATP
+dependent) that is controlled by sodium-potassium pumps
+
+-   The sodium-potassium pump is a transmembrane protein that actively
+    exchanges sodium and potassium ions (antiport)
+-   It expels 3 Na⁺ ions for every 2 K⁺ ions admitted (additionally,
+    some K⁺ ions will then leak back out of the cell)
+-   This creates an electrochemical gradient whereby the cell interior
+    is relatively negative compared to the extracellular environment (as
+    there are more positively charged ions outside of the cell and more
+    negatively charged ions inside the cell)
+-   The exchange of sodium and potassium ions requires the hydrolysis of
+    ATP (it is an energy-dependent process)
+
+Generation of a Resting Potential
+
+[resting potential]

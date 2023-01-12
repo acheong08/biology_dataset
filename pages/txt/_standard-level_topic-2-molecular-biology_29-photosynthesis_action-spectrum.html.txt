@@ -1,0 +1,38 @@
+Action Spectrum
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Drawing an absorption spectrum for chlorophyll and an action
+spectrum for photosynthesis
+
+Â  Â Â 
+Pigments absorb light as a source of energy for photosynthesis
+
+-   The absorption spectrum indicates the wavelengths of light absorbed
+    by each pigment (e.g. chlorophyll)
+-   The action spectrum indicates the overall rate of photosynthesis at
+    each wavelength of light
+
+There is a strong correlation between the cumulative absorption spectra
+of all pigments and the action spectrum
+
+-   Both display two main peaks â€“ a larger peak at the blue region
+    (~450 nm) and a smaller peak at the red region (~670 nm)Â 
+-   Both display a trough in the green / yellow portion of the visible
+    spectra (~550 nm)
+
+Absorption and Action Spectra
+
+[]
+Select Spectrum
+Absorption spectrum
+Action spectrum
+Absorption + Action Spectra

@@ -1,0 +1,103 @@
+Survival Factors
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The distribution of a species is affected by limiting factors
+
+Â  Â Â 
+In ecology, a limiting factor is a component of an ecosystem which
+limits the distribution or numbers of a population
+
+-   A limiting factor defines optimal survival conditions according to
+    its effect on a species when in deficiency or excess
+
+Limiting factors can be either biotic (living) or abiotic (non-living):
+
+-   Biotic factors include interactions between organisms â€“ either
+    intraspecific (within species) or interspecific (between species)
+-   Abiotic factors include environmental conditions â€“ such as light,
+    temperature, salinity, rainfall, wind velocity, soil pH, etc.
+
+Law of Tolerance
+
+The law of tolerance was proposed by an American zoologist â€“ Victor
+Ernest Shelford â€“ in 1911
+
+-   According to the law of tolerance, populations have optimal survival
+    conditions within critical minimal and maximal thresholds
+-   As a population is exposed to the extremes of a particular limiting
+    factor, the rates of survival begin to drop
+
+The distribution of a species in response to a limiting factor can be
+represented as a bell-shaped curve with 3 distinct regions:
+
+-   Optimal zone â€“ Central portion of curve which has conditions that
+    favour maximal reproductive success and survivability
+-   Zones of stress â€“ Regions flanking the optimal zone, where
+    organisms can survive but with reduced reproductive success
+-   Zones of intolerance â€“ Outermost regions in which organisms cannot
+    survive (represents extremes of the limiting factor)
+
+Shelfordâ€™s Law of Tolerance
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the image to show alternate representation
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Distribution of one animal and one plant species to illustrate
+limits to tolerance and zones of stress
+
+Â  Â Â 
+Plant Example
+
+Plant growth varies greatly in response to concentrations of salt within
+the soil (salinity levels)
+
+-   Plant species that are not particularly salt tolerant are called
+    glycophytes â€“ these plants are easily damaged by high salinity
+-   Plant species that are salt tolerant are called halophytes â€“ these
+    plants may become stressed in freshwater environments
+
+Most plant species are considered to be glycophytes â€“ relatively few
+plant species are halophytes (~ less than 2%)
+
+-   Cultivation of land for agriculture (e.g. irrigation or grazing)
+    causes the water table to rise and concentrates salt at the roots
+-   This makes it harder for glycophytes to extract water from the soil
+    (also, the uptake of salt can be toxic to the plant)
+-   Understanding salt tolerance for different plant species is
+    therefore critically important to effective crop farming
+
+Animal Example
+
+Coral species form connected reefs that are greatly impacted by changes
+in oceanic temperature
+
+-   Coral polyps receive nutrition from photosynthetic zooxanthellae (an
+    algae) that lives within the polypâ€™s endodermis
+-   The zooxanthellae cannot survive in lower ocean temperatures (i.e. <
+    18ÂºC)
+-   Increases in ocean temperature cause zooxanthellae to leave the
+    coral tissue, leading to coral bleachingÂ (i.e. > 35ÂºC)
+
+Reef-building coral species therefore have a typical optimal growth
+range in temperate waters between 20 â€“ 30ÂºC
+
+-   This correlates to the tropical and sub-tropical regions of the
+    world (i.e. near the equator)
+
+Global Distribution of Reef-Building Coral
+
+[coral distribution]

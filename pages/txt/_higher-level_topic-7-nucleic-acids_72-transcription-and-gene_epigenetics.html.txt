@@ -1,0 +1,101 @@
+Epigenetics
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Nucleosomes help to regulate transcription in eukaryotes
+
+Â  Â Â 
+Eukaryotic DNA is wrapped around histone proteins to formÂ compact
+nucleosomes
+
+-   These histone proteins have protruding tails that determine how
+    tightly the DNA is packaged
+
+Modification of Histone Tails
+
+Typically the histone tails have a positive charge and hence associate
+tightly with the negatively charged DNA
+
+-   Adding an acetyl group to the tail (acetylation) neutralises the
+    charge, making DNA less tightly coiled and increasing transcription
+-   Adding a methyl group to the tail (methylation) maintains the
+    positive charge, making DNA more coiled and reducing transcription
+
+Acetylation of Nucleosomes
+
+[acetylation]
+
+Types of Chromatin
+
+When DNA is supercoiled and not accessible for transcription, it exists
+as condensed heterochromatin
+
+When the DNA is loosely packed and therefore accessible to the
+transcription machinery, it exists as euchromatin
+
+-   Different cell types will have varying segments of DNA packaged as
+    heterochromatin and euchromatin
+-   Some segments of DNA may be permanently supercoiled, while other
+    segments may change over the life cycle of the cell
+
+Nucleosome Packaging in Euchromatin and Heterochromatin
+
+[nucleosome packaging]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of changes in the DNA methylation patterns
+
+Â  Â Â 
+Direct methylation of DNA (as opposed to the histone tails) can also
+affect gene expression patterns
+
+-   Increased methylation of DNA decreases gene expression (by
+    preventing the binding of transcription factors)
+-   Consequently, genes that are not transcribed tend to exhibit more
+    DNA methylation than genes that are actively transcribed
+
+Factors Contributing to DNA Methylation Patterns
+
+[methylation factors]
+
+Epigenetics
+
+Epigenetics is the study of changes in phenotype as a result of
+variations in gene expression levelsÂ 
+
+-   Epigenetic analysis shows that DNA methylation patterns may change
+    over the course of a lifetime
+-   It is influenced by heritability but is not genetically
+    pre-determined (identical twins may have different DNA methylation
+    patterns)
+-   Different cell types in the same organism may have markedly
+    different DNA methylation patterns
+-   Environmental factors (e.g. diet, pathogen exposure, etc.) may
+    influence the level of DNA methylation within cells
+
+Comparative DNA Methylation Patterns in Twins of Different Ages
+
+[methylation expt 1]
+
+Comparative Methylation Patterns in Twins of Differing Health Status
+(Healthy vs Diseased)
+
+[methylation expt 2]
+
+Adapted from:
+
+-   Experiment 1:Â  Mapping Differential Methylation between MZ twins
+    using AIMS (Fraga et al. PNAS, 2005)
+-   Experiment 2: Â Epigenetic Regulation of Inflammatory Bowel Disease
+    (Backdahl et al., Int J Biochem Cell Biol, 2009)

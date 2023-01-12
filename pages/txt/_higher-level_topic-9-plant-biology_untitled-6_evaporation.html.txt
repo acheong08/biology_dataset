@@ -1,0 +1,57 @@
+Evaporation
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The adhesive property of water and evaporation generate tension
+forces in leaf cell walls
+
+Â  Â Â 
+Water is lost from the leaves of the plant when it is converted into
+vapour (evaporation) and diffuses from the stomata
+
+-   Some of the light energy absorbed by leaves is converted into heat,
+    which evaporates water within the spongy mesophyll
+-   This vapour diffuses out of the leaf via stomata, creating a
+    negative pressure gradient within the leaf
+-   This negative pressure creates a tension force in leaf cell walls
+    which draws water from the xylem (transpiration pull)
+-   The water is pulled from the xylem under tension due to the adhesive
+    attraction between water and theÂ leaf cell walls
+
+Evaporation within Leaf Tissue
+
+[evaporation]
+
+Regulating Water Loss
+
+The amount of water lost from the leaves (transpiration rate) is
+regulated by the opening and closing of stomata
+
+-   Guard cells flank the stomata and can occlude the opening by
+    becoming increasingly flaccid in response to cellular signals
+-   When a plant begins to wilt from water stress, dehydrated mesophyll
+    cells release the plant hormone abscisic acid (ABA)
+-   Abscisic acid triggers the efflux of potassium from guard cells,
+    decreasing water pressure within the cells (lose turgor)
+-   A loss of turgor makes the stomatal pore close, as the guard cells
+    become flaccid and block the opening
+
+Transpiration rates will be higher when stomatal pores are open than
+when they are closed
+
+-   Stomatal pores are responsible for gas exchange in the leaf and
+    hence levels of photosynthesis will affect transpiration
+-   Other factors that will affect transpiration rates include humidity,
+    temperature, light intensity and wind
+
+Closing of Stomata by Abscisic Acid
+
+[guard cells]

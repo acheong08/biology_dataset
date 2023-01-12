@@ -1,0 +1,78 @@
+DNA Microarrays
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â DNA microarrays can be used to test for genetic predisposition or
+to diagnose the disease
+
+Â  Â Â 
+Individuals can be screened for genetic diseases and cancers by using
+cDNA and microarrays
+
+-   This technology can also be used to investigate the protein
+    expression pathways that lead to these conditions
+
+cDNA
+
+Complementary DNA (cDNA) is a molecule synthesised from an mRNA template
+via reverse transcription
+
+-   cDNA molecules represent gene sequences that areÂ actively
+    transcribedÂ by a cell (as they were synthesised from mRNA)Â 
+-   This makes them a valuable tool for determining expression patterns
+    of proteins in normal and diseased states
+
+Microarray
+
+A DNA microarray is a collection of microscopic DNA sequences (oligos)
+attached to a solid surface
+
+-   These sequences represent fractions of a large library of genes that
+    are present in a cell
+-   If a gene is active within a cell, then the cDNA (produced from the
+    mRNA transcript) will bind to its complementary oligo
+-   If the cDNA has been fluorescently labeled, then the complementary
+    oligo can be identifiedÂ 
+-   Each oligo represents a known gene sequence, so genetic diseases are
+    identified according to whichÂ oligos are hybridised
+-   The greater the expression of a particular gene, the brighter the
+    fluorescence seen in the relevant microarray well
+
+In addition to diagnosing genetic diseases, microarrays can also be used
+to identify new genes that cause disease conditions
+
+-   If cDNA from healthy and diseased cells are labeled with different
+    fluorophores, comparisons of gene expression can be made
+-   Genes that areÂ onlyÂ active in a diseased or normal state will be
+    of particular interest to scientists
+
+DNA Microarray Overview
+
+[microarray]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of a simple microarray
+
+Â  Â Â 
+When microarrays are used to compare mRNA expression in healthy and
+diseased cells, the following conventions are used:
+
+-   cDNA from healthy cells are typically tagged with green
+    fluorescence, while cDNA from diseased cells are tagged with red
+-   This enables identification of genes present only in healthy cells
+    (green), diseased cells (red), both (yellow) or neither (none)
+
+Microarray Analysis Â (click on the diagram to solve)
+
+[My Image 1] [My Image 2]

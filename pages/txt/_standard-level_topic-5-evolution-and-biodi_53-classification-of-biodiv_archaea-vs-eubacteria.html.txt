@@ -1,0 +1,31 @@
+Archaea vs Eubacteria
+
+Traditional classification schemes separated organisms into two main
+groups â€“ prokaryotes and eukaryotes
+
+-   This classification scheme was widely entrenched until 1977 when
+    Carl Woese proposed a new system
+
+The large diversity of organisms classified as prokaryotes prompted
+Woese to separate these bacteria into two distinct domains
+
+-   Eubacteria includes most of the commonly encountered bacterial forms
+    (i.e. pathogenic bacteria and probiotic bacteria)
+-   Archaea consists of the extremophiles (e.g. thermophiles,
+    halophiles, methanogens, etc.)
+
+The archaeal cells were found to possess certain features that were more
+in common with eukaryotic cells than eubacteria
+
+-   This included certain structural features (e.g. cell wall
+    composition) and the presence of histone-like proteins in DNA
+-   Based on these discoveries it was concluded that eukaryotes and
+    archaea share more recent common ancestry than eubacteria
+
+Comparison of Archaea, Eubacteria and Eukarya
+
+[archaea vs eubacteria]
+
+Evolutionary History of the Three Domains
+
+[archaea phylogeny]

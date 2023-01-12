@@ -1,0 +1,76 @@
+Tracking Experiments
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Tracking experiments are used to gain information about the
+localization and interaction of a desired protein
+
+Â  Â  Â Â 
+If a protein is labelled to enable detection, its subsequent movements
+can be tracked to gain information about its function
+
+-   Tracking protein locations can provide information about cellular
+    and subcellular targets for protein activity
+-   Tracking protein interactions can provide information about reaction
+    pathways with which the protein is involved
+
+Proteins can be tracked by tagging with a fluorescent molecule to enable
+detection with appropriate imaging devices
+
+-   Consideration must be given as to whether forming a fluorescent
+    complex will impair its ability to interact with targets
+
+Alternatively, proteins can be tracked by incorporating radioactively
+labelled amino acids into its structure
+
+-   This is called a pulse-chase experiment, as the protein is
+    radiolabelled (â€˜pulseâ€™) to enable its temporary detection
+    (â€˜chaseâ€™)
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Tracking tumour cells using transferrin linked to luminescent
+probes
+
+Â  Â  Â Â 
+Transferrins are protein molecules that transport iron within the blood
+plasma
+
+-   Transferrin facilitates iron uptake into target cells by binding to
+    specific transferrin receptors, which mediate endocytosis
+
+The expression of transferrin receptors is significantly upregulated in
+tumour cells (i.e. they have a lot more of them)
+
+-   This means that transferrins will bind more frequently to tumour
+    cells as they have more transferrin receptors
+-   If transferrin is linked to a luminescent probe, tumour cells will
+    therefore show greater luminescence
+
+Transferrin Receptor Upregulation in Tumour Cells
+
+[transferrin]
+
+Tumour Tracking
+
+Because tumour cells will luminesce more brightly, transferrin-linked
+luminescent probes can be used to locate tumours
+
+-   This can be useful in determining the rates of cancer progression in
+    test animals â€“ which is helpful in developing treatments
+-   It can also be used to determine the extent of spread of a cancer
+    should it metastasise to another tissue
+
+Locating Tumours with Luminescent Probes
+
+[tumor tracking]

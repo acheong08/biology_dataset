@@ -1,0 +1,45 @@
+Water Structure
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Water molecules are polar and hydrogen bonds form between them
+
+Â  Â Â 
+Water is made up of two hydrogen atoms covalently bonded to an oxygen
+atom (molecular formula = H₂O)
+
+While this covalent bonding involves the sharing of electrons, they are
+not shared equally between the atoms
+
+-   Oxygen (due to having a higher electronegativity) attracts the
+    electrons more stronglyÂ 
+-   The shared electrons orbit closer to the oxygen atom than the
+    hydrogen atoms resulting in polarity
+
+[water structure]
+
+Water is described as being polar because it has a slight charge
+difference across the different poles of the molecule
+
+-   The oxygen atom is slightly negative (Î´^(â€“)) while the hydrogen
+    atoms are slightly positiveÂ (Î´⁺)
+
+This charge difference across the molecule (dipole) allows water to form
+weak associations with other polar moleculesÂ 
+
+-   The slightly negative polesÂ (Î´^(â€“))Â will attract the slightly
+    positive polesÂ (Î´⁺)Â of other molecules, and vice versa
+
+When aÂ Î´⁺Â hydrogen atom is attracted to aÂ Î´^(â€“)Â fluorine, oxygen
+or nitrogen atom of another molecule, it forms a hydrogen bond
+
+-   Hydrogen bonds are relatively stronger than other polar associations
+    due to the high electronegativity of F, O and N

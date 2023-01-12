@@ -1,0 +1,48 @@
+SA : Vol Ratio
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Surface area to volume ratio is important in the limitation of
+cell size
+
+Â  Â Â 
+Cells need to produce chemical energy (via metabolism) to survive and
+this requires the exchange of materials with the environment
+
+-   The rate of metabolism of a cell is a function of its mass /
+    volumeÂ  (larger cells need more energy to sustain essential
+    functions)
+-   The rate of material exchange is a function of its surface areaÂ 
+    (large membrane surface equates to more material movement)
+
+As a cell grows, volume (units³) increases faster than surface area
+(units²), leading to a decreased SA:Vol ratio
+
+-   If metabolic rate exceeds the rate of exchange of vital materials
+    and wastes (low SA:Vol ratio), the cell will eventually die
+-   Hence growing cells tend to divide and remain small in order to
+    maintain a high SA:Vol ratio suitable for survival
+
+Overview of Surface Area to Volume Ratio
+
+[SA-Vol ratio]
+
+Increasing SA:Vol Ratio
+
+Cells and tissues that are specialised for gas or material exchanges
+will increase their surface area to optimise material transfer
+
+-   Intestinal tissue of the digestive tract may form a ruffled
+    structure (villi) to increase the surface area of the inner lining
+-   Alveoli within the lungs have membranous extensions called
+    microvilli, which function to increase the total membrane surface
+
+[villi and microvilli]

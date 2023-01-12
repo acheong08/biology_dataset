@@ -1,0 +1,54 @@
+Types of Signalling
+
+Cells communicate via various types of signalling by which chemicals
+travel to target sites in order to elicit a response
+
+-   Different types of cell signalling include autocrine, paracrine and
+    endocrine signalling
+
+Autocrine
+
+-   Autocrine signalling occurs when the chemicals released by a cell
+    stimulate the cell itself (i.e.Â â€˜selfâ€™ signalling)
+-   An example is the proliferation of T lymphocytes following cytokine
+    release from an activated T lymphocyte
+
+Paracrine
+
+-   Paracrine signalling occurs when the chemicals released by a cell
+    stimulate a neighbouring cell
+-   An example is the stimulation of post-synaptic neurons by
+    neurotransmitters released from a pre-synapticÂ neuron
+
+Endocrine
+
+-   Endocrine signalling occurs when a chemical released by a cell
+    travels in the bloodstream to activate distant cells
+-   An example is the release of hormones from endocrine glands to
+    activate distant target tissue
+
+Different Types of Cell Signalling
+
+[cell signalling]
+
+Types of Secretion
+
+Hormones are released indiscriminately into the bloodstream and only
+activate cells and tissues with specific receptors
+
+-   While hormonal responses are slower than nervous responses, the
+    duration of effect can be longer
+-   Hormones work at low concentrations, but sustained release is viable
+    if hormones are stored within the secretory cells
+
+Hormonal secretion can either be constitutive or regulated according to
+need:
+
+-   In constitutive secretion, hormones are released as they are
+    produced (vesicles fuse directly with the cell membrane)
+-   In regulated secretion, hormones are stored in vesicles and only
+    released following an external signal
+
+Constitutive versus Regulated Secretion
+
+[secretion]

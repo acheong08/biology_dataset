@@ -1,0 +1,52 @@
+Rational Drug Design
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of databases to identify potential new anti-malarial drugs
+
+Â  Â Â 
+Malaria is a disease caused by parasitic protozoans of the genus
+Plasmodium
+
+-   The life cycle of the parasite requires both a human and mosquito
+    host â€“ hence the disease is transmitted via mosquito bites
+-   The maturation and development of the parasite in both human and
+    mosquito host is coordinated by specific enzymes
+-   By targeting these enzymes for inhibition, new anti-malarial drugs
+    and medications can be produced
+
+Scientists have sequenced the genome of infectious species of Plasmodium
+and used it to determine the parasiteâ€™s proteome
+
+-   From the proteome, enzymes involved in parasitic metabolism have
+    been identified as potential targets for inhibition
+
+These enzymes may be screened against a bioinformaticÂ database of
+chemicals to identify potential enzyme inhibitors
+
+-   Once a promising compound is identified, it may be chemically
+    modified to improve its binding affinity and lower its toxicity
+-   In one particular study, over 300,000 chemicals were screened to
+    identify 19 new chemicals that might function as inhibitorsÂ 
+
+An alternative method by which potential new anti-malarial medications
+can be synthesised is via rational drug design
+
+-   Rational drug design involves using computer modelling techniques to
+    invent a compound that will function as an inhibitor
+-   Using combinatorial chemistry, a compound is synthesised that is
+    complementary to the active site of the target enzyme
+
+Plasmodium Life Cycle and Anti-Malarial Drugs
+
+[malarial drugs]
+
+Link: Â Antimalarial Drug Efficacy Map

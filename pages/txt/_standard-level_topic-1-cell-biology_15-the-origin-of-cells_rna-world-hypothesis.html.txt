@@ -1,0 +1,35 @@
+RNA World Hypothesis
+
+The RNA world hypothesis proposes that a world filled with RNA-based
+life predates current DNA-based lifeforms
+
+RNA has two key qualities that would have allowed it to function in this
+manner:
+
+RNA can self-replicate
+
+-   RNA is able to store information in a sequence composed of four
+    recurring nucleotides (similar to DNA)
+-   Short sequences of RNA are able to be accurately duplicated to form
+    identical RNA molecules
+
+RNA can act as a catalyst
+
+-   Modern cells use RNA catalysts (called ribozymes) to remove introns
+    from mRNA and help synthesise new RNA molecules
+-   In ribosomes, rRNA functions as the catalytic component and plays a
+    pivotal role in peptide bond formation
+
+RNA is the only molecule that is capable of both self-replication and
+catalytic functioning, but has since beenÂ superseded:
+
+-   DNA, through its superior chemical stability (double helical
+    structure) has taken over as the data storage form
+-   Protein, through its greater variability (20 amino acids as opposed
+    to 4 nucleotide bases) has taken over as the catalytic form
+-   RNA remains as a transitional form between DNA and protein,
+    suggestive of its multi-faceted originsÂ 
+
+Summary of the RNA World Hypothesis
+
+[RNA world hypothesis]

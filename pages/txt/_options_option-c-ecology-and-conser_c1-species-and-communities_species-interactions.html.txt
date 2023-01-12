@@ -1,0 +1,188 @@
+Species Interactions
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Interactions between species in a community can be classified
+according to their effect
+
+Â  Â Â 
+In nature, no species exist in total isolation â€“ all organisms
+interact with both the abiotic environment and other organisms
+
+-   The interactions between species in a community can be classified
+    according to their effect on the organisms involved
+
+Herbivory
+
+Herbivory is the act of eating only plant matter (e.g. primary consumers
+are considered herbivores)
+
+-   Herbivores may employ different feeding strategies (e.g. mucivores
+    feed on plant sap, granivores feed on seeds, etc.)
+
+Herbivory can be either harmful or beneficial to the plant species as a
+whole:
+
+-   Certain types of beetle may feed voraciously on the leaves / foliage
+    of crop plants (folivores), causing crop failure
+-   Fruit-eating animals (frugivores) spread the seeds from a fruit in
+    their faeces, promoting overall seed dispersal Â 
+
+Examples of Herbivores
+
+[herbivores]
+
+Predation
+
+Predation is a biological interaction whereby one organism (predator)
+hunts and feeds on another organism (prey)
+
+Because the predator relies on the prey as a food source, their
+population levels are inextricably intertwined
+
+-   If the prey population drops (e.g. due to over-feeding), predator
+    numbers will dwindle as intra-specific competition increases
+-   If the prey population rises, predator numbers will increase as a
+    result of the over-abundance of a food source
+
+Predator-Prey Relationship (Arctic Fox vs Snowshoe Hare)
+
+[predator-prey]
+
+Symbiosis
+
+Symbiosis describes the close and persistent (long-term) interaction
+between two species
+
+-   Symbiotic relationships can be obligate (required for survival) or
+    facultative (advantageous without being strictly necessary)
+
+Symbiotic relationships can be beneficial to either one or both
+organisms in the partnership:
+
+-   MutualismÂ â€“ Both species benefit from the interaction (anemone
+    protects clownfish, clownfish provides fecal matter for food)
+-   CommensalismÂ â€“ One species benefits, the other is unaffected
+    (barnacles transported to plankton-rich waters by whales)
+-   ParasitismÂ â€“ One species benefits to the detriment of the other
+    species (ticks or fleas feed on the blood of their canine host)
+
+Types of Symbiotic Relationships
+
+[symbiosis]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Local examples to illustrate the range of ways in which species
+can interact within a community
+
+Â  Â Â 
+Mutualism
+
+Mutualism describes an ongoing interaction between two species whereby
+both species benefit from the interaction
+
+-   Honey bees gather food (nectar) from flowers and distributes pollen
+    between plants (mediating plant life cycle)
+-   Plover birds pick food morsels from between the jaws of crocodiles,
+    cleaning the crocodiles teeth in the process
+-   Zooxanthellae (algae) photosynthesise within the protective
+    environment of the polypâ€™s endodermis (feeding the coral)
+
+[mutualism]
+
+Commensalism
+
+Commensalism describes an ongoing interaction between two species
+whereby one benefits and the other is unaffected
+
+-   Remora attach to the underside of larger predatory fish (e.g.
+    sharks) and feed off the uneaten food scraps
+-   Monarch butterflies can safely store poisonous chemicals produced by
+    milkweeds, discouraging predators from eating it
+-   Decorator crabs remove small fragments of tissue from sea sponges
+    and uses them as a source of camouflage
+
+[commensalism]
+
+Parasitism
+
+Parasitism describes an ongoing interaction between two species whereby
+one species benefits at the other's expense
+
+-   Ticks infest the skin and fur of host animals (such as humans),
+    feeding off the host and potentially causing disease
+-   Leeches attach to the skin and drinks the blood of the host animal
+    until fully engorged
+-   Tongue-eating louses eat the tongue of a fish (it may then function
+    as a replacement tongue â€“ stealing ingested food)
+
+[parasitism]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â The symbiotic relationship between Zooxanthellae and reef-building
+coral reef species
+
+Â  Â Â 
+Reef-building coral will form a symbiotic relationship with the
+photosynthetic unicellular algae â€“ Zooxanthellae
+
+-   Coral are colonial organisms made up of individual polyps that are
+    connected by a layer of living tissue
+-   The algae lives within the cells of the coralâ€™s endodermis
+    (innermost lining of the animal)
+
+The coral provides the algae with a protective environment and source of
+inorganic compounds:
+
+-   Coral polyps secrete calcium carbonate to build a stony skeleton
+    which encases the polyps (and zooxanthellae)
+-   Coral polyps also recycle the waste products of the algae and
+    supplies the zooxanthellae with carbon dioxide
+
+The zooxanthellae, in turn, provides the coral polyps with a necessary
+source of nutrition:
+
+-   The algae supplies the coral with oxygen, glucose and other organic
+    molecules (produced via photosynthesis)
+-   The algae also helps the coral to remove necessary waste products
+
+Mutualistic Relationship Between Algae and Coral
+
+[coral anatomy]
+
+Coral Bleaching
+
+It is the zooxanthellae within the polyp endodermis which gives the
+coral its vibrantÂ pigmentation
+
+-   When there is a large scale loss of zooxanthellae from the coral
+    (due to environmental stress), bleaching occurs
+-   When bleaching occurs, coral begins to starve and will die unless
+    the zooxanthellae are restored
+
+Conditions which can cause coral bleaching include:
+
+-   Changes in light availability (e.g. sedimentation may increase the
+    opacity of the oceanic waters)
+-   Temperature increases (water temperatures in excess of 30ÂºC can
+    irrevocably stress the zooxanthellae)Â 
+-   Ocean acidification (the build up of carbon dioxide concentrations
+    in the ocean can lower pH and stress the algae)
+
+Healthy versus Bleached Coral
+
+[coral bleaching]

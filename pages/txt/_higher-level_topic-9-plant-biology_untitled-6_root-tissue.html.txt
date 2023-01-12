@@ -1,0 +1,22 @@
+Root Tissue
+
+Below is a microscopic cross-section of a typical root (taken from a
+dicotyledonous plant)
+
+-   Distribution of tissues may differ between different types of plants
+    according to functional requirements
+
+[My Image 1] [My Image 2]
+
+Click on the above image to show / hide labels
+
+Key Features:
+
+-   The outer layer (epidermis) may have protrusions called root hairs
+    to increase available surface area for material exchange
+-   The central region is called the stele and is surrounded by an
+    endodermis with a Casparian strip (controls water transport)
+-   The pericycle / cambium provides strength to the root and is also
+    responsible for the development of lateral roots
+-   The vascular bundle is located centrally to withstand stretching
+    forces and allow for material transport to be controlled

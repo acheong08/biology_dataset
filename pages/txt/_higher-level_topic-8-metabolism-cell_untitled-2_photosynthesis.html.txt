@@ -1,0 +1,63 @@
+Photosynthesis
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Light dependent reactions take place in the intermembrane space of
+the thylakoids
+
+â€¢ Â Light independent reactions take place in the stroma
+
+Â  Â Â 
+Photosynthesis is the process by which cells synthesise organic
+molecules (e.g. glucose) from inorganic molecules (CO₂ and H₂O) in the
+presence of sunlight
+This process requires a photosynthetic pigment (chlorophyll) and can
+only occur in certain organisms (plants, some bacteria)
+
+-   In plants, photosynthesis occurs within a specialised organelle
+    called theÂ chloroplast
+
+Photosynthesis Equation
+
+[photosynthesis equation]
+
+Photosynthesis is a two step process:
+
+-   The light dependent reactions convert light energy from the Sun into
+    chemical energy (ATP)
+-   The light independent reactions use the chemical energy to
+    synthesise organic compounds (e.g. carbohydrates)
+
+Step 1:Â Â Light Dependent Reactions
+
+-   Light is absorbed by chlorophyll, which releases energised electrons
+    that are used to produce ATP (chemical energy)
+-   The electrons are donated to carrier molecules (NADP⁺), which is
+    used (along with ATP) in the light independent reactionsÂ 
+-   The electrons lost from the chlorophyll are replaced by water, which
+    is split (photolysis) to produce oxygen and hydrogen
+-   The light dependent reactions occur in the intermembraneÂ space of
+    membranous discs called thylakoids
+
+Step 2:Â Â Light Independent Reactions
+
+-   ATP and hydrogen / electrons (carried by NADPH) are transferred to
+    the site of the light independent reactions
+-   The hydrogen / electrons are combined with carbon dioxide to form
+    complex organic compounds (e.g. carbohydrates)
+-   The ATP provides the required energy to power these anabolic
+    reactions and fix the carbon molecules together
+-   The light independent reactions occur within the fluid-filled
+    interior of the chloroplast called the stroma
+
+Overview of the Two Stages of Photosynthesis
+
+[photosynthesis reactions]

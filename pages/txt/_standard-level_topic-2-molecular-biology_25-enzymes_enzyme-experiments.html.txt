@@ -1,0 +1,81 @@
+Enzyme Experiments
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Design of experiments to test the effect of temperature, pH and
+substrate concentration on the
+
+Â  Â activity of enzymes
+
+Â  Â Â 
+When designing an experiment to test the effect of factors affecting
+enzyme activity, the three key decisions to be made are:
+
+-   Which factor to investigate (i.e. the independent variable)
+-   Which enzyme / substrate reaction to use
+-   How to measure the enzyme activity (i.e. the dependent variable)
+
+Choosing the Independent Variable
+
+The main factors which will affect the activity of an enzyme on a given
+substrate are:
+
+-   Temperature (use water baths to minimise fluctuations)
+-   pH (acidic or alkaline solutions)
+-   Substrate concentration (choose range to avoid saturation)
+-   Presence of inhibitor (type of inhibitor will be enzyme-specific)
+
+Selecting an Enzyme and Substrate
+
+Selection will depend onÂ availability within the school, however
+certain enzymes can be extracted from common food sources
+
+Examples of common enzyme-catalysed reactions include:
+
+[enzyme table 1]
+
+Measuring Enzyme Activity
+
+The method of data collection will depend on the reaction occurring â€“
+typically most reactions are measured according to:
+
+-   The amount / rate of substrate decomposition (e.g. breakdown of
+    starch)
+-   The amount / rate of product formation (e.g. formation of maltose)
+
+[enzyme table 2]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Experimental investigation of a factor affecting enzyme activity
+
+Â  Â Â 
+Key things to consider when conducting an experimental investigation
+into a factor affecting enzyme activity include:
+
+-   What is an appropriate range of values to select for your
+    independent variable?
+-   Have you chosen a sufficient time period for the reaction to
+    proceed?
+-   Have you identified, and controlled, all relevant extraneous
+    variables?
+-   Can you include a negative control condition (no enzyme) to
+    establish baseline readings?
+-   Can you include a positive control condition to confirm enzyme
+    activity?
+-   Is it possible to treat the enzyme with the independent variable
+    before mixing with the substrate?
+-   Does the data collection method allow for sufficient precision in
+    detecting changes to levels of product / substrate?
+-   Have all appropriate safety precautions been taken when handling
+    relevant substances?

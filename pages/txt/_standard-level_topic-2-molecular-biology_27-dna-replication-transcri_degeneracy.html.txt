@@ -1,0 +1,23 @@
+Degeneracy
+
+The genetic code has only ~20 amino acids but has 64 different codon
+combinations
+
+-   Consequently, the genetic code is said to show degeneracy â€“ more
+    than one codon may code for a single amino acid
+
+Due to the shape of the tRNA molecule, the third base of an anticodon is
+not orientated optimally for base pairing
+
+-   Consequently, this third base is less discriminatory towards
+    complementary pairingÂ 
+-   This is why degeneracy always occurs in the third base of a
+    codonÂ (this site is known as the wobble position)
+
+Degeneracy of the genetic code allows for the occurrence of silent
+mutations â€“ whereby a change in the DNA sequence does not alter the
+polypeptide sequence
+
+The Wobble Hypothesis
+
+[wobble hypothesis]

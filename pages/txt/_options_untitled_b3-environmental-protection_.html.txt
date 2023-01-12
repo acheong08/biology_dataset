@@ -1,0 +1,33 @@
+B3 Â Environmental Protection
+
+[big ninja]
+
+Essential Idea:
+Biotechnology can be used in the prevention and mitigation of
+contamination from industrial, agricultural and municipal wastes
+
+Â  Â  Â 
+Understandings:
+
+-   Responses to pollution incidents can involve bioremediation combined
+    with physical and chemical procedures
+-   Microorganisms are used in bioremediation
+-   Some pollutants are metabolised by microorganisms
+-   Cooperative aggregates of microorganisms can form biofilms
+-   Microorganisms in biofilms cooperate through quorum sensing
+-   Biofilms possess emergent properties
+-   Microorganisms growing in a biofilm are highly resistant to
+    antimicrobial agents
+-   Bacteriophages are used in the disinfection of water systems
+
+Applications:
+
+-   Degradation of oil by Pseudomonas
+-   Degradation of benzene by halophilic bacteria such as Marinobacter
+-   Conversion by Pseudomonas of methyl mercury into elemental mercury
+-   Use of biofilms in trickle filter beds for sewage treatment
+
+Skills:
+
+-   Evaluation of data or media reports on environmental problems caused
+    by biofilms

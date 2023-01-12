@@ -1,0 +1,68 @@
+Trophic Levels
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Most species occupy different trophic levels in multiple food
+chains
+
+Â  Â Â 
+The position an organism occupies within a feeding sequence is known as
+a trophic level
+
+-   Producers always occupy the first trophic level in a feeding
+    sequence
+-   Primary consumers feed on producers and hence occupy the second
+    trophic level
+-   Further consumers (e.g. secondary, tertiary, etc.) may occupy
+    subsequent trophic levels
+
+The trophic levels in a community are:
+
+[trophic levels]
+
+Food Chains
+
+A food chain shows the linear feeding relationships between species in a
+community
+
+-   Arrows represent the transfer of energy and matter as one organism
+    is eaten by another (arrows point in direction of energy flow)
+-   The first organism in a food chain is always a producer, followed by
+    consumers (primary, secondary, etc.)
+-   Most species feeding requirements will consist of multiple food
+    chains, with organisms occupying different trophic levels
+
+[food chains]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â A food web shows all the possible food chains in a community
+
+Â  Â Â 
+A food web is a diagram that shows how food chains are linked together
+into more complex interrrelated feeding relationshipsÂ 
+A food web is more representative of actual feeding pathways within an
+ecosystem because:
+
+-   Organisms can have more than one food source
+-   Organisms can have more than one predator
+
+This means that, unlike a food chain, organisms in a food web can occupy
+more than one trophic level
+
+-   Hint: Â When constructing food webs, position organisms at their
+    highest trophic level (keeps all arrows pointing in same direction)
+
+Example of a Food Web (Pond Ecosystem)
+
+[food web]

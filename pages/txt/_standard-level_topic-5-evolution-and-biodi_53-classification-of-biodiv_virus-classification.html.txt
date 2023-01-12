@@ -1,0 +1,20 @@
+Virus Classification
+
+Viruses do not share the same classification system as organisms because
+they are not considered to be living
+
+-   Viruses do not have metabolism and can only reproduce using the
+    cellular machinery of an infected host cell
+
+Viruses are classified mainly according to phenotypic characteristics,
+including:
+
+-   Morphology (e.g. helical, icosohedral, spherical, complex)
+-   Nucleic acid type (e.g. DNA = adenovirus ; RNA = retrovirus)
+-   Method of viral replication (e.g. lytic vs lysogenic cycles)
+-   Host organisms (e.g. bacteriophages)
+-   Types of disease caused (e.g. influenza virus, HIV)
+
+Types of Viruses
+
+[types of viruses]

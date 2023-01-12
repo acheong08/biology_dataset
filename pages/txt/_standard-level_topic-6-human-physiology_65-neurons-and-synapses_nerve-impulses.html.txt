@@ -1,0 +1,65 @@
+Nerve Impulses
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Nerve impulses are action potentials propagated along the axons
+ofÂ neurons
+
+Â  Â Â 
+Nerve impulses are action potentials that move along the length of an
+axon as a wave of depolarisation
+
+-   Depolarisation occurs when ion channels open and cause a change in
+    membrane potential
+-   The ion channels that occupy the length of the axon are
+    voltage-gated (open in response to changes in membrane potential)
+-   Hence, depolarisation at one point of the axon triggers the opening
+    of ion channels in the next segment of the axon
+-   This causes depolarisation to spread along the length of the axon as
+    a unidirectional â€˜waveâ€™
+
+Propagation of a Nerve Impulse
+
+[nerve impulse]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Propagation of nerve impulses is the result of local currents that
+cause each successive part of the axon to
+
+Â  Â Â reach the threshold potential
+
+Â  Â Â 
+Action potentials are generated within the axon according to the
+all-or-none principle
+
+-   An action potential of the same magnitude will always occur provided
+    a minimum electrical stimulus is generated
+-   This minimum stimulus â€“ known as the threshold potentialÂ (â€“55
+    mV) â€“ is the level required to open voltage-gated ion channelsÂ 
+-   If the threshold potential is not reached, an action potential
+    cannot be generated and hence the neuron will not fire
+
+Threshold potentials are triggered when the combined stimulation from
+the dendrites exceeds a minimum level of depolarisation
+
+-   If the overall depolarisation from the dendrites is sufficient to
+    activate voltage-gated ion channels in one section of the axon, the
+    resulting displacement of ions should be sufficient to trigger the
+    activation of voltage-gated ion channels in the next axon section
+
+Direction of a Nerve Impulse
+
+This browser cannot play the embedded video file.
+
+[nerve-impulse-2]

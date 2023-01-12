@@ -1,0 +1,23 @@
+Types of Eubacteria
+
+All bacteria share features common to every prokaryotic cell:
+
+-   They lack a nucleus and membrane-bound organelles
+-   They have circular DNA that is naked (not bound to protein)
+-   They have smaller ribosomes (70S)
+
+However different types of bacteria can be distinguished according to a
+number of characteristics:
+
+-   ShapeÂ â€“ Round (coccus), rod-like (bacillus), comma-shaped
+    (vibrio) or spiral (spirilla / spirochete)
+-   Cell wall compositionÂ â€“ Gram-positive (thick peptidoglycan layer)
+    or Gram-negative (lipopolysaccharide layer)
+-   Gaseous requirementsÂ â€“ Anaerobic (obligate or facultative) or
+    aerobic
+-   Nutritional patternsÂ â€“ Autotrophic (photosynthetic or
+    chemosynthetic) or heterotrophic
+
+Sub-Classifications of Eubacteria
+
+[types of bacteria]

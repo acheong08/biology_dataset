@@ -1,0 +1,59 @@
+Biopharming
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Biopharming uses genetically modified animals and plants to
+produce proteins for therapeutic use
+
+Â  Â  Â Â 
+Biopharming involves using transgenic plants or animals to produce
+(orÂ â€˜farmâ€™) pharmaceutical products for therapeutic use
+
+-   This involves the insertion of target genes into hosts (crops or
+    animals) that would not normally express those genes
+-   The desired compound can potentially be expressed in a form that is
+    routinely harvested (e.g. milk, eggs, fruits, etc.)
+
+There are several established examples of biopharming, including:
+
+-   Transgenic sheep that produce humanÂ Î±-1-antitrypsin in their milk
+    (individuals deficient in this enzyme develop emphysema)
+-   Crops that express attenuated antigenic fragments for specific
+    pathogenic diseases (i.e. edible vaccines)Â 
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Biopharming of antithrombin
+
+Â  Â  Â Â 
+Antithrombin is a blood protein which inactivates certain enzymes in the
+coagulation system to prevent excessive clotting
+
+-   Individuals with a genetic or acquired antithrombin deficiency are
+    at an increased risk of developing damaging blood clots
+
+Genetically engineered antithrombin has been biopharmed from transgenic
+goats to produce stocks for commercial use
+
+-   A human gene encoding for antithrombin is introduced into the
+    fertilised egg of a goat
+-   The modified eggs are implanted into the uterus of surrogates, which
+    give birth to transgenic offspring
+-   The transgenic offspring will produce human antithrombin in its
+    milk, which can then be extracted and purified
+-   Each year, the transgenic goat can produce a quantity of
+    antithrombin equivalent to 90,000 human blood donations
+
+Biopharming of Antithrombin
+
+[biopharming]

@@ -1,0 +1,100 @@
+Phylogenetics
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Multiple sequence alignment is used in the study ofÂ phylogenetics
+
+Â  Â Â 
+Phylogeny refers to an evolutionary line of descent and can be
+determined by comparing sequences in different species
+
+-   Variations in these sequences (either nucleotide or amino acid
+    sequences) will occur due to mutations
+-   The greater the differences between the sequences, the longer the
+    time span since the two species had a common ancestor
+
+Cladograms are tree diagrams where each branch point represents the
+splitting of two new groups from a common ancestor
+
+-   Each branch point (node) represents a speciation event by which
+    distinct species are formed via divergent evolution
+-   In cladograms, the length of each branch is the same â€“ the
+    branches do not infer an evolutionary time scale
+
+Phylograms are similar to cladograms, however branch lengths may differ
+according to the length of time since speciation
+
+-   Unlike cladograms, phylograms do infer the amount of evolutionary
+    time separating two species
+
+Phylogram construction requires comparison of sequences that have a
+constant rate of mutation (â€˜evolutionary clocksâ€™)
+
+-   Mitochondrial DNA is a useful source as it is maternally derived,
+    has a known mutation rate and lacks recombinationÂ 
+
+Phylogenetic Analysis â€“ Cladogram versus Phylogram
+
+[cladogram vs phylogram]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Use of software to construct simple cladograms and phylograms of
+related organisms using DNA sequences
+
+Â  Â Â 
+Phylogeny trees can be constructed from DNA sequences by usingÂ two
+online resources:
+
+-   GenBankÂ â€“ a genetic database that serves as an annotated
+    collection of DNA sequences
+-   Clustal OmegaÂ â€“ an alignment program that compares multiple
+    sequences of DNA
+
+[genbank][clustal]
+
+Â  Â 
+
+Constructing Phylogeny Trees
+
+Step 1:Â Â Select a gene or protein common to a range of selected
+organisms
+
+-   Examples of molecules which are ubiquitously found in many animals
+    include haemoglobin and cytochrome c
+
+Step 2:Â Â Copy the molecular sequence (DNA or amino acid) for each of
+the selected organisms
+
+-   Use the GenBank database to identify relevant DNA or amino acid
+    sequences
+-   Sequences can be collated in a Word document and then saved as a
+    document in plain text format (.txt)Â 
+-   Before each sequence, designate a species name preceded by a forward
+    arrow (e.g. '>Humanâ€™Â orÂ â€˜>Chimpanzeeâ€™)
+
+Step 3:Â Â Run a multiple alignment and generate a phylogeny tree
+(cladogram)
+
+-   Use Clustal Omega align multiple DNA or amino acid sequences for
+    comparison
+-   Clustal Omega can generate branched phylograms after a sequence
+    alignment is completed (selectÂ â€˜Phylogenetic Treeâ€™)
+
+Example: Â Upload the following plain text files to compare nucleotide
+and amino acid sequences from different species:
+
+-   CHRNEÂ Â â€“ Â Cholinergic receptor epsilon (nicotinic) for various
+    species (nucleotide sequence)
+-   HBAÂ Â â€“ Â Haemoglobin alpha chain from various speciesÂ (amino
+    acid sequence)

@@ -1,0 +1,154 @@
+Organelles
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Structure and function of organelles in exocrine gland cells
+(pancreas) and palisade mesophyll cells (leaf)Â 
+
+Â  Â Â 
+Organelles are specialised sub-structures within a cell that serve a
+specific function
+
+Prokaryotic cells do not typically possess any membrane-bound
+organelles, whereas eukaryotic cells possess several
+
+Universal OrganellesÂ Â (prokaryote and eukaryote):
+
+[ribosome]
+
+Ribosomes
+
+Structure:Â Â Two subunits made of RNA and protein; larger in eukaryotes
+(80S) than prokaryotes (70S)
+
+Function:Â Â Site of polypeptide synthesis (this process is called
+translation)
+
+[cytoskeleton]
+
+Cytoskeleton
+
+Structure:Â Â A filamentous scaffolding within the cytoplasm (fluid
+portion of the cytoplasm is the cytosol)
+
+Function:Â Â Provides internal structure and mediates intracellular
+transport (less developed in prokaryotes)
+
+[plasma membrane]
+
+Plasma membrane
+
+Structure: Â Phospholipid bilayer embedded with proteins (not an
+organelle per se, but a vital structure)
+
+Function: Â Semi-permeable and selective barrier surrounding the cell
+
+Eukaryotic Organelles Â (animal cell and plant cell):
+
+[nucleus]
+
+Nucleus
+
+Structure: Â Double membrane structure with pores; contains an inner
+region called a nucleolus
+
+Function: Â Stores genetic material (DNA) as chromatin; nucleolus is
+site of ribosome assembly
+
+[endoplasmic reticulum]
+
+Endoplasmic Reticulum
+
+Structure: Â A membrane network that may be bare (smooth ER) or studded
+with ribosomes (rough ER)
+
+Function: Â Transports materials between organelles (smooth ER = lipids
+; rough ER = proteins)
+
+[golgi body]
+
+Golgi Apparatus
+
+Structure: Â An assembly of vesicles and folded membranes located near
+the cell membrane
+
+Function: Â Involved in the sorting, storing, modification and export of
+secretory products
+
+[mitochondria]
+
+Mitochondrion
+
+Structure: Â Double membrane structure, inner membrane highly folded
+into internal cristae
+
+Function: Â Site of aerobic respiration (ATP production)
+
+[peroxisome]
+
+Peroxisome
+
+Structure: Â Membranous sac containing a variety of catabolic enzymes
+
+Function: Â Catalyses breakdown of toxic substances (e.g. H₂O₂) and
+other metabolites
+
+[centrosome]
+
+Centrosome
+
+Structure: Â Microtubule organising centre (contains paired centrioles
+in animal cells but not plant cells)
+
+Function: Â Radiating microtubules form spindle fibres and contribute to
+cell division (mitosis / meiosis)
+Plant Cells Only
+
+[chloroplast]
+
+Chloroplast
+
+Structure: Â Double membrane structure with internal stacks of
+membranous discs (thylakoids)
+
+Function: Â Site of photosynthesis â€“ manufactured organic molecules
+are stored in various plastids
+
+[vacuole]
+
+Vacuole Â (large and central)
+
+Structure: Â Fluid-filled internal cavity surrounded by a membrane
+(tonoplast)
+
+Function: Â Maintains hydrostatic pressure (animal cells may have small,
+temporary vacuoles)
+
+[cell wall]
+
+Cell Wall
+
+Structure: Â External outer covering made of cellulose (not an organelle
+per se, but a vital structure)
+
+Function: Â Provides support and mechanical strength; prevents excess
+water uptake
+
+Animal Cells Only
+
+[lysosome]
+
+Lysosome
+
+Structure: Â Membranous sacs filled with hydrolytic enzymes
+
+Function: Â Breakdown / hydrolysis of macromolecules (presence in plant
+cells is subject to debate)

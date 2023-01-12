@@ -1,0 +1,158 @@
+Ecosystem Analysis
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of a climograph showing the relationship between
+temperature, rainfall and the type of ecosystem
+
+Â  Â Â 
+A climograph is a graphical representation of basic climatic parameters
+at a given geographicalÂ location
+
+-   It is a diagram which shows a combination of monthly average
+    temperature and precipitationÂ (rainfall) at a certain location
+
+Climographs provide a quick view of the climate of a region and can be
+used to identify seasonal patterns and changes
+
+Examples of Climographs (Northern Hemisphere Biomes)
+
+[climographs]
+
+In 1975, ecologist Robert Whittaker developed a holistic climograph that
+allowed for the classifying of 9 distinct biomes
+
+-   These biomes were distinguished according to their average yearly
+    temperatures and rainfall (precipitation)
+    -   Deserts typically have high average temperatures but low
+        precipitation (hot and dry)
+    -   Rainforests typically have both high average temperatures and
+        high precipitation (warm and wet)
+    -   Taigas typically have low average temperatures and reasonably
+        low precipitation (cold and icy)
+
+Whittakerâ€™s Climograph
+
+[climograph]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Comparison of pyramids of energy from different ecosystems
+
+Â  Â Â 
+Pyramids of energy show the flow of energy between trophic levels and
+are measured in units of energy per area per time
+
+-   The standard units for a pyramid of energy are kJ m^(â€“2) y^(â€“1)
+-   Pyramids of energy are always triangular and never inverted as ~90%
+    of energy is lost between trophic levels
+
+Pyramids of energy will differ between ecosystems due to the effect of
+climate on primary productivity
+
+-   Warmer temperatures will speed up enzyme reactions required for
+    photosynthesis (i.e. light independent reactions)
+-   High precipitation will also increase photosynthesis as the
+    photolysis of water is essential for non-cyclic photophosphorylation
+
+Consequently, tropical rainforests have a high net primary productivity
+(NPP), whereas deserts have a low NPP
+
+-   Ecosystems with higher productivity will be able to supply more
+    energy to consumers and hence support more trophic levels
+-   Therefore a pyramid of energy for a tropical rainforest will display
+    a wider base and more levels than a desert
+
+The types of species within a particular biome may also affect how
+efficiently energy is transferred between trophic levels
+
+-   For instance, homeotherms will use more energy maintaining a stable
+    body temperature compared to poikilotherms
+
+Pyramids of Energy Comparison
+
+[energy pyramid comparison]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Construction of Gersmehl diagrams to show the inter-relationships
+between nutrient stores and flows between
+
+Â  Â Â taiga, desert and tropical rainforest
+
+Â  Â Â 
+Gersmehl diagrams show the differences in nutrient flow and storage
+between different types of ecosystems
+Nutrients are stored in one of three nutrient sinks â€“ either as
+biomass, litter or soil
+
+-   Biomass is the total mass of living organisms (mainly plant tissue)
+    in a given area
+-   Litter is any organic matter in and on the soil â€“ it includes
+    humus and leaf litter (defoliation)
+-   Soil is the top layer of the earth that is composed of disintegrated
+    rock particles
+
+Nutrients can be transferred between nutrient sinks and may also be
+cycled via environmental inputs and outputs
+
+-   Nutrients can be transferred from biomass to litter (fallout),
+    litter to soil (decay) or soil to biomass (uptake)
+-   Litter can additionally gain nutrients via precipitation (rainfall)
+    and lose nutrients in surface runoff
+-   Soil can gain nutrients from the erosion of rocks via weathering,
+    but will lose nutrients via leaching
+
+Standard Gersmehl Diagram
+
+[Gersmehl]
+
+Comparing Gersmehl Diagrams
+
+The inter-relationships between nutrient stores and flows will be
+affected by climatic factors (e.g. temperature and rainfall)
+
+-   Hence Gersmehl diagrams will differ between biomes (e.g. tropical
+    rainforest, taiga and desert)
+
+Tropical Rainforest
+
+-   Most nutrients are stored as biomass (litter is rapidly decomposed
+    and vast roots quickly draw nutrients from soil)
+-   There is a fast rate of transfer between stores (hot and wet
+    conditions promote precipitation, runoff, weathering and leaching)
+
+Taiga
+
+-   Most nutrients are stored as litter (low temperatures slow
+    decomposition which delays nutrient transfer to soil and biomass)
+-   There is little nutrient gain from precipitation or weathering due
+    to low levels of rainfall (cold temperatures produce snow)
+-   There is little nutrient loss via leaching (due to low rainfall) but
+    surface runoff may be high at certain times (if the snow melts)
+
+Desert
+
+-   Most nutrients are stored in the soil (few plants exist to store
+    nutrients as biomass or produce litter)
+-   There is little nutrient gain from precipitation and little nutrient
+    loss via runoff due to very low levels of rainfall
+-   The amount ofÂ weathering and leaching is negligible
+
+Comparison of Gersmehl Diagrams
+
+[] Â Â Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Diagram: Â Â Â  All
+Â Â Â  Â Â Â  Taiga Â Â Â  Â Â Â  Tropical Rainforest Â Â Â  Â Â Â 
+Desert Â Â Â  Â Â Â  Summary Table

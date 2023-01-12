@@ -1,0 +1,34 @@
+Amino Acid Polarity
+
+Amino acids may be either polar or non-polar depending on the
+composition of their side chain
+
+-   Polar amino acids have hydrophilic R groups, while non-polar amino
+    acids have hydrophobic R groups
+
+The localisation of polar and non-polar amino acids will be determined
+by the type of protein and its function:
+Water soluble proteins:
+
+-   Non-polar amino acids tend to be found in the centre of the molecule
+    (stabilise the structure)
+-   Polar amino acids tend to be located on the protein surface (capable
+    of interacting with water molecules)
+
+Membrane-bound proteins:
+
+-   Non-polar amino acids tend to be located on the regions of the
+    surface in contact with the membrane
+-   Polar amino acids will generally line interior pores (to create
+    hydrophilic channels)
+
+Enzymes:
+
+-   The active site specifically depends on the location and
+    distribution of polar and non-polar amino acids as hydrophobic and
+    hydrophilic interactions can play a role in substrate binding to the
+    active site
+
+Polar versus Non-Polar Amino Acids
+
+[]

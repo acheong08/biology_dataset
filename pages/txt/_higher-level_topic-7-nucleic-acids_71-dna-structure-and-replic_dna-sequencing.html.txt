@@ -1,0 +1,62 @@
+DNA Sequencing
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of nucleotides containing dideoxyribonucleic acid to stop DNA
+replication in preparation of samplesÂ 
+
+Â  Â  for base sequencing
+
+Â  Â Â 
+DNA sequencing refers to the process by which the base order of a
+nucleotide sequence is elucidated
+
+-   The most widely used method for DNA sequencing involves the use of
+    chain-terminating dideoxynucleotides
+
+Dideoxynucleotides
+
+-   Dideoxynucleotides (ddNTPs) lack the 3â€™-hydroxyl group necessary
+    for forming a phosphodiester bond
+-   Consequently, ddNTPs prevent further elongation of a nucleotide
+    chain and effectively terminate replication
+-   The resulting length of a DNA sequence will reflect the specific
+    nucleotide position at which the ddNTP was incorporated
+    -   For example, if a ddGTP terminates a sequence after 8
+        nucleotides, then the 8th nucleotide in the sequence is a
+        cytosine
+
+Determining Nucleotide Positions Using Dideoxynucleotides
+
+[dideoxynucleotides]
+
+Sequencing
+
+Dideoxynucleotides can be used to determine DNA sequence using the
+Sanger method
+
+-   Four PCR mixes are set up, each containing stocks of normal
+    nucleotides plus one dideoxynucleotide (ddA, ddT, ddC or ddG)
+-   As a typical PCR will generate over 1 billion DNA molecules, each
+    PCR mix should generate all the possible terminating fragments for
+    that particular base
+-   When the fragments are separated using gel electrophoresis, the base
+    sequence can be determined by ordering fragments according to length
+-   If a distinct radioactive or fluorescently labelled primer is
+    included in each mix, the fragments can be detected by automated
+    sequencing machines
+-   If the Sanger method is conducted on the coding strand (non-template
+    strand), the resulting sequence elucidated will be identical to the
+    template strand
+
+DNA Sequencing via the Sanger Method
+
+[DNA sequencing]

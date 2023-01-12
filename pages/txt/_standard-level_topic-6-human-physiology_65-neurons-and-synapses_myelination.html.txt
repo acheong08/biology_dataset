@@ -1,0 +1,54 @@
+Myelination
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The myelination of nerve fibres allows for saltatory conduction
+
+Â  Â Â 
+In certain neurons, the axon may be covered by a fatty white substance
+called myelin which functions as an insulating layer
+
+-   Myelin is a mixture of protein and phospholipids that is produced by
+    glial cells (Schwann cells in PNS; oligodendrocytes in CNS)
+
+The main purpose of the myelin sheath is to increase the speed of
+electrical transmissions via saltatory conduction
+
+-   Along unmyelinatedÂ neurons, action potentials propagate
+    sequentially along the axon in a continuous wave of depolarisation
+-   In myelinated neurons, the action potentialsÂ â€˜hop' between the
+    gaps inÂ the myelin sheath called the nodes of Ranvier
+-   This results in an increase in the speed of electrical conduction by
+    a factor of up to 100-fold
+
+Impulse Propagation Along a Myelinated Neuron
+
+[myelin sheath]
+
+Myelination
+
+Not all neurons within the nervous system are insulated with a myelin
+sheath
+
+-   The advantage of myelination is that it improves the speed of
+    electrical transmission via saltatory conduction
+-   The disadvantage of myelination is that it takes up significant
+    space within an enclosed environment
+
+Regions of the nervous system composed of myelinated axon tracts appear
+as white matter, all other areas appear as grey matter
+
+-   Grey matter consists of neuronal cell bodies and dendrites, as well
+    as support cells (glial cells) and synapsesÂ 
+
+Transmission Speeds in Unmyelinated and Myelinated Neurons
+
+This browser cannot play the embedded video file.

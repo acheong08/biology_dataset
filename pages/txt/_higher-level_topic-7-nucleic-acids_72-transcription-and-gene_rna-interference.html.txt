@@ -1,0 +1,18 @@
+RNA Interference
+
+Short interfering RNA (siRNA) is a double-stranded RNA molecule that is
+roughly 20 â€“ 25 base pairs in length
+
+siRNA interferes with the expression of genes by causing the mRNA
+transcripts to be broken prior to translation
+
+-   Â When theÂ siRNA is unwound, one strand (the passenger strand) is
+    degraded and one strand (the guide strand) remains
+-   The guide strand will hybridise to its complementary mRNA sequence
+    and recruit a protein complex called RISC
+-   RISC (RNA induced silencing complex) will then destroy the targeted
+    mRNA, preventing translation of the associated gene
+
+RNA Interference withÂ siRNA
+
+[]

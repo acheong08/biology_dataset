@@ -1,0 +1,57 @@
+Erythrocyte Recycling
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Components of red blood cells are recycled by the liver
+
+Â  Â Â 
+In humans, red blood cells possess minimal organelles and no nucleus in
+order to carry moreÂ haemoglobin
+
+-   Consequently, red blood cells have a short lifespan (~120 days) and
+    must be constantly replaced
+
+The liver is responsible for the break down of red blood cells and
+recycling of its components
+
+-   These components are used to make either new red blood cells or
+    other important compounds (e.g. bile)
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The breakdown of erythrocytes starts with phagocytosis of red
+blood cells by Kupffer cells
+
+â€¢ Â Iron is carried to the bone marrow to produce haemoglobin in new
+red blood cells
+
+Â  Â Â 
+Kupffer cells are specialised phagocytes within the liver which engulf
+red blood cells and break them down
+
+-   Kupffer cells break down haemoglobin into globin and iron-containing
+    heme groups
+-   Globin is digested by peptidases to produce amino acids (which are
+    either recycled or metabolised by the liver)
+-   Heme groups are broken down into iron and bilirubin (bile pigment)
+
+The released iron must be complexed within a protein in order to avoid
+oxidation to a ferric state
+
+-   Iron can be stored by the liver within a protein shell of ferritin
+-   Iron can be transported to the bone marrow (where new haemoglobin is
+    produced) within the protein transferrin
+
+Process of Erythrocyte and Haemoglobin Recycling
+
+[erythrocyte recycling]

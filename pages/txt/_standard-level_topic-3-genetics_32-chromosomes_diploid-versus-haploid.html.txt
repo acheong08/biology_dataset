@@ -1,0 +1,50 @@
+Diploid versus Haploid
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Diploid nuclei have pairs of homologous chromosomes
+
+â€¢ Â Haploid nuclei have one chromosome of each pair
+
+Â  Â Â 
+As sexually reproducing organisms receive genetic material from both
+parents, they have two sets of chromosomes (diploid)
+
+To reproduce in turn, these organisms must create sex cells (gametes)
+with half the number of chromosomes (haploid)
+
+When two haploid gametes fuse, the resulting diploid cell (zygote) can
+grow and develop into a new organism
+
+Diploid
+
+Nuclei possessing pairs of homologous chromosomes are diploid
+(symbolised by 2n)
+
+-   These nuclei will possess two gene copies (alleles) for each trait
+-   All somatic (body) cells in the organism will be diploid, with new
+    diploid cells created via mitosis
+-   Diploid cells are present in most animals and many plants
+
+Haploid
+
+Nuclei possessing only one set of chromosomes are haploid (symbolised by
+n)
+
+-   These nuclei will possess a single gene copy (allele) for each trait
+-   All sex cells (gametes) in the organism will be haploid, and are
+    derived from diploid cells via meiosis
+-   Haploid cells are also present in bacteria (asexual) and fungi
+    (except when reproducing)
+
+Haploid versus Diploid
+
+[haploid vs diploid]

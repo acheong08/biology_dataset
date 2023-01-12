@@ -1,0 +1,36 @@
+Simple Diffusion
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Particles move across membranes by simple diffusion, facilitated
+diffusion, osmosis and active transport
+
+Â  Â Â 
+Diffusion is the net movement of molecules from a region of high
+concentration to a region of low concentration
+
+-   This directional movement along a gradient is passive and will
+    continue until molecules become evenly dispersed (equilibrium)Â 
+-   Small and non-polar (lipophilic) molecules will be able to freely
+    diffuse across cell membranes (e.g. O₂, CO₂, glycerol)
+
+The rate of diffusion can be influenced by a number of factors,
+including:
+
+-   Temperature Â (affects kinetic energy of particles in solution)
+-   Molecular size Â (larger particles are subjected to greater
+    resistance within a fluid medium)
+-   Steepness of gradient Â (rate of diffusion will be greater with a
+    higher concentration gradient)
+
+Simple Diffusion Along a Concentration Gradient
+
+This browser cannot play the embedded video file.

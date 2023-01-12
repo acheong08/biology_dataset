@@ -1,0 +1,31 @@
+Mendel and Meiosis
+
+Gregor Mendel was a 19th century Moravian monk who demonstrated that the
+inheritance of traits (i.e. genes) follow particular laws:
+
+-   Law of Segregation: Â Each hereditary characteristic is controlled
+    by two alleles which separate into different gametes
+-   Law of Independent Assortment: Â The separation of alleles for one
+    gene is independent to allele separation for another gene
+-   Principle of Dominance: Â In pairs of alleles that are different,
+    one allele will mask the effect of the other allele
+
+TheseÂ â€˜lawsâ€™Â are now known to be due to key events that occur
+during meiotic division:
+
+-   The law of segregation describes how homologous chromosomes (and
+    hence allele pairs) are separated in meiosis I
+-   The law of independent assortment describes how homologous pairs
+    align randomly (as bivalents) during metaphase I
+
+Through the elucidation of the process of meiosis, we now know that
+there are certain exceptions to Mendelâ€™s laws:
+
+-   Genes that are on the same chromosome (linked genes) will not
+    undergo independent assortment (unless recombination occurs)
+-   Not all genes display a dominance hierarchy â€“ certain traits may
+    display codominance or incomplete dominance
+
+The Role of Meiosis in Mendelian Inheritance
+
+[meiosis and mendel]

@@ -1,0 +1,19 @@
+Kidney Dialysis
+
+It is possible to mimic the selective absorption of materials by the
+bilayer using artificially synthesised porous membranes
+
+Kidney dialysis involves the external filtering of blood in order to
+remove metabolic wastes in patients with kidney failureÂ 
+
+Blood is removed and pumped through a dialyzer, which has two key
+functions that are common to biological membranes:
+
+-   It contains a porous membrane that is semi-permeable (restricts
+    passage of certain materials)
+-   It introduces fresh dialysis fluid and removes wastes to maintain an
+    appropriate concentration gradient
+
+Overview of Kidney Dialysis
+
+[kidney dialysis]

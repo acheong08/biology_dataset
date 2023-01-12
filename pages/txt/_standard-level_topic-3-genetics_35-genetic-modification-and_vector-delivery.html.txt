@@ -1,0 +1,49 @@
+Vector Delivery
+
+In molecular biology, a vector is a vehicle that is used to deliver
+genetic material to a target cell via horizontal gene transfer
+
+There are several methods for transferring genetic material, but all
+mechanisms can be classed as either viral or non-viral
+
+Non-Viral Delivery
+
+A commonly used vector is a plasmid â€“ a circular DNA molecule capable
+of self-replication and autonomous protein expression
+
+Plasmids can be introduced to target cells by a variety of means,
+including:
+
+-   Electroporation â€“ An electric current is applied to make temporary
+    holes in the cell membrane
+-   Heat shocking â€“ Thermal energy is used to briefly destabilise the
+    cell membrane to allow for vector entry
+-   Particle bombardment â€“ DNA-coated particles are shot into the
+    cells by a gene gun
+-   Microinjection â€“ A glass micropipette is used to inject the vector
+    directly into the cell
+-   Lipofection â€“ The vector is transferred within a liposome (a
+    vesicle capable of fusion with the cell membrane)
+
+Viral Delivery
+
+The insertion of a viral vector into a cell is called transduction and
+utilise the ability of a virus to inject its DNA into a host cell
+
+Viruses integrate their DNA directly into the host genome, which can
+have both beneficial and detrimental consequences
+
+-   The advantage of this practice is that protein synthesis will be
+    driven by endogenous expression patterns
+-   A disadvantage of this practice is that there is a risk the random
+    insertion into the genome will abrogate key host genes
+
+Viruses can have either a DNA genome (adenovirus) or an RNA genome
+(retrovirus)
+
+-   Retroviruses use an enzyme called reverse transcriptase to convert
+    the RNA sequence into a DNA copy prior to integration
+
+Overview of Viral Delivery (Adenovirus)
+
+[viral gene delivery]

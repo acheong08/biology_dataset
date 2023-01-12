@@ -1,0 +1,13 @@
+Somatic vs Germline Mutations
+
+In multicellular organisms, mutations can be classed as either somatic
+or germ-line:
+
+-   Somatic mutations â€“ occur in a single body cell and cannot be
+    inherited (only tissues derived from mutated cell are affected)
+-   Germline mutations â€“ occur in gametes and can be passed onto
+    offspring (every cell in the entire organism will be affected)
+
+Germline versus Somatic Mutations
+
+[somatic vs germline]

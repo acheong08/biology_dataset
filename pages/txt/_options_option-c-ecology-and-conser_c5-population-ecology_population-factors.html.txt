@@ -1,0 +1,103 @@
+Population Factors
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Limiting factors can be top down or bottom up
+
+Â  Â Â 
+A limiting factor is an environmental condition that controls the rate
+at which a process (e.g. population growth) can occur
+
+-   Limiting population factors can exert their influence via either top
+    down or bottom up control
+
+Top Down Control
+
+-   Top down factors are pressures applied by a higher trophic level to
+    control the population dynamics of the ecosystem
+-   The top predator either suppresses the abundance of its prey or
+    alters itsÂ behaviour to limit its rate of population growth
+-   Top down control results in an oscillating trophic cascade
+    (suppression at one level increases numbers at the next level)
+-   Keystone species commonly exert top down control by preventing lower
+    trophic levels from monopolising essential resources
+
+[top down]
+
+Bottom Up Control
+
+-   Bottom up factors are pressures that limit the availability of
+    resources to lower trophic levels (e.g. producers)
+-   A lack of resources at lower trophic levels suppresses the abundance
+    of organisms at higher trophic levels
+-   Population growth will be reduced for all higher levels as the
+    suppression of the 'bottomâ€™ restricts energy supply to
+    theÂ â€˜top'
+-   Human activity can often limit resource availability and hence
+    inadvertantly exert bottom up pressure on an ecosystem
+
+[bottom up]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Bottom up control of algal blooms by the shortage of nutrients and
+top down control by herbivory
+
+Â  Â Â 
+An algal bloom is a rapid increase or accumulation in the population of
+algae in a water system (e.g. lake or ocean)
+
+-   Algal blooms are typically caused by the sudden enrichment of
+    nutrients in the water due to run-off (eutrophication)
+
+Algal blooms generally have a detrimental effect on the wider aquatic
+ecosystem:
+
+-   The spread of algae will block out sunlight below the surface and
+    reduce photosynthesis by phytoplankton and seaweeds
+-   The reduction in light will cause algae to respire instead of
+    photosynthesise, reducing levels of dissolved oxygen in the water
+-   As algae begin to die, an increase in the numbers of bacterial
+    decomposers will further reduce levels of dissolved oxygen
+-   Without adequate levels of light or dissolved oxygen, most aquatic
+    organisms within the environment will struggle to survive
+
+Algal blooms can be limited by measures that exert either bottom up
+control or top down control
+
+-   The most success will be had if bottom up and top down control
+    measures are used in combination
+
+Bottom Up Control:
+
+-   Algal blooms can be reduced by limiting the supply of nutrients such
+    as nitrogen and phosphorus in the water
+-   This may involve reducing the use of fertilisers for agricultural
+    practices to limit the nutrient input from surface runoff
+-   Nutrient reduction can be expensive to implement and difficult to
+    police, as it requires a concerted community effort
+
+Top Down Control:
+
+-   Algal blooms can be reduced by introducing piscivorous (fish-eating)
+    fish into the aquatic ecosystem
+-   The piscivores will feed on zooplanktivores â€“ and by reducing
+    their numbers, will increase the number of zooplankton
+-   Zooplankton (such as Daphnia) feed on algae, and hence will reduce
+    the population of algae via herbivory
+-   Introducing piscivores can have unintended consequences on food webs
+    and should be done with caution
+
+Controlling Algal Blooms
+
+[algal control]

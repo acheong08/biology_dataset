@@ -1,0 +1,51 @@
+Types of Hormones
+
+Hormones can be categorised into three distinct groups according to
+their chemical composition
+
+-   The three types of hormones are steroid hormones, peptide hormones
+    and amino acid derivatives
+-   The different types of hormones will have different mechanisms of
+    action due to their distinct chemical properties
+
+Steroid Hormones
+
+-   Steroid hormones are lipophilic (fat-loving) â€“ meaning they can
+    freely diffuse across the plasma membrane of a cell
+-   They bind to receptors in either the cytoplasm or nucleus of the
+    target cell, to form an active receptor-hormone complex
+-   This activated complex will move into the nucleus and bind directly
+    to DNA, acting as a transcription factor for gene expression
+-   Examples of steroid hormones include those produced by the gonads
+    (i.e. estrogen, progesterone and testosterone)
+
+[steroid hormones]
+
+Peptide Hormones
+
+-   Peptide hormones are hydrophylic and lipophobic (fat-hating) â€“
+    meaning they cannot freely cross the plasma membrane
+-   They bind to receptors on the surface of the cell, which are
+    typically coupled to internally anchored proteins (e.g. G proteins)
+-   The receptor complex activates a series of intracellular molecules
+    called second messengers, which initiate cell activity
+-   This process is called signal transduction, because the external
+    signal (hormone) is transduced via internal intermediaries
+-   Examples of second messengers include cyclic AMP (cAMP), calcium
+    ions (Ca²⁺), nitric oxide (NO) and protein kinases
+-   The use of second messengers enables the amplification of the
+    initial signal (as more molecules are activated)
+-   Peptide hormones include insulin, glucagon, leptin, ADH and oxytocin
+
+[peptide hormones]
+
+Amine Hormones
+
+-   Amine hormones are derived from the amino acid tyrosine and include
+    adrenaline, thyroxin andÂ triiodothyronine
+-   Amine hormones do not all share identical properties and have
+    properties common to both peptide and steroid hormonesÂ 
+
+Summary of the Different Classes of Hormones
+
+[types of hormones]

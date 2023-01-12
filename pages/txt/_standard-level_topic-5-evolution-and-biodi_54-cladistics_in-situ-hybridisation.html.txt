@@ -1,0 +1,24 @@
+In Situ Hybridisation
+
+Molecular evidence for phylogenetic relationships involves identifying
+conservation in DNA or amino acid sequences
+
+One technique used to identify conservation in gene sequences is DNA â€“
+DNA hybridisation
+
+-   DNA is double stranded and is held together by hydrogen bonds
+    between complementary base pairs
+-   DNA from different species can be separated into single strands with
+    sufficient heat and then mixed together
+-   If two strands from different species share similar sequences they
+    will hybridise (anneal together to form a double strand)
+-   The amount of heat then required to separate this hybrid molecule
+    indicates how similar the two sequences are
+-   More heat indicates more hydrogen bonds formed, meaning more
+    complementary base pairing due to similar sequences
+-   Less heat indicates fewer hydrogen bonds formed, meaning less base
+    pairing has occurred because sequences are dissimilar
+
+DNA-DNA Hybridisation
+
+[in situ hybridisation]

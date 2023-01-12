@@ -1,0 +1,36 @@
+B4 Â Medicine
+
+[big ninja]
+
+Essential Idea:
+Biotechnology can be used in theÂ 
+diagnosis and treatment of disease
+
+Â  Â  Â 
+Understandings:
+
+-   Infections by a pathogen can be detected by the presence of its
+    genetic material or by its antigens
+-   Predisposition to a genetic disease can be detected through the
+    presence of markers
+-   DNA microarrays can be used to test for genetic predisposition or to
+    diagnose the disease
+-   Metabolites that indicate disease can be detected in blood and urine
+-   Tracking experiments are used to gain information about the
+    localization and interaction of a desired protein
+-   Biopharming uses genetically modified animals and plants to produce
+    proteins for therapeutic use
+-   Viral vectors can be used in gene therapy
+
+Applications:
+
+-   Use of PCR to detect different strains of influenza virus
+-   Tracking tumour cells using transferrin linked to luminescent probes
+-   Biopharming of antithrombin
+-   Use of viral vectors in the treatment of Severe Combined
+    Immunodeficiency (SCID)
+
+Skills:
+
+-   Analysis of a simple microarray
+-   Interpretation of the results of an ELISA diagnostic test

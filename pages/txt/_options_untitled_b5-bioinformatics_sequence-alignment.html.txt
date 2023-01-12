@@ -1,0 +1,90 @@
+Sequence Alignment
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â BLAST searches can identify similar sequences in different
+organisms
+
+â€¢ Â BLASTn allows nucleotide sequence alignment while BLASTp allows
+protein alignment
+
+Â  Â Â 
+BLAST searches use an algorithm to compile similar sequences from a
+range of different organisms
+
+-   BLAST stands for Basic Local Alignment Search Tool
+-   Results are presented in order of relevance â€“ based on the degree
+    of match to a search sequence
+
+BLAST searches can be used to compare either nucleic acid or protein
+sequences:
+
+-   BLASTn compares nucleotide sequences to allow for DNA or RNA
+    alignments
+-   BLASTp compares amino acid sequences to allow for protein alignment
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Sequence alignment software allows comparison of sequences from
+different organisms
+
+Â  Â Â 
+Certain software programs can display multiple sequences together to
+show the degree of similarity between them
+
+-   This is called a sequence alignment and is commonly used to show the
+    degree of relatedness between sequences
+-   Protein sequences usually show more similarities than nucleotide
+    sequences because of the degeneracy of the genetic code
+    -   I.e. Some codons code for the same amino acid, so different
+        nucleotide sequences can code the same protein sequence
+
+Multiple Alignment of a Protein Sequence from Various Species
+
+[multiple alignment]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Use of software to align two proteins
+
+Â  Â Â 
+Clustal Omega is a free online tool that will align nuclotide or amino
+acid sequences for comparison
+
+-   It can compare multiple (more than two) sequences at once
+-   Sequence consensus can be colour coded in a Jalview applet found
+    underÂ â€˜Result Summaryâ€™ (requires Java)
+
+To construct a multiple alignment:
+
+-   Change the input sequence type to the relevant form (DNA, RNA or
+    protein)
+-   Paste the relevant sequences into the provided space
+-   Before each sequence designate a species name preceded by a forward
+    arrow (e.g. '>Humanâ€™Â orÂ â€˜>Chimpanzeeâ€™)
+-   Alternatively, sequences can be saved as a document in plain text
+    format (.txt) and then uploaded
+-   When all sequences have been included, clickÂ â€˜Submitâ€™Â (under
+    step 3)
+
+Below are plain text files that contain nucleotide and amino acid
+sequences for multiple alignment:
+
+-   CHRNEÂ Â â€“ Â Cholinergic receptor epsilon (nicotinic) for various
+    species (nucleotide sequence)
+-   HBAÂ Â â€“ Â Haemoglobin alpha chain from various speciesÂ (amino
+    acid sequence)
+
+[clustal]

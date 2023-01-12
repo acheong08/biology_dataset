@@ -1,0 +1,196 @@
+Chi Squared Test
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Testing for association between two species using the chi-squared
+test with data obtained by quadrat sampling
+
+Â  Â Â 
+The presence of two species within a given environment will be dependent
+upon potential interactions between them
+If two species are typically found within the same habitat, they show a
+positive association
+
+-   Species that show a positive association include those that exhibit
+    predator-prey or symbiotic relationships
+
+If two species tend not to occur within the same habitat, they show a
+negative association
+
+-   Species will typically show a negative association if there is
+    competition for the same resources
+    -   One species may utilise the resources more efficiently,
+        precluding survival of the other species (competitive exclusion)
+    -   Both species may alter their use of the environment to avoid
+        direct competition (resource partitioning)
+
+If two species do not interact, there will be no association between
+them and their distribution will be independent of one another
+
+Quadrat Sampling
+
+The presence of two species within a given environment can be determined
+using quadrat sampling
+
+-   A quadrat is a rectangular frame of known dimensions that can be
+    used to establish population densities
+    -   Quadrats are placed inside a defined area in either a random
+        arrangement or according to a design (e.g. belted transect)
+    -   The number of individuals of a given species is either counted
+        or estimated via percentage coverage
+    -   The sampling process is repeated many times in order to gain a
+        representative data set
+
+Quadrat sampling is not an effective method for counting motile
+organisms â€“ it is used for counting plants and sessile animals
+
+-   In eachÂ quadrat, the presence or absence of each species is
+    identified
+-   This allows for the number of quadrats where both species were
+    present to be compared against the total number ofÂ quadrats
+
+Quadrat Sampling Method
+
+[quadrats]
+
+Chi-Squared Tests
+
+A chi-squared test can be applied to data generated fromÂ quadrat
+sampling to determine if there is a statistically significant
+association between the distribution of two species
+
+A chi-squared test can be completed by following five simple steps:
+
+-   Identify hypotheses (null versus alternative)
+-   Construct a table of frequencies (observed versus expected)
+-   Apply the chi-squared formula
+-   Determine the degree of freedom (df)
+-   Identify the p value (should be <0.05)
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Recognising and interpreting statistical significance
+
+Â  Â Â 
+Example of Chi-Squared Test Application
+
+The presence or absence of two species of scallop was recorded in fifty
+quadrats (1m²) on a rocky sea shoreÂ 
+
+The following distribution pattern was observed:
+
+-   6Â quadrats = both species Â ; Â 15 quadrats = king scallop only Â ;
+    Â 20 quadrats = queen scallop only Â ; Â 9Â quadrats = neither
+    speciesÂ 
+
+[chi1]
+
+Step 1:Â Â Identify hypotheses
+
+A chi-squared test seeks to distinguish between two distinct
+possibilities and hence requires two contrasting hypotheses:
+
+-   Null hypothesis (H₀):Â There isÂ noÂ significant difference between
+    the distribution of two species (i.e. distribution is random)
+-   Alternative hypothesis (H₁):Â ThereÂ isÂ a significant difference
+    between the distribution of species (i.e. species are associated)
+
+Step 2:Â Â Construct a table of frequencies
+
+A table must be constructed that identifies expected distribution
+frequencies for each species (for comparison against observed)
+
+Expected frequencies are calculated according to the following
+formula:Â 
+
+-   Expected frequency = (Row totalÂ Ã— Column total)Â Ã· Grand total
+
+[chi2]
+
+Step 3:Â Â Apply the chi-squared formula
+
+The formula used to calculate a statistical value for the chi-squared
+test is as follows:
+
+[]
+
+Where: Â âˆ‘Â = Sum Â ; Â O = Observed frequency Â ; Â E = Expected
+frequency
+These calculations can be broken down for each part of the distribution
+pattern to make the final summation easier
+
+[chi3]
+
+Based on these results the statistical value calculated by the
+chi-squared test is as follows:
+
+-   ð??Œ²Â  = Â (2.20 + 2.38 + 1.59 + 1.73) Â = Â 7.90
+
+Step 4:Â Â Determine the degree of freedom (df)
+
+In order to determine if the chi-squared value is statistically
+significant a degree of freedom must first be identified
+
+-   The degree of freedom is a mathematical restriction that designates
+    what range of values fall within each significance levelÂ 
+
+The degree of freedom is calculated from the table of frequencies
+according to the following formula:
+
+df = (m â€“ 1) (n â€“ 1)Â 
+
+Where: Â mÂ = number of rows Â ; Â nÂ = number of columns
+
+-   When the distribution patterns for two species are being compared,
+    the degree of freedom should always be 1
+
+Step 5:Â Â Identify the p value
+
+The final step is to apply the value generated to a chi-squared
+distribution table to determine if results are statistically significant
+
+-   A value is considered significant if there is less than a 5%
+    probability (p < 0.05) the results are attributable to chance
+
+[chi4]
+
+When df = 1, a value of greater than 3.841 is required for results to be
+considered statistically significant (p < 0.05)
+
+-   A value of 7.90 lies above a p value of 0.01, meaning there is less
+    than a 1% probability results are caused by chance
+-   Hence, the difference between observed and expected frequencies
+    areÂ statistically significant
+
+As the results are statistically significant, the null hypothesis is
+rejected and the alternate hypothesis accepted:
+
+-   Alternate hypothesis (H₁):Â There isÂ a significant difference
+    between observed and expected frequencies
+-   Because the two species do not tend to be present in the same area,
+    we can infer there is a negative association between them
+
+Practice Question
+
+[question] Two species of fir tree are found along the coast of Southern
+California.
+These two tree species are the Grand Fir (Abies grandis) and the Noble
+Fir (Abies procera).
+Their distribution patterns were establsihed via 150 quadrat samples,
+yielding the following results:
+25 = both present ; 30 = Noble Fir only ; 45 = Grand Fir only ; 50
+neither present
+Activity: Use the chi-squared test to determine if these two plant
+species show association.
+
+[metric system]

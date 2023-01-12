@@ -1,0 +1,82 @@
+Facilitated Diffusion
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Particles move across membranes by simple diffusion, facilitated
+diffusion, osmosis and active transport
+
+Â  Â Â 
+Facilitated diffusion is the passive movement of molecules across the
+cell membrane via the aid of a membrane protein
+
+-   It is utilised by molecules that are unable to freely cross the
+    phospholipid bilayer (e.g. large, polar molecules and ions)Â 
+-   This process is mediated by two distinct types of transport proteins
+    â€“ channel proteins and carrier proteins
+
+Carrier Proteins
+
+-   Integral glycoproteins which bind a solute and undergo a
+    conformational change to translocate the solute across the membrane
+-   Carrier proteins will only bind a specific molecule via an
+    attachment similar to an enzyme-substrate interaction
+-   Carrier proteins may move molecules against concentration gradients
+    in the presence of ATP (i.e. are used in active transport)
+-   Carrier proteins have a much slower rate of transport than channel
+    proteins (by an order of ~1,000 molecules per second)
+
+Channel Proteins
+
+-   Integral lipoproteins which contain a pore via which ions may cross
+    from one side of the membrane to the other
+-   Channel proteins are ion-selective and may be gated to regulate the
+    passage of ions in response to certain stimuli
+-   Channel proteins only move molecules along a concentration gradient
+    (i.e. are not used in active transport)
+-   Channel proteins have a much faster rate of transport than carrier
+    proteins
+
+Channel Proteins versus Carrier Proteins
+
+[facilitated diffusion]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Structure and function of sodium-potassium pumps for active
+transport and potassium channels forÂ 
+
+Â  Â facilitatedÂ diffusion in axons
+
+Â  Â Â 
+The axons of nerve cells transmit electrical impulses by translocating
+ions to create a voltage difference across the membrane
+
+-   At rest, the sodium-potassium pump expels sodium ions from the nerve
+    cell, while potassium ions are accumulated within
+-   When the neuron fires, these ions swap locations via facilitated
+    diffusion via sodium and potassium channels
+
+Potassium Channels
+
+-   Integral proteins with a hydrophilic inner pore via which potassium
+    ions may be transported
+-   The channel is comprised of four transmembrane subunits, while the
+    inner pore contains a selectivity filter at its narrowest region
+    that restricts passage of alternative ions
+-   Potassium channels are typically voltage-gated and cycle between an
+    opened and closed conformation depending on the transmembrane
+    voltage
+
+Voltage-Gated Ion Channels
+
+[potassium channel]

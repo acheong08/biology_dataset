@@ -1,0 +1,35 @@
+A1 Â Neural Development
+
+[big ninja]
+
+Essential Idea:
+Modification of neurons starts in the earliest stages of
+embryogenesis and continues to the final years of life
+
+Â  Â  Â 
+Understandings:
+
+-   The neural tube of embryonic chordates is formed by infolding of
+    ectoderm followed by elongation of the tube
+-   Neurons are initially produced by differentiation in the neural tube
+-   Immature neurons migrate to a final location
+-   An axon grows from each immature neuron in response to chemical
+    stimuli
+-   Some axons extend beyond the neural tube to reach other parts of the
+    body
+-   A developing neuron forms multiple synapses
+-   Synapses that are not used do not persist
+-   Neural pruning involves the loss of unusedÂ neurons
+-   The plasticity of the nervous system allows it to change with
+    experience
+
+Applications:
+
+-   Incomplete closure of the embryonic neural tube can cause spina
+    bifida
+-   Events such as strokes may promote reorganisation of brain function
+
+Skills:
+
+-   Annotation of a diagram of embryonic tissues in Xenopus, used as an
+    animal model, during neurulation

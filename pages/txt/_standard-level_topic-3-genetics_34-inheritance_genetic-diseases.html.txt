@@ -1,0 +1,109 @@
+Genetic Diseases
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Many genetic diseases in humans are due to recessive alleles of
+autosomal genes, although some geneticÂ 
+
+Â  Â diseases are due to dominant or co-dominant alleles
+
+Â  Â Â 
+Genetic diseases are caused when mutations to a gene (or genes) abrogate
+normal cellular function, leading to the development of a disease
+phenotype
+
+-   Genetic diseases can be caused by recessive, dominant or co-dominant
+    alleles
+
+An autosomal recessive genetic disease will only occur if both alleles
+are faulty
+
+-   Heterozygous individuals will possess one copy of the faulty allele
+    but not develop disease symptoms (they are carriers)
+-   An example of an autosomal recessive genetic disease is cystic
+    fibrosis
+
+An autosomal dominant genetic disease only requires one copy of a faulty
+allele to cause the disorder
+
+-   Homozygous dominant and heterozygous individuals will both develop
+    the full range of disease symptoms
+-   An example of an autosomal dominant genetic disease is
+    Huntingtonâ€™s disease
+
+If a genetic disease is caused by co-dominant alleles it will also only
+require one copy of the faulty allele to occur
+
+-   However, heterozygous individuals will have milder symptoms due to
+    the moderating influence of a normal allele
+-   An example of a genetic disease that displays co-dominance is sickle
+    cell anaemia
+
+Inheritance Patterns for Dominant and Recessive Genetic Disorders
+
+[inheritance of genetic disease]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Inheritance of cystic fibrosis and Huntingtonâ€™s disease
+
+Â  Â Â 
+Cystic Fibrosis
+
+-   Cystic fibrosis is an autosomal recessive disorder caused by a
+    mutation to the CFTR gene on chromosome 7
+-   Individuals with cystic fibrosis produce mucus which is unusually
+    thick and sticky
+-   This mucus clogs the airways and secretory ducts of the digestive
+    system, leading to respiratory failure and pancreatic cysts
+-   Heterozygous carriers who possess one normal allele will not develop
+    disease symptoms
+
+[cystic fibrosis]
+
+Huntingtonâ€™s Disease
+
+-   Huntingtonâ€™s disease is an autosomal dominant disorder caused by a
+    mutation to the Huntingtin (HTT) gene on chromosome 4
+-   The HTT gene possesses a repeating trinucleotide sequence (CAG) that
+    is usually present in low amounts (10 â€“ 25 repeats)
+-   More than 28 CAG repeats is unstable and causes the sequence to
+    amplify (produce even more repeats)
+-   When the number of repeats exceeds ~40, the huntingtin protein will
+    misfold and cause neurodegeneration
+-   This usually occurs in late adulthood and so symptoms usually
+    develop noticeably in a personâ€™s middle age (~40 years)Â 
+-   Symptoms of Huntingtonâ€™s disease include uncontrollable, spasmodic
+    movements (chorea) and dementia
+
+[huntingtons disease]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Many genetic diseases have been identified in humans but most are
+very rare
+
+Â  Â Â 
+There are over 4,000 identified single gene defects that lead to genetic
+disease, but most are very rare
+
+-   Any allele that adversely affects survival and hence the capacity to
+    reproduce is unlikely to be passed on to offspring
+
+Recessive conditions tend to be more common, as the faulty allele can be
+present in carriers without causing disease
+
+Dominant conditions may often have a late onset, as this does not
+prevent reproduction and the transfer of the faulty allele

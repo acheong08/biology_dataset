@@ -1,0 +1,34 @@
+Allele Frequencies
+
+Bioinformatic databases can be used to compare the frequency of a
+particular allele across many populations
+
+-   Allele frequencies represent the prevalence of a particular allele
+    in a population, as a proportion of all the alleles for that gene
+-   Consequently, allele frequencies are either represented as a
+    percentage or as a value from 0 to 1.0
+
+Changes in allele frequency can reflect either random processes (genetic
+drift) or differential processes (natural selection)
+
+-   Population bottlenecks and the founder effect will exacerbate
+    genetic differences between geographically isolated populations
+
+Allele frequencies between populations can be compared using
+theÂ AlleleÂ FrequencyÂ Database (ALFRED)
+
+[Alfred link]
+
+[alfred]
+
+How to Compare Allele Frequencies:
+
+1.Â Â Go to the Allele Frequency Database (ALFRED)
+
+2.Â Â Type a gene name into the search parameter
+
+3.Â Â Choose a specific gene loci
+
+4.Â Â Select a polymorphism
+
+5.Â Â Choose a frequency display format

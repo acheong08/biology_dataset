@@ -1,0 +1,28 @@
+Deamination
+
+The breakdown of amino acids releases nitrogen-containing amine groups
+(NH₂) which can be toxic to cells
+
+-   The liver removes these amine groups via the process of deamination
+    and converts them into harmless products
+
+The amine group is first converted into ammonia (which is toxic) and
+then converted into urea
+
+-   Urea is non-toxic and excreted from the body by the kidneys (it is a
+    component of urine)
+
+The amine group can also be transferred via transamination to make new
+amino acids
+
+-   These amino acids are non-essential â€“ as they can be synthesised
+    by the body
+
+The remaining carbon skeleton is recycled to produce compounds that can
+be oxidised for energy
+
+-   This includes the formation of glucose, ketone bodies and acetyl CoA
+
+Deamination of Amino Acids
+
+[deamination]

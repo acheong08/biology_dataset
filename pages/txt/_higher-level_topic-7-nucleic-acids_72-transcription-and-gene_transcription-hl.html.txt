@@ -1,0 +1,56 @@
+Transcription (HL)
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Transcription occurs in a 5â€™ to 3â€™ direction
+
+Â  Â Â 
+Transcription is the process by which a DNA sequence (gene) is copied
+into a complementary RNA sequence by RNA polymerase
+
+-   Free nucleotides exist in the cell as nucleoside triphosphates
+    (NTPs), which line up opposite their complementary base partner
+-   RNA polymerase covalently binds the NTPs together in a reaction that
+    involves the release of the two additional phosphates
+-   The 5â€™-phosphate is linked to the 3â€™-end of the growing mRNA
+    strand, hence transcription occurs in a 5â€™Â â†’ 3â€™Â direction
+
+Direction of Transcription
+
+This browser cannot play the embedded video file.
+
+Overview of Transcription
+
+The process of transcription can be divided into three main steps:
+initiation, elongation and termination
+
+-   In initiation, RNA polymerase binds to the promoter and causes the
+    unwinding and separating of the DNA strands
+-   Elongation occurs as the RNA polymerase moves along the coding
+    sequence, synthesising RNA in a 5â€™Â â†’ 3â€™Â direction
+-   When RNA polymerase reaches the terminator, both the enzyme and
+    nascent RNA strand detach and the DNA rewinds
+
+Many RNA polymerase enzymes can transcribe a DNA sequence sequentially,
+producing a large number of transcriptsÂ 
+
+-   In eukaryotes, post-transcriptional modification of the RNA sequence
+    is necessary to form mature mRNA
+
+Summary of Transcription
+
+[transcription summary]
+
+Transcription Animation
+
+This browser cannot play the embedded video file.
+
+[transcription-overview]

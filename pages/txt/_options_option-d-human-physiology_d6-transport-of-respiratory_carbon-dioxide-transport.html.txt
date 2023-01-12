@@ -1,0 +1,49 @@
+Carbon Dioxide Transport
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Carbon dioxide is carried in solution and bound to haemoglobin in
+the blood
+
+â€¢ Â Carbon dioxide is transformed in red blood cells into hydrogen
+carbonate ions
+
+Â  Â Â 
+Carbon dioxide is transported between the lungs and the tissues by one
+of three mechanisms:
+
+-   Some is bound to haemoglobin to form HbCO₂ (carbon dioxide binds to
+    the globin and so doesnâ€™t compete with O₂ binding)
+-   A very small fraction gets dissolved in water and is carried in
+    solution (~5% â€“ carbon dioxide dissolves poorly in water)
+-   The majority (~75%) diffuses into the erythrocyte and gets converted
+    into carbonic acid
+
+Transport as Carbonic Acid
+
+-   When CO₂ enters the erythrocyte, it combines with water to form
+    carbonic acid (reaction catalysed by carbonic anhydrase)
+-   The carbonic acid (H₂CO₃) then dissociates to form hydrogen ions
+    (H⁺) and bicarbonate (HCO₃^(â€“))
+-   Bicarbonate is pumped out of the cell in exchange with chloride ions
+    (exchange ensures the erythrocyte remains uncharged)
+-   The bicarbonate in the blood plasma combines with sodium to form
+    sodium bicarbonate (NaHCO₃), which travels to the lungs
+-   The hydrogen ions within the erythrocyte make the environment less
+    alkaline, causing haemoglobin to release its oxygen
+-   The haemoglobin absorbs the H⁺ ions and acts as a buffer to maintain
+    the intracellular pH
+-   When the red blood cell reaches the lungs, bicarbonate is pumped
+    back into the cell and the entire process is reversed
+
+Carbon Dioxide Transport in the Bloodstream
+
+[carbon dioxide transport]

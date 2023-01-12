@@ -1,0 +1,13 @@
+Genome Structure
+
+The human genome comprises of roughly 3.2 billion base pairs across 46
+chromosomes
+
+-   However, only a small fraction of this sequence codes for functional
+    genes (roughly 1.5% of theÂ genome)
+-   The remainder is made up of repeating elements,
+    pseudogenes,Â microsatellites and transposons
+
+Overview of the Human Genome
+
+[genome overview]

@@ -1,0 +1,73 @@
+Enzyme Kinetics
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Calculating and plotting rates of reaction from raw experimental
+results
+
+Â  Â Â 
+The rate of an enzyme-catalysed reaction can be calculated and plotted
+according to the time taken for the reaction to proceed
+
+-   The time taken can be measured according to either the amount of
+    product formed or the amount of substrate consumed
+-   Reaction rate is the inverse of time taken, meaning that the
+    reaction rate is higher when less time is taken (and vice versa)
+
+The rate of reaction can be calculated according to the following
+formula:
+
+-   Rate of reaction (s^(â€“1)) = 1 / time taken (s)
+
+Factors which can influence the rate of an enzyme-catalysed reaction
+include temperature, pH and substrate concentration
+
+Factors Affecting Enzyme Activity
+
+[enzyme rates]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Distinguishing different types of inhibition from graphs at
+specified substrate concentrations
+
+Â  Â Â 
+Competitive and non-competitive inhibitors effect the kinetics of an
+enzyme-catalysed reaction in different ways:
+
+-   Both reduce the rate of reaction by limiting the amount of
+    uninhibited enzyme available for reaction
+
+Competitive Inhibitors
+
+-   Bind directly to the active site and hence exist in direct
+    competition with the substrate
+-   Increasing substrate levels will increase the likelihood of the
+    enzyme colliding with the substrate instead of the inhibitor
+-   The maximum rate of enzyme activity (Vmax) can still be achieved,
+    although it requires a higher substrate concentration
+
+Noncompetitive Inhibitors
+
+-   Bind to an allosteric site and hence do not exist in direct
+    competition with the substrate
+-   Increasing substrate concentrations will not effect the level of
+    inhibition caused by the non-competitive inhibitor
+-   The maximum rate of enzyme activity (Vmax) is therefore reduced
+
+The Effect of Inhibition on Enzyme Kinetics
+
+[]
+                Â Â  Enzyme Kinetics: Â Â Â Â Â Â Â  All Reactions
+Â Â Â Â Â Â Â Â Â Â Â  Uninhibited          Competitive Inhibitor
+         Non-Competitive Inhibitor

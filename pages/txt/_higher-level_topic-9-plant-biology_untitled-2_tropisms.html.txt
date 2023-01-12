@@ -1,0 +1,52 @@
+Tropisms
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Plant shoots respond to the environment by tropisms
+
+Â  Â Â 
+Tropisms describe the growth or turning movement of an plant in response
+to a directional external stimulusÂ 
+
+-   Phototropism is a growth movement in response to a unidirectional
+    light source
+-   Geotropism (or gravitropism) is a growth movement in response to
+    gravitational forces
+-   Other tropisms include hydrotropism (responding to a water gradient)
+    and thigmotropism (responding to a tactile stimulus)
+
+Both phototropism and geotropism are controlled by the distribution of
+auxin within the plant cells:
+
+-   In geotropism, auxin will accumulate on the lower side of the plant
+    in response to the force of gravity
+-   In phototropism, light receptors (phototropins) trigger the
+    redistribution of auxin to the dark side of the plant
+
+In shoots, high auxin concentrations promoteÂ cell elongation, meaning
+that:
+
+-   The dark side of the shoot elongates and shoots grow towards the
+    light (positive phototropism)
+-   The lower side of the shoot elongates and roots growÂ away from the
+    ground
+
+In roots, high auxin concentrations inhibit cell elongation, meaning
+that:
+
+-   The dark side of the root becomes shorter and the roots grow away
+    from the light (negative phototropism)
+-   The lower side of the root becomes shorter and the roots turn
+    downwards into the earth
+
+Tropism in A Typical Plant
+
+[tropism]

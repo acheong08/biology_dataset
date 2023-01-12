@@ -1,0 +1,33 @@
+Types of Immunity
+
+Immunity can be described as either active or passive, depending on how
+it is acquired:
+
+-   Active immunity involves the production of antibodies by the body
+    itself and the subsequent development of memory cells
+-   Passive immunity results from the acquisition of antibodies from
+    another source and hence memory cells are not developed
+
+Active immunity will result in long-term immunity but passive immunity
+will not (due to the presence or absence of memory cells)Â 
+
+-   Both active and passive immunity can be induced by either natural or
+    artificial mechanisms
+
+Examples of Active Immunity
+
+-   Natural â€“ Producing antibodies in response to exposure to a
+    pathogenic infection (i.e. challenge and response)
+-   Artificial â€“ Producing antibodies in response to the controlled
+    exposure to an attenuated pathogen (i.e. vaccination)Â 
+
+Examples of Passive Immunity
+
+-   Natural â€“ Receiving antibodies from another organism (e.g. to the
+    foetus via the colostrum or a newborn via breast milk)
+-   Artificial â€“ Receiving manufactured antibodies via external
+    delivery (e.g blood transfusions of monoclonal antibodies)
+
+Types of Immunity
+
+[types of immunity]

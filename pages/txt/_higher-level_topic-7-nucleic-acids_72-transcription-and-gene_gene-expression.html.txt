@@ -1,0 +1,89 @@
+Gene Expression
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Gene expression is regulated by proteins that bind to specific
+base sequences in DNA
+
+Â  Â Â 
+Transcriptional activity is regulated by two groups of proteins that
+mediate binding of RNA polymerase to the promoter
+
+Transcription factors form a complex with RNA polymerase at the promoter
+
+-   RNA polymerase cannot initiate transcription without these factors
+    and hence their levels regulate gene expression
+
+Regulatory proteins bind to DNA sequences outside of the promoter and
+interact with the transcription factors
+
+-   Activator proteins bind to enhancer sites and increase the rate of
+    transcription (by mediating complex formation)
+-   Repressor proteins bind to silencer sequences and decrease the rate
+    of transcription (by preventing complex formation)
+
+The presence of certain transcription factors or regulatory proteins may
+be tissue-specific
+
+-   Additionally, chemical signals (e.g. hormones) can moderate protein
+    levels and hence mediate a change in gene expression
+
+Differential Gene Expression
+
+[gene expression]
+
+Control Elements
+
+The DNA sequences thatÂ regulatory proteins bind to are called control
+elements
+
+-   Some control elements are located close to the promoter (proximal
+    elements) while others are more distant (distal elements)
+-   Regulatory proteins typically bind to distal control elements,
+    whereas transcription factors usually bind to proximal elements
+-   Most genes have multiple control elements and hence gene expression
+    is a tightly controlled and coordinated process
+
+Enhancers and Silencers
+
+[enhancer silencer]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The environment of a cell and of an organism has an impact on gene
+expression
+
+Â  Â Â 
+Changes in the external or internal environment can result in changes to
+gene expression patterns
+
+-   Chemical signals within the cell can trigger changes in levels of
+    regulatory proteins or transcription factors in response to stimuli
+-   This allows gene expression to change in response to alterations in
+    intracellular and extracellular conditions
+
+There are a number of examples of organisms changing their gene
+expression patterns in response to environmental changes:
+
+-   Hydrangeas change colour depending on the pH of the soil (acidic
+    soil = blue flower ; alkaline soil = pink flower)
+-   The Himalayan rabbit produces a different fur pigment depending on
+    the temperature (>35ÂºC = white fur ; <30ÂºC = black fur)
+-   Humans produce different amounts of melanin (skin pigment) depending
+    on light exposure
+-   Certain species of fish, reptile and amphibian can even change
+    gender in response to social cues (e.g. mate availability)
+
+The Role of Soil pH inÂ the Determination of Hydrangea Flower Colour
+
+[]

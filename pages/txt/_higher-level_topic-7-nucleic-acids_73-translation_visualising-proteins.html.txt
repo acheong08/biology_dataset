@@ -1,0 +1,46 @@
+Visualising Proteins
+
+The following are a selection of protein molecules that highlight
+different aspects of protein structure
+
+-   Click on the links provided to view the interactive pop up
+
+Haemoglobin
+
+-   Haemoglobin is a globular protein responsible for oxygen transport
+    within red blood cells
+-   It has a quaternary structure made up of four polypeptide subunits
+    (2 alpha subunits and 2 beta subunits)
+-   Each polypeptide chain is associated with a prosthetic heme group
+    (responsible for oxygen binding)
+
+Aquaporin
+
+-   Aquaporins are integral membrane proteins that form channels that
+    allow for the passage of water molecules
+-   Aquaporins form tetramers in the cell membrane, with each monomer
+    allowing for water movement
+-   The pores of the aquaporin are impermeable to charged species, thus
+    preventing the passage of ions or solutes
+
+Keratin
+
+-   Keratin is a fibrous protein that functions as a key structural
+    material in hair, skin and nails
+-   Keratin proteins form long twisted strands that may interconnect via
+    disulphide bridges
+-   Tougher keratin fibres found in hair and nails have more disulphide
+    bridges than more elastic keratin fibres found in skin
+
+Green Fluorescent Protein
+
+-   Green fluorescent protein is a fluorophore produced by jellyfish
+    (and commonly used in recombinant DNA experiments)
+-   The fluorescing chromophore is attached to a central alpha helix,
+    which is surrounded by 11 beta strands forming a barrel
+-   The tightly packed beta barrel excludes solvent molecules and
+    functions to protect the chromophore from quenching by water
+
+Examples of Protein Structures
+
+[protein structures]

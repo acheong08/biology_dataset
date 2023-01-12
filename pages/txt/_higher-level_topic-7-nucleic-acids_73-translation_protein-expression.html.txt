@@ -1,0 +1,42 @@
+Protein Expression
+
+There are a number of ways via which protein expression patterns can
+beÂ moderated:
+1. Â Transcriptional control
+
+-   Protein expression can be regulated by controlling to amount of
+    transcription (less mRNA = less protein)
+-   This level of control is achieved primarily through the coordinated
+    effects of transcription factors and regulatory proteins
+
+2. Â RNA processing control
+
+-   This involves regulating the formation of mature mRNA in eukaryotes
+    (e.g.Â 5â€™-capping and 3â€™-polyadenylation)
+-   These processes are necessary to help direct the mRNA to the
+    ribosome and prevent its premature degradation
+
+3. Â RNA transport control
+
+-   In eukaryotes, RNA must be transported out of the nucleus (through
+    nuclear pores) in order to associate with the ribosome
+-   If this transport is prevented, the related protein cannot by
+    synthesised
+
+4. Â Translational control
+
+-   Protein expression can also be regulated by controlling the amount
+    of translation
+-   This may involve inhibiting ribosomal subunit assembly or actively
+    targeting mRNA for degradation
+
+5. Â Protein activity control
+
+-   Protein expression patterns may also be affected by the rate of
+    protein degradation
+-   Post-translational modifications (such as ubiquitination or
+    phosphorylation) may target proteins for destruction
+
+Mechanisms of Regulating Protein Expression Levels
+
+[protein expression]

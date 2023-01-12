@@ -1,0 +1,51 @@
+Non-living Synthesis
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The first cells must have arisen from non-living material
+
+Â  Â Â 
+The theory that living cells arose from non-living matter is known as
+abiogenesis
+
+This process is theorised to have occurred over four key stages:
+
+-   There was non-living synthesis of simple organic molecules (from
+    primordial inorganic molecules)
+-   These simple organic molecules became assembled into more complex
+    polymers
+-   Certain polymers formed the capacity to self-replicate (enabling
+    inheritance)
+-   These molecules became packaged into membranes with an internal
+    chemistry different from their surroundings (protobionts)
+
+Miller-Urey Experiment
+
+The non-living synthesis of simple organic molecules has been
+demonstrated by the Miller-Urey experiment
+
+Stanley Miller and Harold Urey recreated the postulated conditions of
+pre-biotic Earth using a closed system of flasks and tubes
+
+-   Water was boiled to vapour to reflect the high temperatures common
+    to Earthâ€™s original conditions
+-   The vapour was mixed with a variety of gases (including H₂, CH₄,
+    NH₃) to create a reducing atmosphere (no oxygen)
+-   This mixture was then exposed to an electrical discharge (simulating
+    the effects of lightning as an energy source for reactions)
+-   The mixture was then allowed to cool (concentrating components) and
+    left for a period of ~1 week
+-   After this time, the condensed mixture was analysed and found to
+    contain traces of simple organic molecules
+
+Overview of the Miller-Urey Experiment
+
+[Miller-Urey]

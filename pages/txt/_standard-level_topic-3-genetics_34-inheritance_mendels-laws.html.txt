@@ -1,0 +1,71 @@
+Mendelâ€™s Laws
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Mendel discovered the principles of inheritance with experiments
+in which a large numberÂ of pea plants
+
+Â  Â were crossed
+
+Â  Â Â 
+Gregor Mendel was an Austrian monk who developed the principles of
+inheritance by performing experiments on pea plants
+
+-   First, he crossed different varieties of purebred pea plants, then
+    collected and grew the seeds to determine their characteristics
+-   Next, he crossed the offspring with each other (self-fertilization)
+    and grew their seeds to similarly determine their characteristics
+-   These crosses were performed many times to establish reliable data
+    trends (over 5,000 crosses were performed)
+
+As a result of these experiments, Mendel discovered the following
+things:
+
+1.  When he crossed two different purebred varieties together the
+    results were not a blendÂ â€“ only one feature would be expressed
+    -   E.g. When purebred tall and short pea plants were crossed, all
+        offspring developed into tall growing plants
+2.  When Mendel self-fertilised the offspring, the resulting progeny
+    expressed the two different traits in a ratio of ~ 3:1
+    -   E.g. When the tall growing progeny were crossed, tall and short
+        pea plants were produced in a ratio of ~ 3:1Â 
+
+From these findings, Mendel drew the following conclusions:
+
+-   Organisms have discrete factors that determine its features
+    (theseÂ â€˜factorsâ€™Â are now recognised as genes)
+-   Furthermore, organisms possess two versions of each factor
+    (theseÂ â€˜versionsâ€™Â are now recognised as alleles)
+-   Each gamete contains only one version of each factor (sex cells are
+    now recognised to be haploid)
+-   Parents contribute equally to the inheritance of offspring as a
+    result of the fusion between randomly selected egg and sperm
+-   For each factor, one version is dominant over another and will be
+    completely expressed if present
+
+While there are caveats to Mendelâ€™s conclusions, certain rules can be
+established:
+
+1.  Law of Segregation: When gametes form, alleles are separated so that
+    each gamete carries only one allele for each gene
+2.  Law of Independent Assortment: The segregation of alleles for one
+    gene occurs independently to that of any other gene*
+3.  Principle of Dominance: Recessive alleles will be masked by dominant
+    alleles^(â€ )
+
+* Â The law of independent assortment does not hold true for genes
+located on the same chromosome (i.e. linked genes)
+^(â€ )Â  Not all genes show a complete dominance hierarchy â€“ some
+genes show co-dominance or incomplete dominance
+
+Mendelâ€™s Garden Pea Plant Experiment
+
+[Mendel's pea plants]

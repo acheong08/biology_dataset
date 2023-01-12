@@ -1,0 +1,52 @@
+HIV Infection
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Effects of HIV on the immune system and methods of transmission
+
+Â  Â Â 
+The Human Immunodeficiency Virus (HIV) is a retrovirus that infects
+helper T cells, disabling the bodyâ€™s adaptive immune system
+
+-   It causes a variety of symptoms and infections collectively classed
+    as Acquired Immuno-Deficiency Syndrome (AIDS)
+
+Effects of HIV
+
+-   HIV specifically targets the helper T lymphocytes which regulate the
+    adaptive immune system
+-   Following infection, the virus undergoes a period of inactivity
+    (clinical latency) during which infected helper T cells reproduce
+-   Eventually, the virus becomes active again and begins to spread,
+    destroying the T lymphocytes in the process (lysogenic cycle)
+-   With a reduction in the number of helper T cells, antibodies are
+    unable to be produced, resulting in a lowered immunity
+-   The body becomes susceptible to opportunistic infections, eventually
+    resulting in death if the condition is not managed
+
+Progression of AIDS
+
+[AIDS progression]
+
+Transmission of HIV
+
+-   HIV is transmitted through the exchange of body fluids (including
+    unprotected sex, blood transfusions, breastfeeding, etc.)
+-   The risk of exposure to HIV through sexual contact can be minimised
+    by using latex protection (i.e. condoms)
+-   A small minority of people are immune to HIV infection (they lack
+    the CD4+ receptor on T_(H) cells that HIV requires for docking)
+-   HIV is a global issue, but is particularly prevalent in poorer
+    nations with poor education and health systems
+
+Mechanisms of HIV Infection
+
+[HIV transmission]

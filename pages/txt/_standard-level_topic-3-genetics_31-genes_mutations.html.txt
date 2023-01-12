@@ -1,0 +1,81 @@
+Mutations
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â New alleles are formed by mutation
+
+Â  Â Â 
+A gene mutation is a change in the nucleotide sequence of a section of
+DNA coding for a specific trait
+
+-   New alleles are formed by mutation
+
+Gene mutations can be beneficial, detrimental or neutral
+
+-   Beneficial mutations change the gene sequence (missense mutations)
+    to create new variations of a trait
+-   Detrimental mutations truncate the gene sequence (nonsense
+    mutations) to abrogate the normal function of a trait
+-   Neutral mutations have no effect on the functioning of the specific
+    feature (silent mutations)
+
+Types of Gene Mutations
+
+[mutations]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â The cause of sickle cell anaemia, including a base substitution
+mutation, a change to the base sequence of
+
+Â  Â  mRNA transcribed from it and a change to the sequence of a
+polypeptide in haemoglobin
+
+Â  Â Â 
+Sickle cell anaemia is an example of a disorder caused by a gene
+mutation
+
+-   The disease allele arose from a base substitution mutation â€“ where
+    a single base was changed in the gene sequence
+
+Cause of Sickle Cell Anaemia
+
+Sickle cell anaemia results from a change to the 6th codon for the beta
+chain of haemoglobin
+
+-   DNA: Â The DNA sequence changes from GAG to GTG on the
+    non-transcribed strand (CTC to CAC on the template strand)
+-   mRNA: Â The mRNA sequence changes from GAG to GUG at the 6th codon
+    position
+-   Polypeptide: Â The sixth amino acid for the beta chain of
+    haemoglobin is changed from glutamic acid to valine (Glu to Val)
+
+[sickle cell cause]
+
+Consequence of Sickle Cell Anaemia
+
+The amino acid change (GluÂ â†’Â Val) alters the structure of
+haemoglobin, causing it to form insoluble fibrous strands
+
+-   The insoluble haemoglobin cannot carry oxygen as effectively,
+    causing the individual to feel constantly tired
+
+The formation of fibrous haemoglobin strands changes the shape of the
+red blood cell to a sickle shape
+
+-   The sickle cells may form clots within the capillaries, blocking
+    blood supply to vital organs and causing myriad health issues
+-   The sickle cells are also destroyed more rapidly than normal cells,
+    leading to a low red blood cell count (anaemia)
+
+[sickle cell consequence]

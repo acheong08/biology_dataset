@@ -1,0 +1,56 @@
+Gene Therapy
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Viral vectors can be used in gene therapy
+
+Â  Â  Â Â 
+Gene therapyÂ is the insertion of genes into an individualâ€™s cells to
+treat hereditary diseases by replacing defective alleles
+
+-   It differs from standard transgenic practices in that it is intended
+    to transform existing organisms rather than create new ones
+-   Viral vectors are typically used, due to their ability to integrate
+    DNA into the hostâ€™s genome
+-   The process involves removing cells from a patient and using a viral
+    vector to introduce aÂ functional copy of the defective gene
+-   When the cells are transplanted back into the patient, they should
+    begin expressing the missing protein to restore normal healthÂ 
+
+Overview of Gene Therapy
+
+[gene therapy]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of viral vectors in the treatment of Severe Combined
+Immunodeficiency (SCID)
+
+Â  Â  Â Â 
+Severe combined immunodeficiency (SCID) is a genetic disorder caused by
+the absence of functional T lymphocytes
+
+-   This impairs the adaptive immune system and prevents antibody
+    production, resulting in a deficient immune response
+-   Individuals with SCID are unable to respond to trivial infections
+    and opportunistic infections can prove to be fatal
+
+SCID is commonly caused by an autosomal recessive condition known as
+adenosine deaminase (ADA) deficiency
+
+-   This condition results from an inability to produce the enzyme ADA,
+    which is needed to safely break down a toxic chemical
+-   Immature lymphocytes are particularly susceptible to this toxic
+    chemical and consequently fail to mature (leading to SCID)
+-   Individuals who have undergone gene therapy have shown steady
+    increases in cellular ADA levels following the procedure

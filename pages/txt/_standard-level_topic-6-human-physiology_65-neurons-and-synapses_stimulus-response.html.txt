@@ -1,0 +1,41 @@
+Stimulus-Response
+
+The basic pathway for a nerve impulse is described by the stimulus
+response model
+
+-   A stimulus is a change in the environment (either external or
+    internal) that is detected by a receptor
+-   Receptors transform environmental stimuli into electrical nerve
+    impulses
+-   These impulses are then transmitted via neurons to the central
+    nervous systemÂ where decision-making occurs
+-   When a response is selected (consciously or unconsciously), the
+    signal is transmitted viaÂ neurons to effectors
+-   Effectors are organs (either muscles or glands) that produce a
+    response to a stimulus
+-   A response is a change in the organism resulting from the detection
+    of a stimulus
+
+Overview of the Stimulus-Response Pathway
+
+[stimulus-response]
+
+Three types of neurons are required to transmit information via the
+stimulus-response pathway:
+
+-   Sensory neurons transmit information from sensory receptors to the
+    central nervous system (CNS)
+-   Relay neurons (interneurons) transmit information within the CNS as
+    part of the decision-making process
+-   Motor neurons transmit information from the CNS to effectors
+    (muscles or glands), in order to initiate a response
+
+While these three types of neurons share common features, their basic
+structure may differ slightly according to their function
+
+-   This includes their length, cell body (soma) position and the
+    comparative distribution of dendrites and axon terminals
+
+Types of Nerve Cells
+
+[types of neurons]

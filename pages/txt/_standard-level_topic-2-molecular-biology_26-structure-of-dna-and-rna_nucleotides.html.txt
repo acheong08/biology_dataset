@@ -1,0 +1,59 @@
+Nucleotides
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Drawing simple diagrams of the structure of single nucleotides of
+DNA and RNA, using circles, pentagons
+
+Â  Â and rectangles to represent phosphates, pentoses and bases
+
+Â  Â Â 
+Nucleic acids are the genetic material of the cell and are composed of
+recurring monomeric units called nucleotides
+
+Each nucleotide is comprised of three principal components:
+
+-   5-carbon pentose sugar (pentagon)
+-   Phosphate group (circle)
+-   Nitrogenous base (rectangle)
+
+Both the phosphate group and nitrogenous base are attached to the
+central pentose sugar
+
+-   The nitrogenous base is attached to the 1â€™â€“ carbon atom (right
+    point)
+-   The phosphate base is attached to the 5â€™â€“ carbon atom (left
+    point)
+
+Simple Diagram of a Single Nucleotide
+
+[nucleotide schematic]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The nucleic acids DNA and RNA are polymers of nucleotides
+
+Â  Â Â 
+There are two types of nucleicÂ acids present in cells â€“ DNA and RNA
+
+-   DNA (deoxyribonucleic acid) is a more stable double stranded form
+    that stores the genetic blueprint for cells
+-   RNA (ribonucleic acid) is a more versatile single stranded form that
+    transfers the genetic information for decoding
+
+Both DNA and RNA are polymers of nucleotides, however key differences
+exist in the composition of DNA and RNA nucleotides
+
+Comparison of DNA and RNA Nucleotides
+
+[nucleotide RNA vs DNA]

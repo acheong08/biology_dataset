@@ -1,0 +1,112 @@
+Stem Cell Therapy
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of stem cells to treat Stargardtâ€™s disease and one other
+named condition
+
+Â  Â Â 
+Stem cells can be used to replace damaged or diseased cells with
+healthy, functioning ones
+
+This process requires:
+
+-   The use of biochemical solutions to trigger the differentiation of
+    stem cells into the desired cell type
+-   Surgical implantation of cells into the patientâ€™s own tissue
+-   Suppression of host immune system to prevent rejection of cells (if
+    stem cells are from foreign source)
+-   Careful monitoring of new cells to ensure they do not become
+    cancerous
+
+Examples of Stem Cell Therapy
+
+1.Â Â Stargardtâ€™s Disease
+
+-   An inherited form of juvenile macular degeneration that causes
+    progressive vision loss to the point of blindness
+-   Caused by a gene mutation that impairs energy transport in retinal
+    photoreceptor cells, causing them to degenerate
+-   Treated by replacing dead cells in the retina with functioning ones
+    derived from stem cells
+
+2.Â  Parkinsonâ€™s Disease
+
+-   A degenerative disorder of the central nervous system caused by the
+    death ofÂ dopamine-secreting cells in the midbrain
+-   Dopamine is a neurotransmitter responsible for transmitting signals
+    involved in the production of smooth, purposeful movements
+-   Consequently, individuals with Parkinsonâ€™s disease typically
+    exhibit tremors, rigidity, slowness of movement and postural
+    instability
+-   Treated by replacing dead nerve cells with living,
+    dopamine-producing ones
+
+3.Â Â Other Therapeutic Examples
+
+-   Leukemia: Â Bone marrow transplants for cancer patients who are
+    immunocompromised as a result of chemotherapy
+-   Paraplegia: Â Repair damage caused by spinal injuries to enable
+    paralysed victims to regain movement
+-   Diabetes: Â Replace non-functioning islet cells with those capable
+    of producing insulin in type I diabetics
+-   Burn victims: Â Graft new skin cells to replace damaged tissue
+
+Examples of Therapeutic Stem Cell Use
+
+[Examples of stem cell therapy]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Ethics of theÂ therapeutic use of stem cells from specially
+created embryos, from the umbilicalÂ 
+
+Â  Â cord blood of a new-born baby and from an adultâ€™s own tissues
+
+Â  Â Â 
+Stem cells can be derived from one of three sources:
+
+-   Embryos (may be specially created by therapeutic cloning)
+-   Umbilical cord blood or placenta of a new-born baby
+-   Certain adult tissues like the bone marrow (cells are not
+    pluripotent)Â 
+
+The ethical considerations associated with the therapeutic use of stem
+cells will depend on the source
+
+-   Using multipotent adult tissue may be effective for certain
+    conditions, but is limited in its scope of application
+-   Stem cells derived from umbilical cord blood need to be stored and
+    preserved at cost, raising issues of availability and access
+-   The greatest yield of pluripotent stem cells comes from embryos, but
+    requires the destruction of a potential living organism
+
+Artificial Stem Cell Techniques
+
+Stem cells can be artificially generated via nuclear transfer or nuclear
+reprogramming, with distinct benefits and disadvantages
+
+-   Somatic cell nuclear transfer (SCNT):Â 
+    -   Involves the creation of embryonic clones by fusing a diploid
+        nucleus with an enucleated egg cell (therapeutic cloning)
+    -   More embryos are created by this process than needed, raising
+        ethical concerns about the exigency of excess embryos
+
+-   Nuclear reprogramming:
+    -   Induce a change in the gene expression profile of a cell in
+        order to transform it into a different cell type
+        (transdifferentiation)Â 
+    -   Involves the use of oncogenic retroviruses and transgenes,
+        increasing the risk of health consequences (i.e. cancer)
+
+[types of stem cell therapies]

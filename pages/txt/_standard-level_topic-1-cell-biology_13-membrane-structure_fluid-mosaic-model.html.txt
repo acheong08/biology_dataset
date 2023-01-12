@@ -1,0 +1,43 @@
+Fluid-Mosaic Model
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Drawing of the fluid-mosaic model
+
+Â  Â Â 
+Cell membranes are represented according to a fluid-mosaic model, due to
+the fact that they are:
+
+-   Fluid â€“ the phospholipid bilayer is viscous and individual
+    phospholipids can move position
+-   Mosaic â€“ the phospholipid bilayer is embedded with proteins,
+    resulting in a mosaic of components
+
+Structure of the Plasma Membrane (Fluid-Mosaic)
+
+[fluid-mosaic 2d]
+
+Components of the Plasma Membrane
+
+Phospholipids â€“ Form a bilayer with phosphate heads facing outwards
+and fatty acid tails facing inwards
+
+Cholesterol â€“ Found in animal cell membranes and functions to improve
+stability and reduce fluidity
+
+Proteins â€“ May be either integral (transmembrane) or peripheral and
+serve a variety of roles
+
+Â 
+
+Fluid-Mosaic Model (3D)
+
+[fluid mosaic 3d]

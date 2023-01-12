@@ -1,0 +1,70 @@
+Neurulation
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The neural tube of embryonic chordates is formed by infolding of
+ectoderm followed by elongation of the tube
+
+Â  Â Â 
+The development of a fully-formed organism from a fertilised egg is
+called embryogenesis
+
+-   All tissues are derived from three initial germ layers (ectoderm,
+    mesoderm, endoderm) formed via gastrulation
+-   In chordates, a flexible notochord will develop during gastrulation
+    and lead to the subsequent formation of a neural tube
+
+The formation of a neural tube in embryonic chordates occurs via the
+process of neurulation
+
+-   Cells located in the outer germ layer (ectoderm) differentiate to
+    form a neural plate
+-   The neural plate then bends dorsally, folding inwards to form a
+    groove flanked by a neural crest
+-   The infolded groove closes off and separates from the neural crest
+    to form the neural tube
+-   The neural tube will elongate as the embryo develops and form the
+    central nervous system (brain and spinal cord)
+-   The cells of the neural crest will differentiate to form the
+    components of the peripheral nervous system
+
+Overview of Neurulation
+
+[neurulation]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Annotation of a diagram of embryonic tissues in Xenopus, used as
+an animal model, during neurulation
+
+Â  Â Â 
+Xenopus are a genus of frog that possess robust embryos that can
+tolerate extensive manipulation
+
+-   This makes them a suitable animal models for investigating the
+    developmental stages ofÂ embryogenesis
+
+During neurulation, the following embryonic tissues should be easily
+identifiable:
+
+-   Three germ layers (outer = ectoderm ; middle = mesoderm ; inner =
+    endoderm)
+-   A hollow cavity called the archenteron (will develop into the
+    digestive tract)
+-   Notochord (flexible rod that stimulates neurulation)
+-   Neural tube (developed from the infolding of the neural plate)
+
+Neurulation in a Xenopus Embryo
+
+[]                          Â Â  Data: Â Â Â Â Â Â Â  Embryo
+Cross-SectionÂ Â Â Â Â Â Â Â Â Â Â  Structure-Function Relationship

@@ -1,0 +1,138 @@
+Dihybrid Crosses
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Unlinked genes segregate independently as a result of meiosis
+
+Â  Â Â 
+According to the law of independent assortment, pairs of alleles are
+inherited independently of one another if their gene loci are on
+separate chromosomes â€“ these genes are said to be unlinked
+
+-   This is due to the random orientation ofÂ homologous pairs during
+    metaphase I of meiosis
+
+The independent segregation of unlinked genes results in a greater
+number of potential gamete combinations, as well as a greater variety of
+possible phenotypes
+
+-   This also results in more complex inheritance patterns (e.g.
+    monohybrid versus dihybrid crosses)
+
+Inheritance of a Single Gene versus Two Unlinked Genes
+
+[unlinked gametes]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Completion and analysis of Punnett squares for dihybrid traits
+
+Â  Â Â 
+A dihybrid cross determines the genotypic and phenotypic combinations of
+offspring for two particular genes that are unlinked
+
+-   Because there are two genes, each with two alleles, there can be up
+    to four different gamete combinations
+
+The easiest way to work out potential gamete combinations in a dihybrid
+cross is to use the FOIL method:
+
+-   FOIL = First / Outside / Inside / Last
+
+[FOIL method]
+
+If you are having difficulty remembering the FOIL method, an alternative
+way to identify potential gamete combinations in a dihybrid cross is to
+remember the claw
+
+The CLAW â€“ Calculating Dihybrid Gamete Combinations
+
+[the claw]
+
+How to Complete a Dihybrid Cross
+
+The inheritance of dihybrid traits can be calculated according to the
+following steps:
+Step 1: Â Designate characters to represent the alleles
+
+-   Capital letter for dominant allele, lower case letter for recessive
+    allele
+
+Step 2: Â Write down the genotype and phenotype of the parents (P
+generation)
+
+-   Always pair alleles from the same gene and always write capitals
+    first (e.g. AaBb, not ABab)
+
+Step 3: Â Write down all potential gamete combinations for both parents
+
+-   Use the FOIL method (or the claw) to identify all possible
+    combinations
+
+Step 4: Â Use a Punnett square to work out potential genotypes of
+offspring
+
+-   Only include the different gamete combinations for each parent (e.g.
+    AaBB has two combinations = AB and aB)
+
+Step 5: Â Write out the phenotype ratios of potential offspring
+
+-   Phenotypic ratios reflect mathematical probabilities only and may
+    not necessarily reflect actual offspring ratios
+
+Example of a Typical Dihybrid Cross
+
+[dihybrid cross]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Calculation of the predicted genotypic and phenotypic ratio of
+offspring of dihybrid crosses involving unlinkedÂ 
+
+Â  Â  autosomal genes
+
+Â  Â Â 
+Below are two examples of questions involving dihybrid crosses â€“ click
+on the question to show / hide the solution
+
+Problem 1:
+
+[question] In sheep, the allele for black wool (B) is dominant over the
+allele for white wool (b).
+Similarly, the allele for horns (H) is dominant over the allele for
+being hornless (h).
+Pure breeding horned sheep with black wool were crossed with pure
+breeding hornless sheep with white wool.
+(a) State the genotype and the phenotype of the F1 individuals produced
+as a result of this cross.
+(b) Two F1 offspring were mated together. Calculate the expected ratio
+of phenotypes in the F2 generation.
+
+[metric system]
+
+Problem 2:
+
+[question] In cats, the allele for grey fur (G) is dominant over the
+allele for beige fur (g).
+The allele for a solid coat (S) is dominant over the allele for a
+striped coat (s).
+A pure breeding solid, beige cat is crossed with a pure breeding
+striped, grey cat.
+(a) State the genotype and the phenotype of the F1 individuals produced
+as a result of this cross.
+(b) Calculate the phenotypes resulting from a cross between a pure
+breeding solid, beige cat and an F1 offspring.
+
+[second]

@@ -1,0 +1,40 @@
+Protein Modification
+
+Post-translational modifications refer to any change in the chemical
+composition of proteins following translation
+
+-   These modifications may be vital to the formation of a mature,
+    functional protein (e.g. common in cell signalling components)
+
+Addition of new functional groups
+
+-   Enzymes may modify protein structure via the introduction of a new
+    chemical group to specific amino acids in the molecule
+-   This can include phosphorylation, methylation, acetylation,
+    glycosylation, ubiquitination, lipidation, biotination, etc.
+-   The addition of chemical groups may alter the properties of the
+    chain and induce conformational changes â€“ affecting activity
+
+Proteolytic cleavage of existing elements
+
+-   Proteins may also be modified via the removal of specific amino acid
+    segments from a propeptide
+-   This occurs in zymogens, where the active site is occluded and
+    inactive until proteolytic cleavage occurs
+-   The hormone insulin also requires the separation of a middle segment
+    to form two polypeptides chains linked by disulfide bridges
+-   Another common form of proteolytic cleavage is the removal of the
+    initiator methionine residue
+
+Racemization
+
+-   Amino acids can exist as chiral enantiomers ('mirror image'
+    stereoisomers)
+-   Racemization involves converting proteins from one enantiomeric
+    arrangement to a different enantiomeric arrangement
+-   Different enantiomers may have distinct chemical properties due to
+    the ability to form different intermolecular interactions
+
+Example of Protein Modification â€“ Proteolytic Cleavage
+
+[zymogen]

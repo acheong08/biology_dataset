@@ -1,0 +1,95 @@
+Protein Structure
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The amino acid sequence determines the three-dimensional
+conformation of a protein
+
+Â  Â Â 
+Amino acids are covalently joined via peptide bonds to form long chains
+called polypeptides
+
+The order of the amino acid sequence is called the primary structure and
+determines the way the chain will fold
+
+-   Different amino acid sequences will fold into different
+    configurations due to the chemical properties of the variable side
+    chains
+
+Amino acid sequences will commonly fold into two stable configurations,
+called secondary structures
+
+-   Alpha helices occur when the amino acid sequence folds into a coil /
+    spiral arrangement
+-   Beta-pleated sheets occur when the amino acid sequence adopts a
+    directionally-oriented staggered strand conformation
+
+BothÂ Î±-helices andÂ Î²-pleated sheets result from hydrogen bonds
+forming between non-adjacent amine and carboxyl groups
+
+-   Where no secondary structure exists, the polypeptide chain will form
+    a random coil
+
+Secondary Structure â€“ Alpha Helices versus Beta Pleated Sheets
+
+[secondary structure]
+
+The overall three-dimensional configuration of the protein isÂ referred
+to as theÂ tertiary structureÂ of the protein
+
+The tertiary structure of a polypeptide chain will be determined by the
+interactions between the variable side chains
+
+-   These interactions may include hydrogen bonds, disulphide bridges,
+    ionic interactions, polar associations, etc.
+
+The affinity or repulsion of side chains will affect the overall shape
+of the polypeptide chain and are determined by the position of specific
+amino acids within a sequence
+
+-   Hence, the order of the amino acid sequence (primary structure)
+    determines all subsequent levels of protein folding
+
+Protein Folding: Â PrimaryÂ â†’ SecondaryÂ â†’ Tertiary
+
+[protein folding]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â A protein may consist of a single polypeptide or more than one
+polypeptide linked together
+
+Â  Â Â 
+Certain proteins possess a fourth level of structural organisation
+called a quaternary structure
+
+Quaternary structures are found in proteins that consist of more than
+one polypeptide chain linked togetherÂ 
+
+Alternatively, proteins may have a quaternary structure if they include
+inorganic prosthetic groups as part of their structure
+
+Not all proteins will have a quaternary structure â€“ many proteins
+consist of a single polypeptide chain
+
+Quaternary Structure of a Protein
+
+[quaternary structure]
+
+An example of a protein with a quaternary structure is haemoglobin (O₂
+carrying molecule in red blood cells)
+
+-   Haemoglobin is composed of four polypeptide chains (two alpha chains
+    and two beta chains)
+-   It is also composed of iron-containing haeme groups (prosthetic
+    groups responsible for binding oxygen)

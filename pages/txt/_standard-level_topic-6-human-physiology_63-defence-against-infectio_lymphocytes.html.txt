@@ -1,0 +1,73 @@
+Lymphocytes
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Production of antibodies by lymphocytes in response to particular
+pathogens gives specific immunity
+
+Â  Â Â 
+TheÂ third line of defenceÂ against infectious disease is the
+adaptiveÂ immune system, which isÂ specificÂ in its response
+
+-   It can differentiate between particular pathogens and target a
+    response that is specific to a given pathogen
+-   It can respond rapidly upon re-exposure to a specific pathogen,
+    preventing symptoms from developing (immunological memory)
+
+Lymphocytes
+
+The adaptive immune system is coordinated by lymphocytes (a class of
+leukocyte) and results in the production of antibodies
+
+-   B lymphocytes (B cells) are antibody-producing cells that recognise
+    and target a particular pathogen fragment (antigen)
+-   HelperÂ TÂ lymphocytesÂ (T_(H)Â cells) are regulator cells that
+    release chemicals (cytokines) to activate specific B lymphocytes
+
+When phagocytic leukocytes engulf a pathogen, some will present the
+digested fragments (antigens) on their surface
+
+-   These antigen-presenting cells (dendritic cells) migrate to the
+    lymph nodes and activate specific helper T lymphocytes
+-   The helper T cells then release cytokines to activate the particular
+    B cell capable of producing antibodies specific to the antigen
+-   The activated B cell will divide and differentiate to form
+    short-lived plasma cells that produce high amounts of specific
+    antibody
+-   Antibodies will target their specific antigen, enhancing the
+    capacity of the immune system to recognise and destroy the pathogen
+-   A small proportion of activated B cell (and activated T_(H) cell)
+    will develop into memory cells to provide long-lasting immunity
+
+Activation of the Adaptive Immune System
+
+[antigen presentation]
+
+Antibodies
+
+Antigen: Â An antigen is a substance that the body recognises as foreign
+and that will elicit an immune response
+
+Antibody: Â An antibody is a protein produced by B lymphocytes (and
+plasma cells) that is specific to a given antigen
+
+-   Antibodies are made of 4 polypeptide chains that are joined together
+    by disulphide bonds to form Y-shaped molecules
+-   The ends of the arms are where the antigen binds â€“ these areas are
+    called the variable regions and differ between antibodies
+-   The rest of the molecule is constant across all antibodies and
+    serves as a recognition site for the immune system (opsonisation)
+-   Each type of antibody recognises a unique antigen, making
+    antigen-antibody interactions specific (like enzymes and substrates)
+
+Antigen-Antibody Specificity
+
+[antigen-antibody]

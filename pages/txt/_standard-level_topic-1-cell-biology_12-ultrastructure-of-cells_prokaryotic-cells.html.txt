@@ -1,0 +1,81 @@
+Prokaryotic Cells
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Prokaryotes have a simple cell structure without
+compartmentalisation
+
+Â  Â Â 
+Prokaryotes are organisms whose cells lack a nucleus Â ('pro' = before ;
+'karyon' = nucleus)
+
+They belong to the kingdom Monera and have been further classified into
+two distinct domains:
+
+-   Archaebacteria â€“ found in extreme environments like high
+    temperatures, salt concentrations or pH (i.e. extremophiles)
+-   Eubacteria â€“ traditional bacteria including most known pathogenic
+    forms (e.g. E. coli, S. aureus, etc.)
+
+Prokaryotic Features
+
+Prokaryotic cells will typically contain the following cellular
+components:
+
+-   Cytoplasm â€“ internal fluid component of the cell
+-   Nucleoid â€“ region of the cytoplasm where the DNA is located (DNA
+    strand is circular and called a genophore)
+-   Plasmids â€“ autonomous circular DNA molecules that may be
+    transferred between bacteria (horizontal gene transfer)Â 
+-   Ribosomes â€“ complexes of RNA and protein that are responsible for
+    polypeptide synthesis (prokaryote ribosome = 70S)
+-   Cell membrane â€“ Semi-permeable and selective barrier surrounding
+    the cell
+-   Cell wall â€“ rigid outer covering made of peptidoglycan; maintains
+    shape and prevents bursting (lysis)
+-   Slime capsule â€“ a thick polysaccharide layer used for protection
+    against dessication (drying out) and phagocytosis
+-   Flagella â€“ Long, slender projections containing a motor protein
+    that enables movement (singular: flagellum)
+-   Pili â€“ Hair-like extensions that enable adherence to surfaces
+    (attachment pili) or mediate bacterial conjugation (sex pili)
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to show / hide labels
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Prokaryotes divide by binary fission
+
+Â  Â Â 
+Binary fission is a form of asexual reproduction used by prokaryotic
+cells
+
+In the process of binary fission:
+
+-   The circular DNA is copied in response to a replication signal
+-   The two DNA loops attach to the membrane
+-   The membrane elongates and pinches off (cytokinesis), forming two
+    cells
+
+Overview of Binary Fission and Rate of Bacterial Growth
+
+This browser cannot play the embedded video file.
+
+[bacteria-growth]
+
+[binary fission]
+
+(http://www.youtube.com/watch?v=gEwzDydciWc) Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â 

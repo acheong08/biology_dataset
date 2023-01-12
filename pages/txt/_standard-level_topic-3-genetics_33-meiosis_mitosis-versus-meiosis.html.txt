@@ -1,0 +1,40 @@
+Mitosis versus Meiosis
+
+Mitosis and meiosis are two processes by which eukaryotic cells may
+divide and share several similarities:
+
+-   They are both preceded by interphase (which includes DNA
+    replication)
+-   They both divide according to a common pathway
+    (prophaseÂ â†’Â metaphaseÂ â†’Â anaphaseÂ â†’Â telophase)
+-   They both split their cells via cytokinesis
+
+However there are certain key differences which distinguish the two
+processes:
+
+-   Division â€“ Mitosis involves only one cell division, but meiosis
+    requires two cell divisions
+-   Independent assortment â€“ Homologous pairs are randomly separated
+    into separate cells in meiosis, but not mitosis
+-   Synapsis â€“ Homologous pairs form bivalents in meiosis, but not
+    mitosis
+-   Crossing over â€“ Non-sister chromatids of homologous pairs may
+    exchange genetic material in meiosis, but not mitosis
+-   Outcome â€“ Mitosis results in the formation of two daughter cells,
+    while meiosis produces four daughter cells
+-   Ploidy â€“ Daughter cells produced by mitosis are diploid, while
+    daughter cells produced by meiosis are haploid
+-   Use â€“ Mitosis is used to clone body cells, while meiosis is used
+    to generate sex cells (gametes)
+-   Genetics â€“ Cells produced by mitosis are genetically identical
+    (clones), while cells produced by meiosis are genetically distinct
+
+Mnemonic: Â Disco Pug
+
+Mitosis versus Meiosis
+
+[mitosis vs meiosis]
+
+Kirby Genetics #1: Â Mitosis versus Meiosis
+
+[kirby one]

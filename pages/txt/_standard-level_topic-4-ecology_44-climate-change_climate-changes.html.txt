@@ -1,0 +1,102 @@
+Climate Changes
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Global temperatures and climate patterns are influenced by
+concentration of greenhouse gases
+
+Â  Â Â 
+Greenhouse gases play a pivotal role in determining global temperatures
+and climate patterns due to their capacity to retain heat
+
+-   As these gases trap heat, increases in greenhouse gas concentrations
+    should correlate with an increase in global temperatureÂ 
+-   Long term weather patterns (climate) may also be influenced by
+    greenhouse gas concentrations
+
+Scientists predict that increases in greenhouse gas concentrations will
+lead to an enhanced greenhouse effect, resulting in:
+
+-   More frequent extreme weather conditions (e.g. heat waves, cyclones,
+    more powerful tropical storms, etc.)
+-   Some areas to become more drought affected, while other areas become
+    more prone to periods of heavy rainfall
+-   Changes to circulating ocean currents â€“ which may cause longer El
+    Nino (warming) and La Nina (cooling) events
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Correlations between global temperatures and carbon dioxide
+concentrations on Earth
+
+Â  Â Â 
+The link between global temperatures and carbon dioxide concentrations
+was established by analysing data over a long time period
+
+-   Ice cores taken from the Vostok station in Antarctica provide
+    evidence of the environmental conditions at the time of freezing
+-   The Vostok ice core is one of the longest drilled, reaching back
+    420,000 years and covering the past four glacial cycles
+-   By analysing the gas bubbles trapped in ice, historical CO₂ levels
+    and air temperatures (via oxygen isotopes) can be deduced
+
+Data collected from the Vostok ice core demonstrates that:
+
+-   There is a strong positive correlation between carbon dioxide
+    concentrations and temperature (â†‘ CO₂ levelsÂ âˆ?Â â†‘
+    temperature)
+-   There have been fluctuating cycles of CO₂ concentrations which
+    appear to correlate with global warm ages and ice ages
+-   Current concentrations of CO₂ are higher than at any time recorded
+    in the last 400,000 years
+
+Vostok Ice Core Data â€“ Temperature versus Carbon Dioxide Concentration
+
+[vostok data]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â There is a correlation between rising atmospheric concentrations
+of carbon dioxide since the start of theÂ 
+
+Â  Â Â industrial revolution 200 years ago and average global
+temperatures
+
+Â  Â Â 
+The industrial revolution introduced new manufacturing processes which
+significantly increased mankindâ€™s use of fossil fuels
+
+-   The burning of fossil fuels releases carbon dioxide as a by-product,
+    leading to a steadyÂ increase in itsÂ atmospheric concentration
+
+When fuel emissions, atmospheric CO₂ concentrations and global
+temperatures are compared, the following trends are revealed:
+
+-   There is a strong positive correlation between increasing fossil
+    fuel emissions and rising atmospheric concentrations of CO₂
+-   Atmospheric CO₂ concentrations have increased ~38% since
+    pre-industrial times (1800: ~ 280 ppm ; 2010: ~ 380 ppm)
+-   About 40% of CO₂ emissions have remained in the atmosphere, the rest
+    has been absorbed by carbon sinks (mainly oceans)
+-   This increase in atmospheric carbon dioxide concentration correlates
+    with an increase in average global temperature
+-   While correlation does not equal causation, there is mounting
+    evidence to suggest that CO₂ emissions are linked to global
+    temperature changes (although other factors likely also contribute)
+
+Carbon Dioxide Emissions, Atmospheric Concentrations and Global Average
+Temperatures
+
+[carbon emissions data]

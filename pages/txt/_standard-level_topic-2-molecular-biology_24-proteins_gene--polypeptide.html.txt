@@ -1,0 +1,37 @@
+GeneÂ â‡’ Polypeptide
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The amino acid sequence of polypeptides is coded for by genes
+
+Â  Â Â 
+A gene is a sequence of DNA which encodes a polypeptide sequence
+
+A gene sequence is converted into a polypeptide sequence via two
+processes:
+
+-   Transcription â€“ making an mRNA transcript based on a DNA template
+    (occurs within the nucleus)
+-   Translation â€“ using the instructions of the mRNA transcript to
+    link amino acids together (occurs at the ribosome)
+
+Typically, one gene will code for one polypeptide â€“ however there are
+exceptions to this rule:
+
+-   Genes may be alternatively spliced to generate multiple polypeptide
+    variants
+-   Genes encoding tRNA sequences are transcribed but never translated
+-   Genes may be mutated (their base sequence is changed) and
+    consequently produce an alternative polypeptide sequence
+
+TheÂ â€˜One Gene â€“ One Polypeptideâ€™Â Rule
+
+[one gene - one polypeptide]

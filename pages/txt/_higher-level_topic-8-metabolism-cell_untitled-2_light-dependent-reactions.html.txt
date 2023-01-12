@@ -1,0 +1,131 @@
+Light Dependent Reactions
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Absorption of light by photosystems generates excited electrons
+
+â€¢ Â Transfer of excited electrons occurs between carriers in thylakoid
+membranes
+
+Â  Â Â 
+The light dependent reactions use photosynthetic pigments (organised
+into photosystems) to convert light energy into chemical energy
+(specifically ATP and NADPH)
+These reactions occur within specialised membrane discs within the
+chloroplast called thylakoids and involve three steps:
+
+-   Excitation of photosystems by light energy
+-   Production of ATP via an electron transport chain
+-   Reduction of NADP⁺ and the photolysis of water
+
+Step 1: Â Excitation of Photosystems by Light Energy
+
+-   Photosystems are groups of photosynthetic pigments (including
+    chlorophyll) embedded within the thylakoid membrane
+-   Photosystems are classed according to their maximal absorption
+    wavelengths (PS I = 700 nm ; PS II = 680 nm)
+-   When a photosystem absorbs light energy, delocalised electrons
+    within the pigments become energised orÂ â€˜excited'
+-   These excited electrons areÂ transferred to carrier molecules within
+    the thylakoid membrane
+
+[light dependent 1]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Excited electrons from Photosystem II are used to contribute to
+generate a proton gradient
+
+â€¢ Â ATP synthase in thylakoids generates ATP using the proton gradient
+
+Â  Â  Â Â 
+Step 2: Â Production of ATP via an Electron Transport Chain
+
+-   Excited electrons from Photosystem II (P680) are transferred to an
+    electron transport chain within the thylakoid membrane
+-   As the electrons are passed through the chain they lose energy,
+    which is used to translocate H⁺ ions into the thylakoid
+-   This build up of protons within the thylakoid creates an
+    electrochemical gradient, or proton motive force
+-   The H⁺ ions return to the stroma (along the proton gradient) via the
+    transmembrane enzyme ATP synthase (chemiosmosis)
+-   ATP synthase uses the passage of H⁺ ions to catalyse the synthesis
+    of ATP (from ADP + Pi)
+-   This process is called photophosphorylation â€“ as light provided
+    the initial energy source for ATP production
+-   The newly de-energised electrons from Photosystem II are taken up by
+    Photosystem I
+
+[light dependent 2]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Excited electrons from Photosystem I are used to reduce NADP
+
+â€¢ Â Photolysis of water generates electrons for use in the light
+dependent reactions
+
+Â  Â  Â 
+Step 3: Â Reduction of NADP+ and the Photolysis of Water
+
+-   Excited electrons from Photosystem I may be transferred to a carrier
+    molecule and used to reduce NADP⁺
+-   This forms NADPH â€“ which is needed (in conjunction with ATP) for
+    the light independent reactions
+-   The electrons lost from Photosystem I are replaced by de-energised
+    electrons from Photosystem II
+-   The electrons lost from Photosystem II are replaced by electrons
+    released from water via photolysis
+-   Water is split by light energy into H⁺ ions (used in chemiosmosis)
+    and oxygen (released as a by-product)
+
+[light dependent 3]
+
+Overview of the Light Dependent Reactions
+
+-   The light dependent reactions occur within the intermembrane space
+    of the thylakoids
+-   Chlorophyll in Photosystems I and II absorb light, which triggers
+    the release of high energy electrons (photo activation)
+-   Excited electrons from Photosystem II are transferred between
+    carrier molecules in an electron transport chain
+-   The electron transport chain translocates H⁺ ions from the stroma to
+    within the thylakoid, creating a proton gradient
+-   The protons are returned to theÂ stroma via ATP synthase, which uses
+    their passage (via chemiosmosis) to synthesise ATP
+-   Excited electrons from Photosystem I are used to reduce NADP⁺
+    (forming NADPH)
+-   The electrons lost from Photosystem I are replaced by the
+    de-energised electrons from Photosystem II
+-   The electrons lost from Photosystem II are replaced following the
+    photolysis of water
+-   The products of the light dependent reactions (ATP and NADPH) are
+    used in the light independent reactions
+
+Light Dependent Reactions Analogy
+
+This browser cannot play the embedded video file.
+
+Z Scheme
+
+The energy changes (oxidation / reduction) that occur during
+photosynthesis may be represented as a Z scheme:
+
+-   First vertical bar: Â Photosystem II electrons are energised by
+    light (electrons replaced by photolysis of water molecules)
+-   Diagonal bar: Â Electrons lose energy as they pass through an
+    electron transport chain (synthesising ATP)
+-   Second vertical bar: Â Photosystem I electrons are energised by
+    light (electrons used to reduce NADP⁺)

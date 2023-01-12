@@ -1,0 +1,104 @@
+Aerobic Overview
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of diagrams of the pathways of aerobic respiration to
+deduce where decarboxylation and oxidation
+
+Â  Â Â reactions occur
+
+Â  Â Â 
+Aerobic respiration involves the breakdown of glucose in the presence of
+oxygen to produce water and carbon dioxide
+
+-   It requires the involvement of mitochondria and generates a large
+    yield of ATP (typically 36 ATP per glucose consumed)
+-   Aerobic respiration may include the following processes:
+    Â glycolysis, link reaction, krebs cycle, electron transport chain
+
+Aerobic Respiration Equation
+
+[respiration equation]
+
+Types of Aerobic Reactions
+
+Aerobic respiration involves three main types of reactions â€“
+decarboxylation, oxidation and phosphorylation
+
+-   The following table organises these reactions according to the
+    different stages of aerobic respiration
+
+[aerobic respiration table]
+
+Decarboxylation:
+
+-   Carbon atoms are removed from the organic molecule (glucose) to form
+    carbon dioxide
+-   Aerobic respiration involves the complete combustion of glucose (6C)
+    â€“ so six CO₂ molecules are produced
+
+Oxidation:
+
+-   Electrons and hydrogen ions are removed from glucose and taken up by
+    hydrogen carriers (NADH and FADH₂)
+-   The hydrogen carriers are in turn oxidised at the electron transport
+    chain (where the energy is used to make ATP)
+-   The electrons and hydrogen ions are then taken up by oxygen
+    (reduction) to form water molecules
+-   Twelve hydrogen carriers are produced and so six oxygen molecules
+    are required (12Â Ã— O = 6Â Ã— O₂)
+
+Phosphorylation:
+
+-   Energy released from the breakdown of glucose is used to
+    phosphorylate ADP to make ATP
+-   A net total of four ATP molecules are produced directly via
+    substrate level phosphorylation
+-   The remaining ATP is produced indirectly via the electron transport
+    chain (oxidative phosphorylation)
+
+Summary of the Stages of Aerobic Respiration
+
+[aerobic stages summary]
+
+ATP Production
+
+Aerobic respiration typically produces a net total of 36 ATP per
+molecule of glucose consumed
+
+-   A net total of 2 ATP are produced in glycolysis via substrate level
+    phosphorylation (four are produced, but two are consumed)
+-   A further 2 ATP are similarly produced in the Krebs cycle (one ATP
+    per cycle â€“ two cycles occur per glucose molecule)
+-   Lastly, 32 ATP are produced in the electron transport chain using
+    energy from hydrogen carriers (oxidative phosphorylation)
+
+Hydrogen carriers produce different amounts of ATP depending on where
+they donate electrons to the transport chain
+
+-   NADH molecules located in the matrix donate electrons to the start
+    of the chain and produce 3 ATP per hydrogen carrier
+-   Cytosolic NADH (from glycolysis) donate electrons later in the chain
+    and only produce 2 ATP per hydrogen carrier
+-   FADH₂ also donates electrons later in the chain and so only produce
+    2 ATP per hydrogen carrier
+
+Oxidative phosphorylation: Â (8Â Ã— matrix NADH) + (2Â Ã— cytosolic
+NADH) + (2Â Ã— FADH₂) Â = Â (8Â Ã— 3) + (2Â Ã— 2) + (2Â Ã— 2) Â = Â 32
+ATP
+
+Summary of ATP Production
+
+[ATP production summary]
+
+Overview of Aerobic Respiration
+
+This browser cannot play the embedded video file.

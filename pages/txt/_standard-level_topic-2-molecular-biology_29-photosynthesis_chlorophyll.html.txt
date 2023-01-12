@@ -1,0 +1,33 @@
+Chlorophyll
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Chlorophyll absorbs red and blue light most effectively and
+reflects green light more than other colours
+
+Â  Â Â 
+Chlorophyll is a green pigment found in photosynthetic organisms that is
+responsible for light absorption
+
+-   When chlorophyll absorbs light, it releases electrons which are used
+    to synthesise ATP (chemical energy)
+
+There are a number of different chlorophyll molecules, each with their
+own absorption spectra, however collectively:
+
+-   Chlorophyll absorbs light most strongly in the blue portion of the
+    visible spectrum, followed by the red portion
+-   Chlorophyll reflects light most strongly in the green portion of the
+    visible spectrum (hence the green colour of leaves)
+
+Diagram of a Typical Chlorophyll Molecule
+
+[chlorophyll]

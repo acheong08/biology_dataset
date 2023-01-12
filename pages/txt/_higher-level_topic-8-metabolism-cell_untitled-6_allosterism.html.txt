@@ -1,0 +1,40 @@
+Allosterism
+
+Allosteric regulation (allosterism) is the modulation of an enzymeâ€™s
+activity via the binding of an effector molecule (ligand) to a site
+other than the enzymeâ€™s active site (an allosteric site)
+
+-   Allosteric binding causes a conformational change in the enzymeâ€™s
+    structure which affects the enzymeâ€™s affinity for substrate
+-   Allosteric regulation can be either positive (activation) or
+    negative (non-competitive inhibition)
+
+Positive Allosterism
+
+-   An example of allosteric activation is seen in the binding of oxygen
+    molecules to haemoglobin
+-   Haemoglobin is composed of four distinct subunits and can bind up to
+    four oxygen molecules (HbO₈)
+-   As each oxygen molecule binds, it changes the conformation of
+    haemoglobin and increases its affinity for oxygen
+-   This ensures that haemoglobin will transport the maximum amount of
+    oxygen from oxygen-rich areas (i.e. the lungs)
+-   Conversely, the release of an O₂ molecule decreases haemoglobinâ€™s
+    affinity for oxygen â€“ promoting its release in the tissues
+
+Negative Allosterism
+
+-   An example of allosteric inhibition can be seen in any example of
+    non-competitive inhibition
+-   Phosphofructokinase (PFK) is an enzyme involved in the breakdown of
+    glucose during glycolysis (to make ATP)
+-   ATP binds to an allosteric site on PFK and inhibits its activity â€“
+    preventing glycolysis from occurring
+-   Thus ATP prevents the further production of more ATP when energy
+    stocks are high (end-product inhibition)
+-   When energy stocks are low, there is insufficient ATP to inhibit PFK
+    and glycolysis will be able to proceed
+
+Allosteric Regulation
+
+[allosterism]

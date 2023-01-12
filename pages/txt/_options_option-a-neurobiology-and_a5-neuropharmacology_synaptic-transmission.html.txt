@@ -1,0 +1,61 @@
+Synaptic Transmission
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Some neurotransmitters excite nerve impulses in postsynaptic
+neurons and others inhibit them
+
+Â  Â Â 
+Presynaptic neurons release neurotransmitters that diffuse into the
+synapse and bind receptors on postsynaptic neurons
+
+-   Some neurotransmitters generate excitatory post-synaptic potentials
+    (EPSPs) by causing depolarisation (e.g. glutamate)
+-   Some neurotransmitters generate inhibitoryÂ post-synaptic potentials
+    (IPSPs) by causing hyperpolarisation (e.g. GABA)
+
+If the combination of excitatory and inhibitory signals reaches a
+threshold limit, an action potential will be generated
+
+Excitatory vs Inhibitory Neurotransmitters
+
+[EPSP vs IPSP]
+
+Â 
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Nerve impulses are initiated or inhibited in postsynaptic neurons
+as a result of summation of all excitatory
+
+Â  Â Â and inhibitory neurotransmitters received from presynaptic
+neurons
+
+Â  Â Â 
+
+The combination of graded potentials (EPSPs and IPSPs) in the
+post-synaptic neuron is known as summation
+
+-   Cancellation occurs when excitatory and inhibitory graded potentials
+    cancel each other out (no threshold potential reached)
+-   Spatial summation occurs when EPSPs are generated from multiple
+    presynaptic neurons simultaneously to reach threshold
+-   Temporal summation occurs when multiple EPSPs are generated from a
+    single presynaptic neuron in quick succession
+
+These summative effects determine which nerve pathways are activated and
+hence lead to alternate decision-making processes
+
+Types of Summation
+
+[summation]

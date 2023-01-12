@@ -1,0 +1,32 @@
+Bacteriophages
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Bacteriophages are used in the disinfection of water systems
+
+Â  Â Â 
+Biofilms will often form within the pipes of water systems â€“
+contaminating the supply, clogging the pipe and causing corrosion
+
+-   The biofilms are difficult to remove using disinfectants and
+    antimicrobial drugs, as they are highly resistant to these agents
+
+Bacteriophages are viruses that specifically target bacteria, and are
+commonly used in the disinfection of water systems
+
+-   Bacteriophages may quickly spread through all bacterial cells and
+    disrupt the coordinated maintenance of the biofilm
+-   The virus will propagate within the bacterial cell and cause it to
+    lyse as part of its viral life cycle
+
+Bacterial Destruction by Bacteriophages
+
+[bacteriophages]

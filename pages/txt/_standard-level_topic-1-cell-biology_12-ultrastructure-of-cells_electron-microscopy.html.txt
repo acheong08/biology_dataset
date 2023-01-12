@@ -1,0 +1,45 @@
+Electron Microscopy
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Electron microscopes have a much higher resolution than light
+microscopes
+
+Â  Â Â 
+Electron microscopes use electron beams focused by electromagnets to
+magnify and resolve microscopic specimens
+
+-   Transmission electron microscopes (TEM) generate high resolution
+    cross-sections of objects
+-   Scanning electron microscopes (SEM) display enhanced depth to map
+    the surface of objects in 3D
+
+Electron microscopes have two key advantages when compared to light
+microscopes:
+
+-   They have a much higher range of magnification (can detect smaller
+    structures)
+-   They have a much higher resolution (can provide clearer and more
+    detailed images)
+
+Some disadvantage of electron microscopes are that they cannot display
+living specimens in natural colours
+
+Resolution: Â Light versus Electron Microscopy
+
+[]
+Select Microscope
+Light
+Electron
+
+Magnification: Â Light versus Electron Microscopy
+
+[light vs electron]

@@ -1,0 +1,95 @@
+Enzymes in Industry
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Immobilised enzymes are widely used in industry
+
+Â  Â Â 
+Immobilised enzymes have been fixed to a static surface in order to
+improve the efficiency of the catalysed reaction
+
+-   Enzyme concentrations are conserved as the enzyme is not dissolved
+    â€“ hence it can be retained for reuse
+-   Separation of the product is more easily achieved as the enzyme
+    remains attached to the static surface
+
+Immobilised enzymes are utilised in a wide variety of industrial
+practices:
+
+-   Biofuels â€“ Enzymes are used to breakdown carbohydrates to produce
+    ethanol-based fuels
+-   MedicineÂ â€“ Enzymes are used to identify a range of conditions,
+    including certain diseases and pregnancy
+-   Biotechnology â€“ Enzymes are involved in a number of processes,
+    including gene splicing
+-   Food production â€“ Enzymes are used in the production and
+    refinement of beers and dairy products
+-   Textiles â€“ Enzymes are utilised in the processing of fibres (e.g.
+    polishing cloth)
+-   Paper â€“ Enzymes assist in the pulping of wood for paper production
+
+Common Industrial Uses of Enzymes
+
+[industrial uses of enzymes]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Methods of production of lactose-free milk and its advantages
+
+Â  Â Â 
+Lactose is a disaccharide of glucose and galactose which can be broken
+down by the enzyme lactase
+
+Historically, mammals exhibit a marked decrease in lactase production
+after weaning, leading to lactose intolerance
+
+-   Incidence of lactose intolerance is particularly high in Asian,
+    African and Aboriginal populations
+-   Incidence is lower in European populations (due to a mutation that
+    maintains lactase production into adulthood)
+
+Breakdown of Lactose by the Enzyme Lactase
+
+[lactose]
+
+Producing Lactose-Free Milk
+
+Lactose-free milk can be produced by treating the milk with the enzyme
+lactase
+
+-   The lactase is purified from yeast or bacteria and then bound to an
+    inert substance (such as alginate beads)
+-   Milk is then repeatedly passed over this immobilised enzyme,
+    becoming lactose-free
+
+Scientists are currently attempting to create transgenic cows that
+produce lactose-free milk
+
+-   This involves splicing the lactase gene into the cowâ€™s genome so
+    that the lactose is broken down prior to milking
+
+Generation of Lactose-Free Milk Using Immobilised Enzymes
+
+[lactose-free milk]
+
+Advantages of Lactose-Free Dairy Products
+
+The generation of lactose-free milk can be used in a variety of ways:
+
+-   As a source of dairy for lactose-intolerant individuals
+-   As a means of increasing sweetness in the absence of artificial
+    sweeteners (monosaccharides are sweeter tasting)
+-   As a way of reducing the crystallisation of ice-creams
+    (monosaccharides are more soluble, less likely to crystalise)
+-   As a means of reducing production time for cheeses and yogurts
+    (bacteria ferment monosaccharides more readily)

@@ -1,0 +1,95 @@
+Structure of DNA
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Rosalind Franklinâ€™s and Maurice Wilkinsâ€™ investigation of DNA
+structure by X-ray diffraction
+
+Â  Â Â 
+Rosalind Franklin and Maurice Wilkins used a method of X-ray diffraction
+to investigate the structure of DNA
+
+-   DNA was purified and then fibres were stretched in a thin glass tube
+    (to make most of the strands parallel)
+-   The DNA was targeted by a X-ray beam, which was diffracted when it
+    contacted an atom
+-   The scattering pattern of the X-ray was recorded on a film and used
+    to elucidate details of molecular structure
+
+Summary of the Process of X-Ray Crystallography
+
+[x-ray crystallography]
+
+From the scattering pattern produced by a DNA molecule, certain
+inferences could be made about its structure
+
+-   Composition: Â DNA is a double stranded molecule
+-   Orientation: Â Nitrogenous bases are closely packed together on the
+    inside and phosphates form an outer backbone
+-   Shape: Â The DNA molecule twists at regular intervals (every 34
+    Angstrom) to form a helix (two strands = double helix)
+
+Photo 51 â€“ Evidence for the Structure of DNA via X-Ray Diffraction
+
+[]
+      Evidence:                 Overview                 Helix
+                 Twists                  Bases                  Strands
+                 Orientation
+
+Franklinâ€™s data was shared by Wilkins with James Watson (without
+Franklinâ€™sÂ permission) who, with the help of Francis Crick, used the
+information to create a molecular model of the basic structure of DNA
+
+-   In 1962, Watson, Crick and Wilkins (but not Franklin) were awarded
+    the Nobel prize for their contributions to DNA structure
+    identification
+
+Link: Â The Structure of DNA â€“ Cooperation and Competition
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â DNA structure suggested a mechanism for DNA replication
+
+Â  Â Â 
+Franklinâ€™s x-ray diffraction experiments demonstrated that the DNA
+helix is both tightly packed and regular in structure
+
+-   Phosphates (and sugars) form an outer backbone and nitrogenous bases
+    are packaged within the interior
+
+Chargaff had also demonstrated thatÂ DNA is composed of an equal number
+of purines (A + G) and pyrimidines (C + T)Â 
+
+-   This indicates that these nitrogenous bases are paired (purine +
+    pyrimidine) within the double helix
+-   In order for this pairing between purines and pyrimidines to occur,
+    the two strands must run in antiparallel directions
+
+When Watson & Crick were developing their DNA model, they discovered
+that an Aâ€“T bond was the same length as a Gâ€“C bond
+
+-   Adenine and thymine paired via two hydrogen bonds, whereas guanine
+    and cytosine paired via three hydrogen bonds
+-   If the bases were always paired this way, then this would describe
+    the regular structure of the DNA helix (shown by Franklin)
+
+Consequently, DNA structure suggests two mechanisms for DNA replication:
+
+-   Replication occurs via complementary base pairing (adenine pairs
+    with thymine, guanine pairs with cytosine)
+-   Replication is bi-directional (proceeds in opposite directions on
+    the two strands) due to the antiparallel nature of the strands
+
+Complementary Base Pairing as a Mechanism for DNA Replication
+
+[purine-pyrimidine]

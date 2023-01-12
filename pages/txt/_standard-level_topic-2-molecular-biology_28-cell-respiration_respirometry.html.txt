@@ -1,0 +1,41 @@
+Respirometry
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of results from experiments involving measurement of
+respiration rates in germinating seeds or
+
+Â  Â invertebrates using a respirometer
+
+Â  Â Â 
+A respirometer is a device that determines an organismâ€™sÂ respiration
+rate by measuring the rate of exchange of O₂ and CO₂
+
+-   The living specimen (e.g. germinating seeds or invertebrate
+    organism) is enclosed in a sealed container
+-   Carbon dioxide production can be measured with a data logger or by
+    pH changes if the specimen is immersed in water
+-   When an alkali is included to absorb CO₂, oxygen consumption can be
+    measured as a change in pressure within the system
+    -   The pressure change can be detected with a data logger or via
+        use of a U-tube manometer
+
+Factors which may affect respiration rates include temperature,
+hydration, light (plants), age and activity levels
+
+-   An increase in carbon dioxide levels will indicate an increase in
+    respiration (CO₂ is a product of aerobic respiration)
+-   A decrease in oxygen levels will indicate an increase in respiration
+    (O₂ is a requirement for aerobic respiration)
+
+Schematic of a Simple Respirometer Designed to Measure Oxygen Uptake
+
+[manometer]

@@ -1,0 +1,61 @@
+Types of Transport
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Particles move across membranes by simple diffusion, facilitated
+diffusion, osmosis and active transport
+
+Â  Â Â 
+Cellular membranes possess two key qualities:
+
+-   They are semi-permeable (only certain materials may freely cross â€“
+    large and charged substances are typically blocked)
+-   They are selective (membrane proteins may regulate the passage of
+    material that cannot freely cross)
+
+Movement of materials across a biological membrane may occur either
+actively or passively
+
+Passive Transport
+
+Passive transport involves the movement of material along a
+concentration gradient (high concentrationÂ â‡’Â low concentration)
+
+Because materials are moving down a concentration gradient, it does not
+require the expenditure of energy (ATP hydrolysis)
+
+There are three main types of passive transport:
+
+-   Simple diffusion â€“ movement of small or lipophilic molecules (e.g.
+    O₂, CO₂, etc.)
+-   Osmosis â€“ movement of water molecules (dependent on solute
+    concentrations)
+-   Facilitated diffusion â€“ movement of large or charged molecules via
+    membrane proteins (e.g. ions, sucrose, etc.)
+
+Active Transport
+
+Active transport involves the movement of materials against a
+concentration gradientÂ (low concentrationÂ â‡’Â high concentration)
+
+Because materials are moving against the gradient, it requires the
+expenditure of energy (e.g. ATP hydrolysis)
+
+There are two main types of active transport:
+
+-   Primary (direct) active transport â€“ Involves the direct use of
+    metabolic energy (e.g. ATP hydrolysis) to mediate transport
+-   Secondary (indirect) active transport â€“ Involves coupling the
+    molecule with another moving along an electrochemical gradient
+
+Types of Membrane Transport
+
+[types of transport]

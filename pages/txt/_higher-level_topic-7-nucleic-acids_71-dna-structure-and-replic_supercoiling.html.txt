@@ -1,0 +1,20 @@
+Supercoiling
+
+Supercoiling refers to the additional twisting of a DNA strand and is an
+expression of the strain on that strand
+
+-   DNA can be overwound (positive supercoiling) orÂ underwound
+    (negative supercoiling) â€“ most DNA is negatively supercoiled
+
+Supercoiling functions to reduce the space required for DNA packaging,
+allowing for more efficient storage of DNA
+
+-   DNA will form positive supercoils when unwound byÂ helicase and
+    requires an enzyme (DNA gyrase) to reduce the strain
+-   In eukaryotic cells, nucleosomes help to supercoil DNAÂ 
+
+Supercoiling in a Prokaryotic Cell
+
+[supercoiling]
+
+Â 

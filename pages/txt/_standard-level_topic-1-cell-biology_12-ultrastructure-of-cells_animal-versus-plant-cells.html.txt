@@ -1,0 +1,19 @@
+Animal versus Plant Cells
+
+Animal cells and plant cells are both types of eukaryotic cells and
+hence share many common features, including:
+
+-   DNA stored within a nucleus
+-   Larger ribosomes (80S in size)
+-   A variety of membrane-bound organelles (e.g. mitochondria, ER, golgi
+    apparatus)
+
+However there are also a number of key differences that separate the two
+types of cells, including:
+
+-   Presence or absence of specific sub-cellular structures
+-   Composition of the plasma membrane
+
+Comparison of Plant and Animal Cells
+
+[plant vs animal cell]

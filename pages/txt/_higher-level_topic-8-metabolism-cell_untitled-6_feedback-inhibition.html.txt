@@ -1,0 +1,70 @@
+Feedback Inhibition
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Metabolic pathways can be controlled by end-product inhibition
+
+Â  Â Â 
+End-product inhibition (or feedback inhibition) is a form of negative
+feedback by which metabolic pathways can be controlled
+
+-   In end-product inhibition, the final product in a series of
+    reactions inhibits an enzyme from an earlier step in the sequence
+-   The product binds to an allosteric site and temporarily inactivates
+    the enzyme (via non-competitive inhibition)
+-   As the enzyme can no longer function, the reaction sequence is
+    halted and the rate of product formation is decreased
+
+End-product inhibition functions to ensure levels of an essential
+product are always tightly regulated
+
+-   If product levels build up, the product inhibits the reaction
+    pathway and hence decreases the rate of further product formation
+-   If product levels drop, the reaction pathway will proceed unhindered
+    and the rate of product formation will increase
+
+End-Product Inhibition
+
+[feedback inhibition]
+
+Â 
+
+[ninja icon]
+
+Application:
+
+â€¢ Â End-product inhibition of the pathway that converts threonine to
+isoleucine
+
+Â  Â Â 
+Isoleucine is an essential amino acid, meaning it is not synthesised by
+the body in humans (and hence must be ingested)
+
+-   Food sources rich in isoleucine include eggs, seaweed, fish, cheese,
+    chicken and lamb
+
+In plants and bacteria, isoleucine may be synthesised from threonine in
+a five-step reaction pathway
+
+-   In the first step of this process, threonine is converted into an
+    intermediate compound by an enzyme (threonine deaminase)
+-   Isoleucine can bind to an allosteric site on this enzyme and
+    function as a non-competitive inhibitor
+
+As excess production of isoleucine inhibits further synthesis, it
+functions as an example of end-product inhibition
+
+-   This feedback inhibition ensures that isoleucine production does not
+    cannibalise available stocks of threonine
+
+ThreonineÂ â†’ Isoleucine Pathway
+
+[isoleucine production]

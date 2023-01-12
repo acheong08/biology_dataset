@@ -1,0 +1,60 @@
+Types of Bonding
+
+Atoms always try to have a full outer shell of electrons - in order to
+achieve this they will bond with other atoms
+
+When atoms bond together they form molecules - those made of one type of
+atom are elements while those made of many types are compounds
+
+Intramolecular Bonds
+
+Atoms may join together by gaining and losing electrons (ionic bonding)
+or by sharing electrons (covalent bonding)
+Ionic Bonds:
+
+-   Ionic bonding occurs between a metal and a non-metal
+-   The metal has a nearly empty outer shell and so loses electrons to
+    form a positively charged cation
+-   The non-metal has a nearly full outer shell and so gains electrons
+    to form a negatively charged anion
+-   The resulting charge of these two ions creates a strong
+    electrostatic attraction between them - an ionic bond
+
+[ionic bond]
+
+Covalent Bonds:
+
+-   Covalent bonding occurs between two non-metals
+-   Because both atoms have a large number of electrons in their outer
+    shell, it is not feasible to lose or gain so many and so they share
+-   The number of covalent bonds able to be formed reflects the number
+    of missing electrons from the outer shell (e.g. carbon needs four
+    electrons and so can form four covalent bonds)
+-   Because there is no ionic charge, covalent molecules are not as
+    strongly attracted to each other as ionic molecules (covalent bonds
+    are weaker)
+
+[covalent bond]
+
+Intermolecular Bonds
+
+Atoms from one molecule may attract atoms from another molecule â€“
+these bonds are much weaker than intramolecular bonds
+Hydrogen Bonds:
+
+-   The covalent sharing of electrons between atoms may not always be
+    equal and will depend on:
+    -   The number of protons in an atom (more protons equals a greater
+        attraction for electrons)
+    -   The number of electron shells in an atom (electrons at a further
+        distance from the nucleus are less attracted to nucleus)
+-   Atoms that have a stronger affinity for electrons are said to have a
+    higher electronegativity
+-   Covalently shared electrons will orbit closer to atoms with a higher
+    electronegativity, resulting in a slight charge differenceÂ 
+-   These molecules are polar and can form weak electrostatic
+    associations with other polar molecules
+-   Polar associations between an H atom of one molecule and an F, O or
+    N atom of another molecule are called hydrogen bonds
+
+[polarity]

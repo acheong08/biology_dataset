@@ -1,0 +1,31 @@
+Renin
+
+Renin is a hormone produced by the kidneys that regulates blood pressure
+in response to changes in blood volume
+
+-   When an individual is dehydrated, water levels in the blood plasma
+    decrease â€“ leading to lower blood pressure
+-   Renin is released from the kidney in response to low blood pressure
+    and increases water reabsorption to raise blood volume
+
+Renin is released from the juxtaglomerular apparatus (JGA) when the
+kidneys detect a drop in blood pressure
+
+-   Renin converts angiotensinogen (released from the liver) into
+    angiotensin I
+-   In the lungs, angiotensin converting enzyme (ACE) converts
+    angiotensin I into angiotensin II
+-   Angiotensin II causes vasoconstriction, which functions to increase
+    blood pressure by reducing the diameter of blood vessels
+-   Angiotensin II also triggers the adrenal glands to release the
+    hormone aldosterone
+-   Aldosterone stimulates sodium uptake in the distal convoluted
+    tubules
+-   With more sodium reabsorbed into the bloodstream, more water is
+    reabsorbed from the collecting ducts via osmosis
+-   This functions to raise blood volume and hence increases blood
+    pressure
+
+Renin-Angiotensin System
+
+[renin]

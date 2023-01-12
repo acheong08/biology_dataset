@@ -1,0 +1,78 @@
+Gram Staining
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Gram staining of Gram-positive and Gram-negative bacteria
+
+Â  Â Â 
+Gram staining is a common technique used to differentiate between two
+groups of bacteria based on cell wall composition
+
+-   The Gram staining procedure will result in Gram-negative cells
+    staining pink and Gram-positive cells staining purple
+-   The technique was developed by Danish bacteriologist Hans Christian
+    Gram in 1884
+
+Gram-Negative Versus Gram-Positive Bacteria
+
+[Gram bacteria]
+
+Cell Wall Composition
+
+Gram staining identifies two different groups of bacteria based on the
+physical and chemical properties of their cell wall:
+
+-   Gram-positive bacteria generally have a single outer membrane
+    surrounded by a thick layer of peptidoglycan
+-   Gram-negative bacteria generally possess a thin layer of
+    peptidoglycan located between two outer membranes
+
+Most bacterial phyla are typically Gram-negative, however many of the
+more prevalent bacterial genera are Gram-positive
+
+-   Examples of Gram-negative bacteria include cyanobacteria, salmonella
+    and escherichia
+-   Examples of Gram-positive bacteria includeÂ bacillus, streptococcus
+    and clostridium
+-   Some bacteria do not respond predictably to Gram staining (e.g.
+    archaeans) and hence cannot be identified by staining
+
+Gram-Negative Versus Gram-Positive Cell Walls
+
+[gram cell walls]
+
+Staining Procedure
+
+Gram staining of bacterial colonies involves four key steps:
+
+-   Heat-fixed cells are stained with crystal violet stain, which
+    colours the cells purple
+-   Iodine solution is added, which forms a complex with the crystal
+    violet stain and traps it within the cell
+-   Cells are washed with ethanol solution, which decolorises
+    Gram-negative bacteria (but not Gram-positive)Â 
+-   Gram-negative cells are visualised by applying safranin â€“ which is
+    a pink-coloured counterstain
+
+Gram staining works as a result of the different effects of ethanol on
+the cell wall of the bacteria:
+
+-   Gram-positive bacteria have a thick peptidoglycan layer which is
+    dehydrated by ethanol, trapping the crystal violet stain
+-   Gram-negative bacteria have an outer lipid membrane which is
+    dissolved by ethanol, releasing the crystal violet stain
+
+Both cell types retain the counterstain, but the pink colour cannot be
+distinguished in the purple-stained Gram-positive cellsÂ 
+
+Gram Staining Technique
+
+[gram staining]

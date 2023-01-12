@@ -1,0 +1,53 @@
+Liver Structure
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Dual blood supply to the liver and differences between sinusoids
+and capillaries
+
+Â  Â Â 
+Hepatic Lobules
+
+The liver is composed of smaller histological structures called lobules,
+which are roughly hexagonal in shape
+
+-   Each lobule is surrounded by branches of the hepatic artery (provide
+    oxygen) and the portal vein (provide nutrients)
+-   These vessels drain into capillary-like structures called sinusoids,
+    which exchange materials directly with the hepatocytes
+-   The sinusoids drain into a central vein, which feeds deoxygenated
+    blood into the hepatic vein
+-   Hepatocytes also produce bile, which is transported by vessels
+    called canaliculi to bile ducts, which surround the lobule
+
+Structural Organisation of the Liver
+
+[liver lobule]
+
+Sinusoids
+
+Sinusoids are a type of small blood vessel found in the liver that
+perform a similar function to capillaries (material exchange)
+
+-   Sinusoids have increased permeability, allowing larger molecules
+    (e.g. plasma proteins) to enter and leave the bloodstreamÂ 
+
+The increased permeability of sinusoids is important for liver function
+and is due to a number of structural features:
+
+-   The surrounding diaphragm (basement membrane) is incomplete or
+    discontinuous in sinusoids (but not in capillaries)
+-   The endothelial layer contains large intercellular gaps and fewer
+    tight junctions (allowing for the passage of larger molecules)
+
+Structural Differences Between Sinusoids and Capillaries
+
+[sinusoids]

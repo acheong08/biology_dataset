@@ -1,0 +1,52 @@
+Theories of Evolution
+
+Evolutionary theories began emerging in the 1800â€™s as new geological
+and biological discoveries reformed existing knowledge
+
+-   Previously, the dominant paradigm had described theÂ â€˜fixityâ€™ of
+    species â€“ immutable and unchanging (man was always man)
+
+LamarckÂ 
+
+-   Jean-Baptiste Lamarck, a French scientist, proposed that species
+    changed as a result of the habitual use or disuse of a feature
+-   Excessive use would cause a feature to develop, while continued
+    disuse would cause it to atrophy (similar to muscle growth)
+-   Lamarck proposed that these modified features could be passed on to
+    successive generations, changing the species over time
+-   Lamarckâ€™s theory however was essentially flawed â€“ cutting the
+    tail off a rat does not produce tail-less offspring
+
+Lamarckâ€™s Theory of Evolution (Use and Disuse)
+
+[lamarck theory]
+
+Darwin
+
+-   Charles Darwinâ€™s theory of evolution was based on a combination of
+    Lamarckian ideas and recent fossil discoveries
+-   He theorised that species living today had been changed over time
+    and stemmed from a single (or few) ancestral organisms
+-   He noted that although populations have the capacity to grow
+    uncontrollably, limiting natural factors will restrict this growth
+-   Organisms which possess traits better suited to conditions would
+    have an adaptive advantage and be more likely to reproduce
+-   These traits would hence become more common within the population
+    and the species would gradually change over time
+-   Similar ideas were proposed at the same time by Alfred Wallace (he
+    corresponded with Darwin but published separately)
+
+Darwinâ€™s Theory of Evolution (Natural Selection)
+
+[darwin theory]
+
+Neo Darwinism
+
+-   Darwin knew very little about the mechanisms of variation (i.e.
+    mutations) or the biological basis for inheritance (i.e. meiosis)
+-   Neo-Darwinism is the synthesis of Darwinian theory and modern
+    genetics â€“ it combines:
+    -   The works of Gregor Mendel in describing how traits are
+        inherited (Mendelian inheritance)
+    -   The works of James Watson and Francis Crick in elucidating the
+        genetic basis of inheritance (DNA structure)

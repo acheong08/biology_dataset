@@ -1,0 +1,32 @@
+3.1 Â Genes
+
+[big ninja]
+
+Essential Idea:
+Every living organism inheritsÂ 
+a blueprint for life from its parents
+
+Â  Â  Â 
+Understandings:
+
+-   A gene is a heritable factor that consists of a length of DNA and
+    influences a specific characteristic
+-   A gene occupies a specific position on a chromosome
+-   The various specific forms of a gene are alleles
+-   Alleles differ from each other by one or only a few bases
+-   New alleles are formed by mutation
+-   The genome is the whole of the genetic information of an organism
+-   The entire base sequence of human genes was sequenced in the Human
+    Genome Project
+
+Applications:
+
+-   The causes of sickle cell anaemia, including a base substitution
+    mutation, a change to the base sequence of mRNA trancribed from it
+    and a change to the sequence of a polypeptide inÂ haemoglobin
+-   Comparison of the number of genes in humans with other species
+
+Skills:
+
+-   Use of a database to determine differences in the base sequence of a
+    gene in two species

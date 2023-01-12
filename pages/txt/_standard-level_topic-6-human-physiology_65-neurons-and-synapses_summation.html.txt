@@ -1,0 +1,28 @@
+Summation
+
+Presynaptic neurons release neurotransmitters into the synapse to
+trigger graded potentials in post-synapticÂ neurons
+
+-   Some generate excitatory post-synaptic potentials (EPSPs) and others
+    produce inhibitory post-synaptic potentials (IPSPs)
+-   EPSPs trigger depolarisation in the post-synaptic membrane, IPSPs
+    trigger hyperpolarisation in the post-synaptic membrane
+-   If the combination of signals reaches a threshold level, an action
+    potential will be triggered in the post-synapticÂ neuron
+
+The combination of graded potentials in the post-synaptic neuron is
+known as summation
+
+-   Cancellation occurs when excitatory and inhibitory graded potentials
+    cancel each other out (no threshold potential reached)
+-   Spatial summation occurs when EPSPs are generated from multiple
+    presynaptic neurons simultaneously to reach threshold
+-   Temporal summation occurs when multiple EPSPs are generated from a
+    single presynaptic neuron in quick succession
+
+These summative effects determine which nerve pathways are activated and
+hence lead to alternate decision-making processes
+
+Types of Summation
+
+[summation]

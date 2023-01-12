@@ -1,0 +1,93 @@
+Batch versus Continuous Culture
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Fermentation is carried out by batch or continuous culture
+
+Â  Â Â 
+Batch Culture
+
+-   Fermentation is carried out in a closed fermenter, with nothing
+    added or removed during the process (except venting of gas)
+-   Microorganisms and nutrients are left for a set period of time,
+    during which the nutrient stock is depleted
+-   The advantage of a batch culture is that the fermenter can be used
+    for different reactions with each separate use
+-   A disadvantage of a batch culture is that it results in significant
+    periods of idle time between use, resulting in higher costs
+
+Continuous Culture
+
+-   Fermentation is carried out in an open fermenter, with nutrients
+    added and product removed at a steady rate throughout
+-   This results in a continuous reaction with no idle time, reducing
+    labour costs and increasing product yields
+-   A disadvantage of continuous culture is that there is a higher risk
+    of contamination due to the constant adjustments
+-   Continuous fermentation is feasible only when the inoculated cells
+    are genetically stable
+
+Batch Culture Versus Continuous Culture
+
+[]                       Â Â  Display: Â Â Â Â Â Â Â  Diagrammatic
+RepresentationÂ Â Â Â Â Â Â Â Â Â Â  Substrate and Product
+Concentrations
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Deep-tank batch fermentation in the mass production of penicillin
+
+Â  Â Â 
+The antibiotic penicillin can be mass produced via the use of deep-tank
+batch fermentation
+
+-   Large industrial fermenters are constructed that have the capacity
+    to hold thousands of litres
+-   Penicillium mold is grown in the deep-tank batch fermenters
+    following the addition of sugars and other key ingredients
+-   The production process typically lasts 6 â€“ 8 days, with the
+    fermenter drained at the end of the fermentation cycle
+-   Penicillin is separated from the solution and purified via
+    downstream processing to improve its antibiotic potential
+
+Production of Penicillin via Batch Fermentation
+
+[penicillin production]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Production of citric acid in continuous fermenters by Aspergillus
+niger for use as a preservative or flavouring
+
+Â  Â Â 
+Citric acid (citrate) is widely used as a flavour enhancer, a
+preservative in manufactured foods and an antioxidant
+
+-   It is produced as an intermediate of the Krebs cycle under aerobic
+    conditions
+
+Citric acid is mass produced by continuous fermenter systems from
+cultures of the fungus Aspergillus niger
+
+-   Carbohydrates are continuously introduced into the fermenter in
+    order to maintain the citric acid production
+-   Iron (Fe²⁺ ions) is excluded from the mixture in order to slow the
+    further conversion of citric acid within the Krebs cycle
+-   As citric acid accumulates it is extracted as part of the medium
+    that is being continuously withdrawn from the fermenter
+
+Production of Citric Acid via Continuous Fermentation
+
+[citric acid production]

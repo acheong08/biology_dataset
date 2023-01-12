@@ -1,0 +1,41 @@
+Electrocardiography
+
+Heart function can be diagnostically assessed by measuring the
+electrical activity of the heart with each contraction
+
+-   Activity is measured using a machine called an electrocardiograph to
+    generate data called an electrocardiogram
+    -   Hint: Â In a similar fashion, you use aÂ telegraph (machine) to
+        send a telegram (data)
+
+Each normal heart beat should follow the same sequence of electrical
+events:
+
+-   The P wave represents depolarisation of the atria in response to
+    signalling from the sinoatrial node (i.e. atrial contraction)
+-   The QRS complex represents depolarisation of the ventricles (i.e.
+    ventricular contraction), triggered by signals from the AV node
+-   The T wave represents repolarisation of the ventricles (i.e.
+    ventricular relaxation) and the completion of a standard heart beat
+-   Between these periods of electrical activity are intervals allowing
+    for blood flow (PR interval and ST segment)
+
+Electrical Activity of the Heart
+
+[ECG]
+
+Examples of Heart Conditions
+
+Data generated via electrocardiography can be used to identify a variety
+of heart conditions, including:
+
+-   Tachycardia (elevated resting heart rate = >120Â bpm) and
+    bradycardia (depressed resting heart rate = < 40 bpm)
+-   Arrhythmias (irregular heart beats that are so common in young
+    people that it is not technically considered a disease)
+-   Fibrillations (unsynchronised contractions of either atria or
+    ventricles leading to dangerously spasmodic heart activity)
+
+Cardiac Rhythm Diagnoses
+
+[ECG data]

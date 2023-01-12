@@ -1,0 +1,25 @@
+Population Clocks
+
+Population clocks provide current projections of estimated populations
+based on previously recorded data
+
+-   This information is typically gathered from regional and national
+    census data and hence may not be highly accurate
+
+Population clocks may also use established data to assume rates of
+change (e.g. growth rate and death rate)
+
+-   This allows the clocks to show dynamic changes to population data
+    (although this information may not be very accurate)
+
+While of questionable accuracy and validity, population clocks can be
+used as a tool for identifying changing demographics
+
+-   The human population is currently growing at a rate unprecedented in
+    world history (what is the carrying capacity of man?)
+
+Link: Â World Population Clock
+
+Human Population Growth
+
+[human population growth]

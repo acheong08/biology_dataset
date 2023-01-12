@@ -1,0 +1,32 @@
+Translation Analogy
+
+A cell is like a restaurant â€“ differentiated cell types are like
+restaurants specialising in different cuisines
+
+The DNA is the set of instructions for the cell â€“ like a cook book is
+the set of instructions for a restaurant
+
+A single DNA instruction is a gene â€“ this is akin to a single recipe
+in a cook book
+
+Transcription is the process of making an RNA copy of a gene â€“ RNA
+polymerase is like a photocopy machine
+
+The mRNA transcript (i.e. photocopied recipe) is transported to the
+ribosome â€“ which functions as the cook
+
+The ribosome reads the mRNA one codon at a time â€“ as a cook would read
+the recipe one step at a time
+
+Each codon corresponds to an amino acid â€“ just like each step in a
+recipe refers to a specific ingredient
+
+The amino acids are brought to the ribosome by tRNA â€“ these tRNA
+molecules are like kitchen hands
+
+The ribosome joins the amino acids together to make a polypeptide â€“
+just like a cook mixes ingredients to make food
+
+Overview of the Translation Analogy
+
+[translation analogy]

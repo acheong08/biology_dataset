@@ -1,0 +1,107 @@
+Chemical Digestion
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Enzymes digest most macromolecules in food into monomers in the
+small intestine
+
+Â  Â Â 
+Food can be digested by a combination of two methods â€“ mechanical
+digestion and chemical digestion
+
+-   InÂ chemicalÂ digestion, food is broken down by the action of
+    chemical agents (such as enzymes, acids and bile)
+
+Stomach Acids
+
+-   The stomach contains gastric glands which release digestive acids to
+    create a low pH environment (pH ~2)
+-   The acidic environment functions to denature proteins and other
+    macromolecules, aiding in their overall digestion
+-   The stomach epithelium contains a mucous membrane which prevents the
+    acids from damaging the gastric lining
+-   The pancreas releases alkaline compounds (e.g. bicarbonate ions),
+    which neutralise the acids as they enter the intestineÂ 
+
+Bile
+
+-   The liver produces a fluid called bile which is stored and
+    concentrated within the gall bladder prior to release into the
+    intestine
+-   Bile contains bile salts which interact with fat globules and divide
+    them into smaller droplets (emulsification)
+-   The emulsification of fats increases the total surface area
+    available for enzyme activity (lipase)
+
+Enzymes
+
+-   Enzymes are biological catalysts which speed up the rate of a
+    chemical reaction (i.e. digestion) by lowering activation energy
+-   Enzymes allow digestive processes to therefore occur at body
+    temperatures and at sufficient speeds for survival requirements
+-   Enzymes are specific for a substrate and so can allow digestion of
+    certain molecules to occur independently in distinct locations
+
+Examples of Digestive Enzymes
+
+[digestive enzymes]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â The pancreas secretes enzymes into the lumen of the small
+intestine
+
+Â  Â Â 
+Digestive enzymes are secreted predominantly by the pancreas, although
+other organs also contribute (salivary gland, stomach)
+
+-   The type of enzyme secreted and location of secretion depends on the
+    specific macromolecule required for hydrolysis
+
+Carbohydrates
+
+-   Carbohydrate digestion begins in the mouth with the release of
+    amylase from the salivary glands (amylase = starch digestion)
+-   Amylase is also secreted by the pancreas in order to continue
+    carbohydrate digestion within the small intestine
+-   Enzymes for disaccharide hydrolysis are often immobilised on the
+    epithelial lining of the small intestine, near channel proteins
+-   Humans do not possess an enzyme capable of digesting cellulose
+    (cellulase) and hence it passes through the body undigested
+
+Proteins
+
+-   Protein digestion begins in the stomach with the release of
+    proteases that function optimally in an acidic pH (e.g. pepsin = pH
+    2)
+-   Smaller polypeptide chains enter the small intestine where they are
+    broken down by endopeptidases released by the pancreas
+-   These endopeptidases work optimally in neutral environments (pH ~ 7)
+    as the pancreas neutralises the acids in the intestine
+
+Lipids
+
+-   Lipid breakdown occurs in the intestines, beginning with
+    emulsification of fat globules by bile released from the gall
+    bladder
+-   The smaller fat droplets are then digested by lipases released from
+    the pancreas
+
+Nucleic Acids
+
+-   The pancreas also releases nucleases which digest nucleic acids
+    (DNA, RNA) into smaller nucleosides
+
+Locations of Enzymatic Digestion
+
+[pancreatic enzymes]

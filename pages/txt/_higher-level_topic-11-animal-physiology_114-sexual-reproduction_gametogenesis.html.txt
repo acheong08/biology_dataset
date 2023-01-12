@@ -1,0 +1,138 @@
+Gametogenesis
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Spermatogenesis and oogenesis both involve mitosis, cell growth,
+two divisions of meiosis and differentiation
+
+Â  Â Â 
+GametogenesisÂ is the process by which diploid precursor cells undergo
+meiotic division to become haploid gametes (sex cells)
+
+-   In males, this process is called spermatogenesis and produce
+    spermatozoa (sperm)
+-   In females, this process is called oogenesis and produce ova (eggs)
+
+The process of gametogenesis occurs in the gonads and involves the
+following steps:
+
+-   Multiple mitotic divisions and cell growth of precursor germ cells
+-   Two meiotic divisions (meiosis I and II) to produce haploid daughter
+    cells
+-   Differentiation of the haploid daughter cells to produce functional
+    gametes
+
+Spermatogenesis
+
+-   Spermatogenesis describes the producton of spermatozoa (sperm) in
+    the seminiferous tubules of the testes
+-   The process begins at puberty when the germline epithelium of the
+    seminiferous tubules divides by mitosis
+-   These cells (spermatogonia) then undergo a period of cell growth,
+    becoming spermatocytes
+-   The spermatocytes undergo two meiotic divisions to form four haploid
+    daughter cells (spermatids)
+-   The spermatids then undertake a process of differentiation in order
+    to become functional sperm cells (spermatozoa)
+
+[spermatogenesis]
+
+Oogenesis
+
+-   Oogenesis describes the production of female gametes (ova) within
+    the ovaries (and, to a lesser extent, the oviduct)
+-   The process begins during foetal development, when a large number of
+    primordial cells are formed by mitosis (~40,000)
+-   These cells (oogonia) undergo cell growth until they are large
+    enough to undergo meiosis (becoming primary oocytes)
+-   The primary oocytes begin meiosis but are arrested in prophase I
+    when granulosa cells surround them to form follicles
+-   The primary oocytes remain arrested in prophase I until puberty,
+    when a girl begins her menstrual cycle
+-   Each month, hormones (FSH) will trigger the continued division of
+    some of the primary oocytesÂ 
+-   These cells will complete the first meiotic division to form two
+    cells of unequal size
+-   One cell retains the entirety of the cytoplasm to form a secondary
+    oocyte, while the other cell forms a polar body
+-   The polar body remains trapped within the follicle until it
+    eventually degenerates
+-   The secondary oocyte begins the second meiotic division but is
+    arrested in metaphase II
+-   The secondary oocyte is released from the ovary (ovulation) and
+    enters into the oviduct (or fallopian tube)
+-   The follicular cells surrounding the oocyte form a coronaÂ radiata
+    and function to nourish the secondary oocyte
+-   If the oocyte is fertilised by a sperm, chemical changes will
+    trigger the completion of meiosis II and the formation of another
+    polar body (the first polar body may also undergo a second division
+    to form a third polar body)
+-   Once meiosis II is complete the mature egg forms a ovum, before
+    fusing its nucleus with the sperm nucleus to form a zygote
+
+[oogenesis]
+
+Formation of Polar Bodies
+
+This browser cannot play the embedded video file.
+
+[egg-meiosis]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Processes in spermatogenesis and oogenesis result in different
+numbers of gametes with different amounts
+
+Â  Â of cytoplasm
+
+Â  Â Â 
+While the processes of spermatogenesis and oogenesis follow the same
+basic pathway, several key differences exist:
+
+1. Â Number of cells produced
+
+-   In spermatogenesis, the cells divide equally during meiosis to
+    produce four functional gametes
+-   In oogenesis, the cells do not divide equally and as a result only
+    one functional gamete is formed (plus 2 â€“ 3 polar bodies)
+
+2. Â Size of cells produced
+
+-   In spermatogenesis, the cells that are formed following
+    differentiation are all of equal size with equal amounts of
+    cytoplasm
+-   In oogenesis, one daughter cell (the ovum) retains all of the
+    cytoplasm, while the other daughter cells form polar bodies
+-   The polar bodies remain trapped within the surrounding layer of
+    follicle cells until they eventually degenerate
+
+3. Â Timing of the process
+
+-   In spermatogenesis, the production of gametes is a continuous
+    process that begins at puberty and continues until death
+-   In oogenesis, the production of gametes is a staggered and finite
+    process:
+    -   It begins before birth (prenatally) with the formation of a
+        fixed number of primary oocytes (~40,000)
+    -   It continues with the onset of puberty according to a monthly
+        menstrual cycle
+    -   It ends when hormonal changes prevent the further continuance of
+        the menstrual cycle (menopause)
+
+Summary of the Differences between Spermatogenesis and Oogenesis
+
+[gametogenesis table]
+
+Gametogenesis Comparison
+
+[gametogenesis]

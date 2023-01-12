@@ -1,0 +1,46 @@
+Protein Destinations
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Free ribosomes synthesise proteins for use primarily within the
+cell
+
+â€¢ Â Bound ribosomes synthesise proteins primarily for secretion or for
+use in lysosomesÂ 
+
+Â  Â Â 
+All proteins produced by eukaryotic cells are initially synthesised by
+ribosomes found freely circulating within the cytosol
+
+-   If the protein is targeted for intracellular use within the cytosol,
+    the ribosome remains free and unattached
+-   If the protein is targeted for secretion, membrane fixation or use
+    in lysosomes, the ribosome becomes bound to the ER
+
+Protein destination is determined by the presence or absence of an
+initial signal sequence on a nascent polypeptide chain
+
+-   The presence of this signal sequence results in the recruitment of a
+    signal recognition particle (SRP), which halts translation
+-   The SRP-ribosome complex then docks at a receptor located on the ER
+    membrane (formingÂ rough ER)
+-   Translation is re-initiated and the polypeptide chain continues to
+    grow via a transport channel into the lumen of the ER
+    -   The synthesised protein will then be transported via a vesicle
+        to the Golgi complex (for secretion) or the lysosome
+    -   Proteins targeted for membrane fixation (e.g. integral proteins)
+        get embedded into the ER membrane
+-   The signal sequence is cleaved and the SRP recycled once the
+    polypeptide is completely synthesised within the ER
+
+The Role of the Signal Recognition Particle in Protein Destination
+
+[SRP]

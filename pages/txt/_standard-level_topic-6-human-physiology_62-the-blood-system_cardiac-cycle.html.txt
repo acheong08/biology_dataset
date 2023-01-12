@@ -1,0 +1,55 @@
+Cardiac Cycle
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Pressure changes in the left atrium, left ventricle and aorta
+during the cardiac cycle
+
+Â  Â Â 
+The cardiac cycle describes the series of events that take place in the
+heart over the duration of a single heart beat
+
+-   It is comprised of a period of contraction (systole) and relaxation
+    (diastole)
+
+Systole
+
+-   Blood returning to the heart will flow into the atria and ventricles
+    as the pressure in them is lower (due to low volume of blood)
+-   When ventricles are ~70% full, atria will contract (atrial systole),
+    increasing pressure in the atria and forcing blood into ventricles
+-   As ventricles contract, ventricular pressure exceeds atrial pressure
+    and AV valves close to preventÂ back flow (first heart sound)
+-   With both sets of heart valves closed, pressure rapidly builds in
+    the contracting ventricles (isovolumetric contraction)
+-   When ventricular pressure exceeds blood pressure in the aorta, the
+    aortic valve opens and blood is released into the aorta
+
+Diastole
+
+-   As blood exits the ventricle and travels down the aorta, ventricular
+    pressure fallsÂ 
+-   When ventricular pressure drops below aortic pressure, the aortic
+    valve closes to preventÂ back flow (second heart sound)
+-   When the ventricular pressure drops below the atrial pressure, the
+    AV valve opens and blood can flow from atria to ventricle
+-   Throughout the cycle, aortic pressure remains quite high as muscle
+    and elastic fibres in the artery wall maintain blood pressure
+
+Overview of Cardiac Cycle Events
+
+[cardiac cycle table]
+
+Pressure Changes in Left Side of Heart During the Cardiac Cycle
+
+[cardiac cycle]
+
+Link: Â Interactive Cardiac Cycle Tutorial

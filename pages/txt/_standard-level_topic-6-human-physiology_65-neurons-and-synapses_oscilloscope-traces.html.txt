@@ -1,0 +1,40 @@
+Oscilloscope Traces
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of oscilloscope traces showing resting potentials and
+action potentials
+
+Â  Â Â 
+Oscilloscopes are scientific instruments that are used to measure the
+membrane potential across a neuronal membrane
+
+-   Data is displayed as a graph, with timeÂ (in milliseconds) on the X
+    axis and membrane potential (in millivolts) on the Y axis
+
+A typical action potential will last for roughly 3 â€“ 5 milliseconds
+and contain 4 key stages:
+
+-   Resting potential: Â Before the action potential occurs, the neuron
+    should be in a state of rest (approx. â€“70 mV)
+-   Depolarisation: Â A rising spike corresponds to the depolarisation
+    of the membrane via sodium influx (up to roughly +30 mV)
+-   Repolarisation: Â A falling spike corresponds to repolarisation via
+    potassium efflux (undershoots to approx. â€“80 mV)
+-   Refractory period: Â The oscilloscope trace returns to the level of
+    the resting potential (due to the action of the Na⁺/K⁺ pump)
+
+An action potential will only occur if the initial depolarisation
+exceeds a threshold potential of approximately â€“55 mV
+
+Oscilloscope Trace of an Action Potential
+
+This browser cannot play the embedded video file.

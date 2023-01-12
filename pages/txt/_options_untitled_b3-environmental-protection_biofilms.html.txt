@@ -1,0 +1,136 @@
+Biofilms
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Cooperative aggregates of microorganisms can form biofilms
+
+â€¢ Â Microorganisms in biofilms cooperate through quorum sensing
+
+Â  Â Â 
+Biofilm Formation
+
+A biofilm is a cooperativeÂ aggregate of microorganisms associated with
+a surface and enclosed in a polymeric matrix (â€˜slimeâ€™)
+
+-   Biofilms can form on solid and liquid surfaces and may be composed
+    of a single species or many species of microorganism
+
+Biofilm formation begins with the attachment of microorganisms to a
+surface through weak, reversibleÂ associations
+
+-   If not removed, the microorganisms form more permanent, irreversible
+    attachments using adhesion structures (such as pili)
+-   The cells forming a monolayer will grow and divide, before producing
+    an exopolymer matrix to enclose the developing colony
+
+Biofilm Development
+
+[biofilm formation]
+
+Quorum Sensing
+
+As the biofilm develops, microorganisms will alter their gene expression
+in response to changes in population density
+
+-   This pattern of behaviour is called quorum sensing and is mediated
+    by the release of chemicals from colony cells
+-   Individual cells release inducer chemicals that will trigger
+    specific transcriptional changes when a threshold is surpassed
+-   As cells begin to aggregate, the concentration of inducer chemicals
+    increases to exceed the required threshold
+-   This triggers a synchronised change in gene expression, allowing the
+    biofilm to operate as a coordinated system
+
+Quorum sensing allows the biofilm to grow and develop in a manner that
+is not uniform and promotes structural stability
+
+-   Channels will form in order to facilitate the spread and
+    incorporation of nutrients throughout the biofilm
+-   Metabolic activity can create changes in the microenvironment,
+    prompting the differential distribution of microorganisms
+    -   For example, the establishment of an oxygen gradient will
+        differentially localise aerobic and anaerobic metabolisers
+
+Example of Quorum Sensing â€“ Bioluminescence (VibrioÂ fischeri)
+
+[quorum sensing]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Biofilms possess emergent properties
+
+â€¢ Â Microorganisms growing in a biofilm are highly resistant to
+antimicrobial agents
+
+Â  Â Â 
+Emergent Properties
+
+Through quorum sensing, microorganisms in a biofilm possess functions
+beyond those that are present in an individual cell
+
+-   The cooperative action of cells in the biofilm combine to create new
+    synergistic effects (emergent properties)
+
+One emergent property commonly identified in biofilms is an increased
+resistance to antimicrobial agents
+
+-   Within a biofilm, some microorganisms develop into non-dividing,
+    slow-growing persister cells
+-   These cells exist within a physiologically dormant state, which
+    makes them insensitive to the action of antimicrobial drugs
+-   Consequently, these cells survive antimicrobial treatments and
+    function as a reserve from which the biofilm can repopulate
+-   This renders antimicrobial drugs ineffective in the treatment of
+    biofilms and associated diseasesÂ 
+
+Electron Micrograph Images of Biofilms
+
+[biofilm EM]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Evaluation of data or media reports on environmental problems
+caused by biofilms
+
+Â  Â Â 
+Environmental Problems
+
+Biofilms are ubiquitous in nature and will form on virtually any
+non-shedding surface in a moist environment
+
+-   Biofilms in streams form an important component of aquatic food
+    chains and also filter sediments to maintain water quality
+-   Microbial biofilms are actively involved in the decomposition of
+    biotic debris and the recycling of nutrients
+-   Biofilms may form on plant surfaces to form symbiotic relationships
+    with the plant (e.g. nitrogen-fixing Rhizobium on roots)
+-   Alternatively, biofilms may form on plant surfaces to cause crop
+    diseases (e.g. citrus canker is associated with biofilms)
+-   Biofilms are present on the surface of animals (e.g. dental plaque
+    on teeth) and may cause diseases when present internally
+-   Biofilms can form on man-made structures such as faucets and sewage
+    pipes, resulting in long-term corrosion
+-   Biofilm adhesion to ship hulls serves as the foundation for
+    biofouling on marine vessels
+-   Biofilms can also serve constructive purposes, including in food
+    preparation, bioremediation and sewage treatment
+
+Researchers Tackle Dangerous â€“ But Poorly Understood â€“ Biofilms
+
+This browser cannot play the embedded video file.
+
+[researchers-tackle-dangerou]
+
+Â Source: Â National Science Foundation

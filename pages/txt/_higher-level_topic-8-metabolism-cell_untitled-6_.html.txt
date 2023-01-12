@@ -1,0 +1,30 @@
+8.1 Â Metabolism
+
+[big ninja]
+
+Essential Idea:
+Metabolic reactions are regulatedÂ 
+in response to the cellâ€™s needs
+
+Â  Â  Â 
+Understandings:
+
+-   Metabolic pathways consist of chains and cycles of enzyme-catalysed
+    reactions
+-   Enzymes lower the activation energy of the chemical reactions that
+    they catalyse
+-   Enzyme inhibitors can be competitive or non-competitive
+-   Metabolic pathways can be controlled by end-product inhibition
+
+Applications:
+
+-   End-product inhibition of the pathway that converts threonine to
+    isoleucine
+-   Use of databases to identify potential new anti-malarial drugs
+
+Skills:
+
+-   Calculating and plotting rates of reaction from raw experimental
+    results
+-   Distinguishing different types of inhibition from graphs at
+    specified substrate concentration

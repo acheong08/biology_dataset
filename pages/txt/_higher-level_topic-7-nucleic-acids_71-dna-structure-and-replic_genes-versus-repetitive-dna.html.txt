@@ -1,0 +1,31 @@
+Genes versus Repetitive DNA
+
+Current estimates suggest that the human genome is comprised of < 20,000
+genes (roughly 1.5% of the total sequence)
+
+The vast majority of the genome consists of non-coding DNA sequences,
+much of which is repetitive
+
+These highly repetitive DNA sequences differ from unique, single copy
+gene sequences in a number of key respects:
+
+-   Proportion: Highly repetitive DNA makes up a much greater proportion
+    of the genome than gene sequences
+-   Rate of mutation: Gene sequences have a lower mutation rate (as any
+    errors may affect protein synthesis)
+-   Occurrence: Gene sequences are typically unique and occur once in
+    the genome, whereas repetitive DNA is recurring
+-   Function: Gene sequences are translated and code for proteins,
+    highly repetitive DNA sequences are typically non-coding
+-   Identification: Repetitive DNA sequences are commonly used for DNA
+    profiling, gene sequences are not (too similar)
+-   Length: A gene is made of a long unique sequence, while repetitive
+    DNA sequences are typically composed of short repeats
+-   Example: An example of a gene sequence is an exon, while an intron
+    may be an example of non-coding, repetitive DNA
+
+Mnemonic: Â PROFILE
+
+Genes versus Repetitive DNA
+
+[gene vs repeat]

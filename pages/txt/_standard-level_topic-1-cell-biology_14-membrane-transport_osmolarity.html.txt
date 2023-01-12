@@ -1,0 +1,81 @@
+Osmolarity
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Estimation of osmolarity in tissues by bathing samples in
+hypotonic and hypertonic solutions
+
+Â  Â Â 
+Osmolarity is a measure of solute concentration, as defined by the
+number ofÂ osmoles of a solute per litre of solution (osmol/L)
+
+Solutions may be loosely categorised as hypertonic, hypotonic or
+isotonic according to their relative osmolarity
+
+-   Solutions with a relatively higher osmolarity are categorised as
+    hypertonic (high solute concentrationÂ â‡’ gains water)
+-   Solutions with a relatively lower osmolarity are categorised as
+    hypotonic (low solute concentrationÂ â‡’Â loses water)
+-   Solutions that have the same osmolarity are categorised as isotonic
+    (same solute concentrationÂ â‡’Â no net water flow)
+
+Osmotic Movement between Solutions: Â Hypertonic (left) and Hypotonic
+(right)
+
+This browser cannot play the embedded video file.
+
+Estimating Osmolarity
+
+The osmolarity of a tissue may be interpolated by bathing the sample in
+solutions with known osmolarities
+
+-   The tissue will lose water when placed in hypertonic solutions and
+    gain water when placed in hypotonic solutions
+-   Water loss or gain may be determined by weighing the sample before
+    and after bathing in solution
+-   Tissue osmolarity may be inferred by identifying the concentration
+    of solution at which there is no weight change (i.e. isotonic)
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Tissues or organs to be used in medical procedures must be bathed
+in a solution with the same osmolarityÂ 
+
+Â  Â as the cytoplasm to prevent osmosis
+
+Â  Â Â 
+Tissues or organs to be used in medical procedures must be kept in
+solution to prevent cellular dessication
+
+This solution must share the same osmolarity as the tissue / organ (i.e.
+isotonic) in order to prevent osmosis from occurring
+
+Uncontrolled osmosis will have negative effects with regards to cell
+viability:
+
+-   In hypertonic solutions, water will leave the cell causing it to
+    shrivel (crenation)
+-   In hypotonic solutions, water will enter the cell causing it to
+    swell and potentially burst (lysis)
+
+In plant tissues, the effects of uncontrolled osmosis are moderated by
+the presence of an inflexible cell wall
+
+-   In hypertonic solutions, the cytoplasm will shrink (plasmolysis) but
+    the cell wall will maintain a structured shape
+-   In hypotonic solutions, the cytoplasm will expand but be unable to
+    rupture within the constraints of the cell wall (turgor)
+
+Summary of the Effects of Solute Concentrations on Cells
+
+[tonicity]

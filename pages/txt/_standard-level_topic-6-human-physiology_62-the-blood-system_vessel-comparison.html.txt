@@ -1,0 +1,48 @@
+Vessel Comparison
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Identification of blood vessels as arteries, capillaries or veins
+from the structure of their walls
+
+Â  Â Â 
+The difference in the structural characteristics of arteries,
+capillaries and veins is attributable to their respective functions
+
+-   Arteries have thick walls and narrow lumens because they transport
+    blood at high pressure
+-   Capillaries have walls that are only a single cell thick because
+    they exchange materials between blood and tissue
+-   Veins have thin walls with wide lumens and valves because they
+    transport blood at low pressure
+
+Comparison of Blood Vessel Structure
+
+[vessel comparison]
+
+Identification of Blood Vessels
+
+Blood vessels can be identified from histological slides or images
+according to the thickness of their walls:
+
+-   Arteries have thick walls composed of three distinct layers (tunica)
+-   Veins have thin walls but typically have wider lumen (lumen size may
+    vary depending on specific artery or vein)
+-   Capillaries are very small and will not be easily detected under the
+    same magnification as arteries and veins
+
+[blood vessels]
+
+Identify the Blood Vessel
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to show / hide labels

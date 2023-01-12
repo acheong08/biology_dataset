@@ -1,0 +1,42 @@
+Dietary Intake
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Use of databases of nutritional content of foods to calculate
+intakes of essential nutrients from a daily diet
+
+Â  Â Â 
+The recommended daily intake for a nutrient (RDI) is the daily dietary
+level required to meet the requirements of health
+
+-   It is an estimate only and will vary according to age, gender,
+    activity levels and medical conditions
+
+The recommendations are based on a daily energy intake of 8400 kJ (2000
+kcal) for healthy adults
+
+-   On food packages, this information is usually presented as a
+    percentage of a daily total (based on identified serving size)
+
+Recommended Daily Intake (RDI)
+
+[dietary intake]
+
+Dietary intake can be recorded and compared against levels of energy
+expenditure in order to monitor weight change
+
+-   There are a variety of online databases and software programs that
+    can be used to calculate dietary intake and expenditure
+
+A free online database and nutritional calculator can be accessed by
+clicking on the link below:
+
+[supertracker]

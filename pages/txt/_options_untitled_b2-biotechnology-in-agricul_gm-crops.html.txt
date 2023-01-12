@@ -1,0 +1,95 @@
+GM Crops
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of Ti plasmid of Agrobacterium tumefaciens to introduce
+glyphosate resistance into soybean crops
+
+Â  Â Â 
+Agrobacterium tumefaciens is a pathogenic bacteria that induces tumors
+(called crown galls) in certain species of plant
+
+-   The bacterium inserts aÂ tumor-inducing (Ti) plasmid into plant
+    cells, which then integrates its DNA into the plant genome
+
+Scientists have used Agrobacterium tumefaciens as a vector to introduce
+glyphosate resistance into soybean crops
+
+-   Glyphosate is a herbicide that competitively inhibits a plant enzyme
+    (EPSPS) responsible for the synthesis of amino acids
+-   Scientists have modified the Ti plasmid to include a gene coding for
+    glyphosate resistance
+-   When soybean crops are infected with transgenic Agrobacterium
+    tumefaciens, a glyphosate-resistant crown gall develops
+-   When the gall tissue is later cultured into independent plants, all
+    cultured plants will carry the gene for glyphosate resistance
+-   This means farmers can spray glyphosate on crops to kill competing
+    weeds without harming the transgenic soybean plants
+
+Development of Glyphosate-Resistant Soybean Crops
+
+[glyphosate resistance]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Genetic modification of tobacco mosaic virus to allow bulk
+production of hepatitis B vaccine in tobacco plants
+
+Â  Â Â 
+Hepatitis B is a liver disease in humans caused by a virus (HBV)â€“
+however infection can be prevented by vaccination
+
+-   Vaccination involves introducing antigenic fragments to the immune
+    system in order to develop specific memory cells
+
+The tobacco mosaic virus infects the tissue of tobacco plants and
+incorporates its viral genetic material into the plant genome
+
+-   The tobacco mosaic virus can be genetically engineered to include
+    genes encoding the antigenic fragments of HBV
+-   Transgenic tobacco plants will produce the HBV antigens, which can
+    be extracted and purified to produce a vaccine in bulk
+
+Bulk Production of Hepatitis B Vaccine in Tobacco Plants
+
+[hepatitis B vaccine]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Production of Amflora potato (SolanumÂ tuberosum) for paper and
+adhesive industries
+
+Â  Â Â 
+Potatoes contain two forms of starch â€“ a branched form (amylopectin =
+80%) and an unbranched form (amylose = 20%)
+
+-   Amylopectin is responsible for the useful industrial properties of
+    starch (adhesives, textiles, paper, etc.)
+-   Amylose forms a gel which makes potato starch less stable and more
+    difficult to use for industrial purposes
+
+Amflora potatoes have been genetically modified to only produce
+amylopectin by inhibiting the amylose-producing enzyme
+
+-   Amflora potatoes possess an antisense copy of the gene responsible
+    for amylose production
+-   This antisense gene synthesises a complementary mRNA sequence that
+    binds to the normal mRNA sequence
+-   Consequently, the gene responsible for amylose production is not
+    translated and the potato only produces amylopectin
+
+Starch Production in Normal Potatoes versus Amflora Potatoes
+
+[amflora potatoes]

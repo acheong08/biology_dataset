@@ -1,0 +1,78 @@
+Innate Behaviour
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Innate behaviour is inherited from parents and so develops
+independently of the environment
+
+Â  Â Â 
+A behaviour is typically defined as any observable action by a living
+organisms
+
+-   Behaviours can be categorised as either innate or learned
+
+An innate behaviour is an instinctive response that is developmentally
+fixed â€“ it is independent of environmental context
+
+-   Innate behaviours have a genetic basis and are hence inherited from
+    parents
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Analysis of data from invertebrate behaviour experiments in terms
+of the effect on chances of survival andÂ 
+
+Â  Â Â reproduction
+
+Â  Â Â 
+Any instinctive response that improves survival and reproductive
+prospects will become more common by natural selection
+
+-   Examples of innate behavioural responses seen in invertebrates
+    include taxis and kinesis
+
+Taxis
+
+Taxis is a change in movement in response to an environmental stimulus
+â€“ either towards (positive) or away (negative)
+
+Euglena is a photosynthetic microorganism that requires light as an
+energy source and hence displays positive phototaxis
+
+-   Step 1: Â Place Euglena in a petri dish with appropriate
+    environmental conditions for survival
+-   Step 2: Â Cover the dish with aluminium foil, excluding a few small
+    exposed sections
+-   Observation: Â With a light source placed above the dish, the
+    Euglena should migrate towards the exposed sections
+
+[taxis experiment]
+
+Kinesis
+
+Kinesis is a change in the rate of activity in response to an
+environmental stimulus
+
+Woodlice have gills for respiration and tend to prefer moist conditions
+(their gills may dry out in dry conditions)
+
+-   Step 1: Â Place a woodlouse in a dry petri dish and mark its
+    movements every 30 seconds
+-   Step 2: Â Repeat this process for a second woodlouse placed in moist
+    conditions (i.e. petri dish lined with wet paper towel)
+-   Observation: Â The woodlouse in dry conditions should have a higher
+    rate of movement (improve chances of finding moisture)
+
+[kinesis experiment]
+
+Â Â 

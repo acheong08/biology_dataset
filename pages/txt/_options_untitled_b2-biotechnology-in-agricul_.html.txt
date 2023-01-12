@@ -1,0 +1,44 @@
+B2 Â Biotechnology in Agriculture
+
+[big ninja]
+
+Essential Idea:
+Crops can be modified to increase yields
+and to obtain novel products
+
+Â  Â  Â 
+Understandings:
+
+-   Transgenic organisms produce proteins that were not previously part
+    of their speciesâ€™ proteome
+-   Genetic modification can be used to overcome environmental
+    resistance to increase crop yields
+-   Genetically modified crop plants can be used to produce novel
+    products
+-   Bioninformatics plays a role in identifying target genes
+-   The target gene is linked to other sequences that control its
+    expression
+-   An open reading frame is a significant length of DNA from a start
+    codon to a stop codon
+-   Marker genes are used to indicate successful uptake
+-   Recombinant DNA must be inserted into the plant cell and taken up by
+    its chromosome or chloroplast DNA
+-   Recombinant DNA can be introduced into whole plants, leaf discs or
+    protoplasts
+-   Recombinant DNA can be introduced by direct physical and chemical
+    methods or indirectly by vectors
+
+Applications:
+
+-   Use of tumour-inducing (Ti) plasmid of Agrobacterium tumefaciens to
+    introduce glyphosate resistance into soybean crops
+-   Genetic modification of tobacco mosaic virus to allow bulk
+    production of Hepatitis B vaccine in tobacco plants
+-   Production of Amflora potato (SolanumÂ tuberosum) for paper and
+    adhesive industries
+
+Skills:
+
+-   Evaluation of data on the environmental impact of
+    glyphosate-tolerant soybeans
+-   Identification of an open reading frame (ORF)

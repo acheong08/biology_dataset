@@ -1,0 +1,77 @@
+Biogeographic Factors
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Biogeographic factors affect species diversity
+
+Â  Â Â 
+Biodiversity within a given ecosystem will be affected by a number of
+biogeographic factors:
+
+-   Larger habitats tend to promote biodiversity better than smaller
+    habitats (more available niches = less competition)
+-   Ecology at the edges of ecosystems is different from central areas
+    (e.g. more sunlight, more wind, etc.)
+-   This is known as the edge effect, whereby species distribution is
+    influenced by the divergent environmental conditions
+-   Edges tend to have greater biodiversity, as different habitats with
+    different abiotic factors exist in close physical proximity
+-   However edges tend to have more competition than central regions,
+    which may restrict survival prospects of certain species
+-   Habitat corridors between parts of a fragmented habitat can connect
+    disparate regions to improve genetic diversity
+
+These principles are routinely applied when setting aside land as a
+nature reserve to improve the conservation of biodiversity
+
+General Biogeographic Principles of Nature Reserves
+
+[biogeographic factors]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Analysis of the impact of biogeographic factors on diversity
+limited to island size and edge effect
+
+Â  Â Â 
+Island Size
+
+The biodiversity of an island is typically proportionate to island size
+(i.e. larger islands have greater biodiversity)
+
+-   Larger islands support a greater range of habitats (and hence more
+    available niches for species to occupy)
+-   Larger islands can sustain higher population numbers for each
+    species (increases species evenness)
+-   Larger islands have greater productivity at each trophic level,
+    leading to longer and more stable food chains
+
+Relationship between Island Size and Biodiversity
+
+[island size]
+
+Edge Effect
+
+The diversity of species within a given environment changes with
+proximity to the ecosystemâ€™s boundaries (edge effect)
+
+-   Biodiversity may be greater at the border between two ecosystems as
+    different abiotic factors favour certain species
+-   However certain species may not be able to thrive under these
+    conditions and instead must occupy more central regions
+-   The effect of edges on biodiversity will be greatly influenced by
+    the particular conditions caused by the ecological disturbance
+
+Relationship between Edge Effect and Biodiversity (South Brazil)
+
+[edge effect]

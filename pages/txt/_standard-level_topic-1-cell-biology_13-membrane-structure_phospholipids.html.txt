@@ -1,0 +1,18 @@
+Phospholipids
+
+Phospholipids are one of the principle components of cell membranes (in
+conjunction with membrane proteins)
+
+They are amphipathic molecules, meaning they have clearly discernible
+hydrophilic and hydrophobic regions
+
+Phospholipids typically share a common basic structure that includes:
+
+-   A polar organic molecule (e.g. choline, serine)
+-   A phosphate group
+-   A glycerol molecule (replaced by sphingosine in sphingomyelin)
+-   Two fatty acid tails (may be saturated or unsaturated)
+
+Chemical Structure of a Phospholipid
+
+[phospholipid]

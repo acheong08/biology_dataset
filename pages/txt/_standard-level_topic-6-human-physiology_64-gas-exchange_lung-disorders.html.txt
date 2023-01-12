@@ -1,0 +1,84 @@
+Lung Disorders
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Causes and consequences of lung cancer
+
+Â  Â Â 
+Lung cancer describes the uncontrolled proliferation of lung cells,
+leading to the abnormal growth of lung tissue (tumour)
+
+-   The abnormal growth can impact on normal tissue function, leading to
+    a variety of symptoms according to size and location
+-   The tumours can remain in place (benign) or spread to other regions
+    of the body (malignant)
+
+Lung cancers are the most common cause of cancer-related death worldwide
+for two main reasons:
+
+-   The lungs are vital to normal body function and thus the abrogation
+    of their normal function is particularly detrimental to health
+-   The lungs possess a very rich blood supply, increasing the
+    likelihood of the cancer spreading (metastasis) to other body
+    regions
+
+The common symptoms of lung cancers include coughing up blood, wheezing,
+respiratory distress and weight loss
+
+-   If the cancer mass compresses adjacent organs it can cause chest
+    pain, difficulty swallowing and heart complications
+
+There are many causes for lung cancer, including smoking, asbestos, air
+pollution, certain infections and genetic predispositions
+
+Common Risk Factors for Lung Cancer
+
+[lung cancer causes]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Causes and consequences of emphysema
+
+Â  Â Â 
+Emphysema is a lung condition whereby the walls of the alveoli lose
+their elasticity due to damage to the alveolar walls
+
+-   The loss of elasticity results in the abnormal enlargement of the
+    alveoli, leading to a lower total surface area for gas exchange
+-   The degradation of the alveolar walls can cause holes to develop and
+    alveoli to merge into huge air spaces (pulmonaryÂ bullae)
+
+The major cause of emphysema is smoking, as the chemical irritants in
+cigarette smoke damage the alveolar walls
+
+-   The damage to lung tissue leads to the recruitment of phagocytes to
+    the region, which produce an enzyme called elastase
+-   This elastase, released as part of an inflammatory response, breaks
+    down the elastic fibres in the alveolar wall
+-   Elastase activity can be blocked by an enzyme inhibitor
+    (Î±-1-antitrypsin), but not when elastase concentrations are
+    increasedÂ 
+-   A small proportion of emphysema cases are due to a hereditary
+    deficiency in this enzyme inhibitor due to a gene mutation
+
+Common symptoms of emphysema include shortness of breath, phlegm
+production, expansion of the ribcage, cyanosis and an increased
+susceptibility to chest infections
+
+Consequences of Emphysema
+
+[emphysema]
+
+Visualisation of Lung Disorders Using CT Scanning
+
+[lung disorders]

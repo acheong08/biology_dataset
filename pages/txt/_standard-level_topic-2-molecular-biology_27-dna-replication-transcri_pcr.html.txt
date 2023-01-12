@@ -1,0 +1,49 @@
+PCR
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of Taq DNA polymerase to produce multiple copies of DNA
+rapidly by the polymerase chain reaction (PCR)
+
+Â  Â Â 
+The polymerase chain reaction (PCR) is an artificial method of
+replicating DNA under laboratory conditions
+
+-   The PCR technique is used to amplify large quantities of a specific
+    sequence of DNA from an initial minute sample
+-   Each reaction doubles the amount of DNA â€“ a standard PCR sequence
+    of 30 cycles creates over 1 billion copies (2³⁰)
+
+The reaction occurs in a thermal cycler and uses variations in
+temperature to control the replication process via three steps:
+
+1.  Denaturation â€“ DNA sample is heated (~90ÂºC) to separate the two
+    strands
+2.  Annealing â€“ Sample is cooled (~55ÂºC) to allow primers to anneal
+    (primers designate sequence to be copied)
+3.  Elongation â€“ Sample is heated to the optimal temperature for a
+    heat-tolerant polymerase (Taq) to function (~75ÂºC)
+
+Taq polymerase is an enzyme isolated from the thermophilic bacterium
+ThermusÂ aquaticus
+
+-   As this enzymeâ€™s optimal temperature is ~75ÂºC, it is able to
+    function at the high temperatures used in PCR without denaturing
+-   Taq polymerase extends the nucleotide chain from the primers â€“
+    therefore primers are used to select the sequence to be copied
+
+Summary of a Single PCR Cycle
+
+[PCR cycle]
+
+Overview of a PCR Sequence â€“ First 4 Cycles
+
+[PCR sequence]

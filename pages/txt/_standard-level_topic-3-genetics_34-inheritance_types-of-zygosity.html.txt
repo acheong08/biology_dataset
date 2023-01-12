@@ -1,0 +1,39 @@
+Types of Zygosity
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Fusion of gametes results in diploid zygotes with two alleles of
+each gene that may be the same alleleÂ 
+
+Â  Â or different alleles
+
+Â  Â Â 
+Gametes are haploid, meaning they only possess one allele for each gene
+
+When male and female gametes fuse during fertilisation, the resulting
+zygote will containÂ two alleles for each gene
+
+-   Exception: Males have only one allele for each gene located on a sex
+    chromosome, as these chromosomes arenâ€™t paired (XY)Â 
+
+For any given gene, the combination of alleles can be categorised as
+follows:
+
+-   If the maternal and paternal alleles are the same, the offspring is
+    said to be homozygous for that gene
+-   If the maternal and paternal alleles are different, the offspring is
+    said to be heterozygous for that gene
+-   Males only have one allele for each gene located on a sex chromosome
+    and are said to be hemizygous for that gene
+
+Types of Zygosity
+
+[types of zygosity]

@@ -1,0 +1,97 @@
+Disease Markers
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Infections by a pathogen can be detected by the presence of its
+genetic material or by its antigens
+
+Â  Â Â 
+Surface Markers
+
+Pathogenic infections by microorganisms can be detected by the presence
+of specific markers on the cellâ€™s surface
+
+-   These foreign markers which are capable of eliciting an immune
+    response are called antigens
+-   The part of the antigen to whichÂ specificÂ antibodies will bind is
+    called an epitope (or antigenic determinant)
+
+Specific infections can be identified by determining which antigens are
+present to form a complex with specific antibodies
+
+-   Infectious pathogens may possess multiple different antigens, with
+    each antigen potentially possessing multiple epitopes
+-   The presence of particular antigens can be detected by undertaking
+    an enzyme-linked immunosorbent assay (ELISA)
+
+Surface Markers â€“ Antigens versus Epitopes
+
+[surface markers]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Predisposition to a genetic disease can be detected through the
+presence of markers
+
+Â  Â Â 
+Genetic Markers
+
+Certain genes may predispose individuals to particular disease
+conditions (e.g. BRCA genes predispose to breast cancer)
+
+-   Screening an individualâ€™s genome for certain genetic sequences
+    allows for the identification of disease predispositions
+
+Genetic markers can be detected using gene probes â€“ nucleotide
+sequences that are complexed to fluorescent labels
+
+-   The gene probe is complementary to specific target sequences and
+    will hybridise and fluoresce if that sequence is present
+-   A large variety of genetic markers can be tested for using DNA
+    microarrays (also commonly known as DNA chips / biochips)
+
+In addition to testing for genetic diseases, gene probes can also be
+used to identify pathogenic genetic material
+
+-   Pathogens will have unique genetic sequences which, if detected by a
+    gene probe, will indicate infection has occurred
+-   Pathogenic genetic material can be amplified and identified using
+    modified PCR techniques
+
+Genetic Markers â€“ Gene Probes
+
+[gene probes]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Metabolites that indicate disease can be detected in blood and
+urine
+
+Â  Â Â 
+Metabolic Markers
+
+A disease is an abnormal condition of the body that impairs normal
+functioning (i.e. deviation from homeostasis)
+
+-   Diseased cells will have an altered metabolism and may synthesise
+    products that are not present in normal, healthy cells
+-   These metabolic products (metabolites) may be detected in blood or
+    urine to enable identification of disease conditions
+-   Disease metabolites may be detected with monoclonal antibodies using
+    an enzyme-linked immunosorbent assay (ELISA)
+
+Metabolic Markers â€“ Blood and Urine Samples
+
+[metabolites]

@@ -1,0 +1,42 @@
+Point Mutations
+
+Point mutations are changes to one base in the DNA code and may involve
+either:
+
+-   The substitution of a base (e.g. ATG becomes ACG)
+-   The insertion of a base (e.g. ATG becomes ATCG)
+-   The deletion of a base (e.g. ATG becomes AG)
+-   The inversion of bases (e.g. ATG becomes AGT)
+
+Base substitutions may create either silent, missense or nonsense
+mutations, while insertions and deletions cause frameshift mutations
+
+Effects of Point Mutations
+
+Silent mutations occur when the DNA change does not alter the amino acid
+sequence of the polypeptide
+
+-   This is possible because the genetic code is degenerate and certain
+    codons may code for the same amino acid
+
+Missense mutations occur when the DNA change alters a single amino acid
+in the polypeptide chain
+
+-   Sickle cell anaemia is an example of a disease caused by a single
+    base substitution mutation (GAGÂ â†’ GTG ; GluÂ â†’ Val)
+
+Nonsense mutations occur when the DNA change creates a premature STOP
+codon which truncates the polypeptide
+
+-   Cystic fibrosis is an example of a disease which can result from a
+    nonsense mutation (this may not be the only cause though)
+
+Frameshift mutations occur when the addition or removal of a base alters
+the reading frame of the gene
+
+-   This change will affect every codon beyond the point of mutation and
+    thus may dramatically change amino acid sequence
+
+Summary of the Different Types of Point Mutations
+
+[point mutations]

@@ -1,0 +1,28 @@
+Mitochondrial DNA
+
+Mitochondrial DNA (mtDNA) is an important tool for tracing evolutionary
+relationshipsÂ within a species
+
+Mitochondrial DNA offers several benefits over nuclear DNA when
+determining phylogenetic pathways, including:
+
+-   Maternal inheritance â€“ mtDNA is inherited from the mother only,
+    providing a much more direct genetic lineage
+-   No recombination â€“ As mtDNA is passed from the mother, no
+    recombination occurs, maintaining sequence fidelity
+-   Higher mutation rate â€“ Mitochondria produce reactive oxygen
+    species, which cause sequences to mutate at a higher rate
+-   High copy number â€“ As every cell has mitochondria, large amounts
+    of mtDNA can be gathered for sequencing
+
+Mitochondrial DNA is ideal for comparing organisms within a species or
+those who have diverged recently (> 20 million years)
+
+-   Evidence from mtDNA has been used to divide the human population
+    into distinct haplogroups
+-   Humans can trace their origins back to one of seven
+    super-haplogroups originating from an original 'Mitochondrial Eveâ€™
+
+Mitochondrial DNA
+
+[mtDNA]

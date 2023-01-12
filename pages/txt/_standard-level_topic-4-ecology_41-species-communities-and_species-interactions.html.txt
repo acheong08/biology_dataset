@@ -1,0 +1,66 @@
+Species Interactions
+
+In nature no species exists in total isolation â€“ all organisms
+interact with both the abiotic environment and other organisms
+
+-   If two species interact directly within a shared environment, they
+    share a positive association (they co-exist)
+-   If interactions within an environment are mutually detrimental to
+    both species, they share a negative association (do not co-exist)
+
+Positive Associations
+
+1. Â Predator-Prey Relationships
+
+-   Predation is a biological interaction whereby one organism
+    (predator) hunts and feeds on another organism (prey)
+-   Because the predator relies on the prey as a food source, their
+    population levels are inextricably intertwined
+    -   If the prey population drops (e.g. due to over-feeding),
+        predator numbers will dwindle as intra-specific competition
+        increases
+    -   If the prey population rises, predator numbers will increase as
+        a result of the over-abundance of a food source
+
+Predator-Prey Relationships (Arctic Fox vs Snowshoe Hare)
+
+[predator-prey]
+
+2. Â Symbiotic Relationships
+
+-   Symbiosis describes the close and persistent (long-term) interaction
+    between two species
+-   Symbiotic relationships can be obligate (required for survival) or
+    facultative (advantageous without being strictly necessary)
+-   Symbiotic relationships can be beneficial to either one or both
+    organisms in the partnership:
+    -   Mutualism â€“ Both species benefit from the interaction (anemone
+        protects clownfish, clownfish provides fecal matter for food)
+    -   Commensalism â€“ One species benefits, the other is unaffected
+        (barnacles are transported to plankton-rich waters by whales)
+    -   Parasitism â€“ One species benefits to the detriment of the
+        other species (ticks and fleas feed on the blood of their canine
+        host) Â 
+
+Types of Symbiotic Relationships
+
+[symbiosis]
+
+Negative Associations
+
+1. Â Competition
+
+-   Competition describes the interaction between two organisms whereby
+    the fitness of one is lowered by the presence of the other
+-   Competition can beÂ intraspecific (between members of same species)
+    or interspecific (between members of different species)
+-   Limited supplies of resources (e.g. food, water, territory) usually
+    triggers one of two types of responses:
+    -   Competitive exclusion â€“ One species uses the resources more
+        efficiently, driving the other species to local extinction
+    -   Resource partitioning â€“ Both species alter their use of the
+        environment to divide the resources between them
+
+Competitive Exclusion vs Resource Partitioning
+
+[niche differentiation]

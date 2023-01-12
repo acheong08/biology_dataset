@@ -1,0 +1,27 @@
+Circulation
+
+Cardiac output describes the volume of blood pumped out of the heart per
+minute
+
+-   It is roughly 5 litres per minute in a typical human adult at rest
+    (it increases to ~25 L/min during heavy exercise)
+
+Blood is distributed to body organs according to physiological
+requirements and this distribution changes with exercise:
+
+-   Blood flow to the brain is largely unchanged during exercise (brain
+    is vital and hence blood flow cannot be altered)
+-   Blood flow to the heart wall, muscles and skin is increased (to
+    facilitate improved oxygenation and heat loss)
+-   Blood flow to the kidneys, liver and digestive system is decreased
+    (due to minimal absorption and excretion)
+
+Blood vessels will vasodilate during exercise to improve circulation and
+facilitate heat loss via the skin
+
+-   This moves blood closer to the surface of the skin and is why
+    exercise causes a person to appear flushed
+
+Distribution of Blood Flow at Rest
+
+[blood flow]

@@ -1,0 +1,69 @@
+Enzyme Activity
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Temperature, pH and substrate concentration affect the rate of
+activity of enzymes
+
+Â  Â Â 
+Various factors may affect the activity of enzymes, by either affecting
+the frequency of enzyme-substrate collisions or by affecting the
+capacity for the enzyme and substrate to interact (e.g. denaturation)
+
+-   Temperature, pH and substrate concentration will all influence the
+    rate of activity of an enzyme
+
+Temperature
+
+-   Low temperatures result in insufficient thermal energy for the
+    activation of an enzyme-catalysed reaction to proceed
+-   Increasing the temperature will increase the speed and motion of
+    both enzyme and substrate, resulting in higher enzyme activity
+-   This is because a higher kinetic energy will result in more frequent
+    collisions between the enzymes and substrates
+-   At an optimal temperature (may vary for different enzymes), the rate
+    of enzyme activity will be at its peak
+-   Higher temperatures will cause enzyme stability to decrease, as the
+    thermal energy disrupts the enzymeâ€™sÂ hydrogen bonds
+-   This causes the enzyme (particularly the active site) to lose its
+    shape, resulting in the loss of activity (denaturation)
+
+The Effect of Temperature on Enzyme Activity
+
+[enzyme temperature]
+
+pH
+
+-   Changing the pH will alter the charge of the enzyme, which in turn
+    will alter protein solubility and overall shape
+-   Changing the shape or charge of the active site will diminish its
+    ability to bind the substrate, abrogating enzyme function
+-   Enzymes have an optimal pH (may differ between enzymes) and moving
+    outside this range diminishes enzyme activity
+
+The Effect of pH on Enzyme Activity
+
+[enzyme pH]
+
+Substrate Concentration
+
+-   Increasing substrate concentration will increase the activity of a
+    corresponding enzyme
+-   More substrates mean there is an increased chance of enzyme and
+    substrate colliding and reacting within a given period
+-   After a certain point, the rate of activity will cease to rise
+    regardless of any further increases in substrate levels
+-   This is because the environment is saturated with substrate and all
+    enzymes are bound and reacting (V_(max))
+
+The Effect of Substrate Concentration on Enzyme Activity
+
+[enzyme substrate concentration]

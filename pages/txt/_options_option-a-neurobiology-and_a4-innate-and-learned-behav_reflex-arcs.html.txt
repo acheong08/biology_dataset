@@ -1,0 +1,86 @@
+Reflex Arcs
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Autonomic and involuntary responses are referred to as reflexes
+
+â€¢ Â Reflex arcs comprise theÂ neurons that mediate reflexes
+
+Â  Â Â 
+The basic pathway for a nerve impulse is described by the stimulus
+response model
+
+-   AÂ stimulusÂ is a change in the environment (either external or
+    internal) that is detected by a receptor
+-   ReceptorsÂ transform the stimuli into nerve impulses thatÂ are
+    transmitted to theÂ brainÂ where decision-making occurs
+-   When a response is selected, the signal is transmitted viaÂ neurons
+    to effectors, promoting a change in the organism
+
+Some responses may be involuntary and occur without conscious thought
+â€“ these actions are called reflexes
+
+-   Reflex actions do not involve the brain â€“ instead sensory
+    information is directly relayed to motor neurons within the spineÂ 
+-   This results in a faster response, but one that does not involve
+    conscious thought or deliberation
+
+Stimulusâ€“Response Pathway
+
+[reflex pathway]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Withdrawal reflex of the hand from a painful stimulus
+
+Â  Â Â 
+Reflex actions are particularly beneficial in survival situations, when
+quick reactions are necessary to avoid permanent damage
+
+-   Because reflex arcs donâ€™t involve the brain (only the spine and
+    possibly brainstem), reflex actions are more rapid
+-   Reflex responses also include autonomic actions such as
+    modifications to heart rate, breathing and pupil accommodation
+
+A common example of a reflex action is the patellar reflex (â€˜knee
+jerkâ€™ response) that occurs when the patellar tendon is tapped
+
+-   The patellar reflex is a common test employed by doctors to
+    determine the presence of spinal lesions
+
+Example of aÂ Reflex Arc
+
+This browser cannot play the embedded video file.
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Drawing and labelling a diagram of a reflex arc for a pain
+withdrawal reflex
+
+Â Â  Â Â 
+In a pain withdrawal reflex arc:
+
+-   A pain stimulus is detected by a receptor (nocireceptor) and a nerve
+    impulse is initiated in a sensoryÂ neutron
+-   The sensory neuron enters the spinal cord via the dorsal root and
+    synapses with a relayÂ neuron in the grey matter
+-   The relay neuron synapses with a motor neuron, which leaves the
+    spinal cord via the ventral root
+-   The motorÂ neuron synapses with a muscle (effector), causing it to
+    contract and remove the limb from the pain stimulus
+
+Pain Withdrawal Reflex
+
+[pain withdrawal arc]

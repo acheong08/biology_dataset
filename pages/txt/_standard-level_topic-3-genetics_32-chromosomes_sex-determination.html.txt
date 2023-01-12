@@ -1,0 +1,36 @@
+Sex Determination
+
+Human sex determination occurs according to the X - Y system
+
+-   Females have two copies of the larger X chromosome
+-   Males have one X and one Y chromosome (and hence determine gender in
+    offspring)
+
+Other Systems
+
+X - 0 System
+
+-   Common in certain insects, including grasshoppers and crickets
+-   Females have two copies of the X chromosome (XX), whereas males only
+    have one chromosome (X0)
+-   Generally, in this method, sex is determined by the overall level of
+    gene expression by the X chromosome (less in males)
+
+Z - W System
+
+-   Common in birds, some reptiles and certain insects
+-   Males have two copies of the Z chromosome (ZZ), whereas females have
+    one Z and one W chromosome (ZW)
+-   Certain essential female genes appear to reside on the W chromosome
+    (similar to the Y chromosome in human males)
+
+Haplo-diploid System
+
+-   Common in certain insect species, such as ants and bees
+-   Unfertilised eggs develop into haploid individuals, which are males
+-   Fertilised eggs develop into diploid individuals, which are
+    generally female (all bar the reproductive queen are sterile)
+
+Sex Determination Systems
+
+[sex determination systems]

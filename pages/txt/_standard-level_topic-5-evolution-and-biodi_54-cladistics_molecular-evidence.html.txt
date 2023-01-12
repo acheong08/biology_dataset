@@ -1,0 +1,88 @@
+Molecular Evidence
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Evidence for which species are part of a clade can be obtained
+from the base sequence of a gene or theÂ 
+
+Â  Â  corresponding amino acid sequence of a protein
+
+Â  Â Â 
+All organisms use DNA and RNA as genetic material and the genetic code
+by which proteins are synthesised is (almost) universal
+
+-   This shared molecular heritage means that base and amino acid
+    sequences can be compared to ascertain levels of relatedness
+
+Over the course of millions of years, mutations will accumulate within
+any given segment of DNA
+
+-   The number of differences between comparable base sequences
+    demonstrates the degree of evolutionary divergence
+-   A greater number of differences between comparable base sequences
+    suggests more time has past since two species diverged
+-   Hence, the more similar the base sequences of two species are, the
+    more closely related the two species are expected to be
+
+When comparing molecular sequences, scientists may use non-coding DNA,
+gene sequences or amino acid sequences
+
+-   Non-coding DNA provides the best means of comparison as mutations
+    will occur more readily in these sequences
+-   Gene sequences mutate at a slower rate, as changes to base sequence
+    may potentially affect protein structure and function
+-   Amino acid sequences may also be used for comparison, but will have
+    the slowest rate of change due to codon degeneracy
+
+Amino acid sequences are typically used to compare distantly related
+species (i.e. different taxa), while DNA or RNA base sequences are often
+used to compare closely related organisms (e.g. different haplogroups
+â€“ such as various human ethnic groups)
+
+Comparison of the Haemoglobin Beta Chain in Different Species
+
+[molecular comparison]
+
+Â 
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Sequence differences accumulate gradually so there is a positive
+correlation between the number of differencesÂ 
+
+Â  Â  between two species and the time since they diverged from a common
+ancestor
+
+Â  Â Â 
+Some genes or protein sequences may accumulate mutations at a relatively
+constant rate (e.g. 1 change per million years)
+
+If this rate of change is reliable, scientists can calculate the time of
+divergence according to the number of differences
+
+-   E.g.Â  If a gene which mutates at a rate of 1 bp per 100,000 years
+    has 6 bp different, divergence occurred 600,000 years ago
+
+This concept is called the molecular clock and is limited by a number of
+factors:
+
+-   Different genes or proteins may change at different rates (e.g.
+    haemoglobin mutates more rapidly than cytochrome c)
+-   The rate of change for a particular gene may differ between
+    different groups of organisms
+-   Over long periods, earlier changes may be reversed by later changes,
+    potentially confounding the accuracy of predictions
+
+Molecular Clocks
+
+[molecular clocks]

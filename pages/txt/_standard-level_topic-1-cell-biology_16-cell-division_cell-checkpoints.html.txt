@@ -1,0 +1,49 @@
+Cell Checkpoints
+
+Cell cycle checkpoints are mechanisms that ensure the fidelity and
+continued viability of mitotic division in cells
+
+Multiple checkpoints have been discovered, each with different specific
+roles:
+
+G₁ Checkpoint:
+
+-   Determine appropriate growth conditions (sufficient nutrients, cell
+    size, presence of growth factors, etc.)
+-   Assess level of DNA damage (fromÂ ionising radiation or UV)Â 
+
+G₂ Checkpoint:
+
+-   Determine state of pre-mitotic cell (suitable cell size required for
+    successful division)
+-   Identify an replication faults (changes to DNA sequence will distort
+    genetic fidelity in daughter cells)
+
+Metaphase Checkpoint:
+
+-   Ensure proper spindle assembly and correct attachment to centromeres
+    (prevents non-disjunction events)
+
+Cell Cycle Checkpoints
+
+[cell checkpoints]
+
+G0 Stage
+
+Not all cells are continually replicating â€“ some cells may enter into
+a non-dividing G₀ stage
+
+These cells may either be dormant (quiescent) or ageing and
+deteriorating (senescent)
+
+Cells enter the G₀ phase from the G₁ phase; quiescent cells may re-enter
+G₁ at a later time (senescent cells do not)
+
+Normally, cells will only divide a finite time before reaching
+senescence (a typical human cell will divide ~ 40 - 60 times)
+
+Specialised cells will often permanently enter G₀, as differentiation
+has prevented their capacity for further division Â 
+
+Neurons are examples of cells that have been arrested in a G₀ state â€“
+these cells are amitotic (cannot divide)

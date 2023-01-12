@@ -1,0 +1,47 @@
+Cytokinesis
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Cytokinesis occurs after mitosis and is different in plant and
+animal cells
+
+Â  Â Â 
+Cytokinesis is the process of cytoplasmic division, whereby the cell
+splits into two identical daughter cells
+
+Cytokinesis occurs concurrently with the final stage of mitosis
+(telophase) and is different in plant and animal cells
+
+Animal Cells
+
+-   After anaphase, microtubule filaments form a concentric ring around
+    the centre of the cell
+-   The microfilaments constrict to form a cleavage furrow, which
+    deepens from the periphery towards the centre
+-   When the furrow meets in the centre, the cell becomes completely
+    pinched off and two cells are formed
+-   Because this separation occurs from the outside and moves towards
+    the centre, it is described as centripetal
+
+[animal cytokinesis]
+
+Plant Cells
+
+-   After anaphase, carbohydrate-rich vesicles form in a row at the
+    centre of the cell (equatorial plane)
+-   The vesicles fuse together and an early cell plate begins to form
+    within the middle of the cell
+-   The cell plate extends outwards and fuses with the cell wall,
+    dividing the cell into two distinct daughter cells
+-   Because this separation originates in the centre and moves
+    laterally, it is described as centrifugal
+
+[cytokinesis plant]

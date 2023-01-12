@@ -1,0 +1,143 @@
+Energy Conversions
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Phosphorylation of molecules makes them less stable
+
+Â  Â 
+Adenosine triphosphate (ATP) is a high energy molecule that functions as
+an immediate power source for cells
+
+-   One molecule of ATP contains three covalently bonded phosphate
+    groups â€“ which store potential energy in their bonds
+-   Phosphorylation makes molecules less stable and hence ATP is a
+    readily reactive molecule that contains high energy bonds
+-   When ATP is hydrolysed (to form ADP + Pi), the energy stored in the
+    terminal phosphate bond is released for use by the cell
+
+Relationship between ATP and ADP
+
+[ATP-ADP]
+
+ATP has two key functions within the cell:
+
+-   It functions as the energy currency of the cell by releasing energy
+    when hydrolysed to ADPÂ (powers cell metabolism)Â 
+-   It may transfer the released phosphate group to other organic
+    molecules, rendering them less stable and more reactive
+
+ATP is synthesised from ADP using energy derived from one of two
+sources:
+
+-   Solar energy â€“ photosynthesis converts light energy into chemical
+    energy that is stored as ATP
+-   Oxidative processes â€“ cell respiration breaks down organic
+    molecules to release chemical energy that is stored as ATP
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Cell respiration involves the oxidation and reduction of electron
+carriers
+
+Â 
+Cell respiration is the controlled release of energy from organic
+compounds to produce ATP
+
+-   Anaerobic respiration involves the incomplete breakdown of organic
+    molecules for a small yield of ATP (no oxygen required)
+-   Aerobic respiration involves the complete breakdown of organic
+    molecules for a larger yield of ATP (oxygen is required)
+
+The breakdown of organic molecules occurs via a number of linked
+processes that involve a number of discrete steps
+
+-   By staggering the breakdown, the energy requirements are reduced
+    (activation energy can be divided across several steps)
+-   The released energy is not lost â€“ it is transferred to activated
+    carrier molecules via redox reactions (oxidation / reduction)
+
+Energy Conversions in Sugar Breakdown (Direct Combustion vs Cell
+Respiration)
+
+[sugar breakdown]
+
+Redox Reactions
+
+When organic molecules are broken down by cell respiration, the chemical
+energy is transferred by means of redox reactions
+
+-   Redox reactions involved the reduction of one chemical species and
+    the oxidation of another (redox = reduction / oxidation)
+
+Most redox reactions typically involve the transfer of electrons,
+hydrogen or oxygenÂ 
+
+-   Reduction is the gain of electrons / hydrogen or the loss of oxygen
+-   Oxidation is the loss of electrons / hydrogen or the gain of oxygen
+
+Redox reactions can be summarised according to the following table:
+
+[redox table]
+
+Redox Mnemonics
+
+Redox reactions involving electrons can be remembered using any of the
+following mnemonics:
+
+-   OIL RIG Â â€“ Â Oxidation Is Loss (of electrons) ; Reduction Is Gain
+    (of electrons)
+-   LEO goes GER Â â€“ Â Loss of Electrons is Oxidation ; Gain of
+    Electrons is Reduction
+-   ELMO Â â€“ Â Electron Loss Means Oxidation
+
+[redox mnemonics]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Energy released by oxidation reactions is carried to the cristae
+of the mitochondria by reduced NAD and FAD
+
+Â Â 
+Cell respiration breaks down organic molecules and transfers hydrogen
+atoms and electrons to carrier molecules
+
+-   As the organic molecule is losing hydrogen atoms and electrons, this
+    is an oxidation reaction
+-   Energy stored in the organic molecule is transferred with the
+    protons and electrons to the carrier molecules
+
+The carrier molecules are called hydrogen carriers or electron carriers,
+as they gain electrons and protons (H⁺ ions)
+
+-   The most common hydrogen carrier is NAD⁺ which is reduced to form
+    NADH Â (NAD⁺ + 2H⁺ + 2e^(â€“) Â â†’Â Â NADH + H⁺)
+-   A less common hydrogen carrier is FAD which is reduced to form FADH₂
+    Â (FADÂ + 2H⁺Â + 2e^(â€“)Â Â â†’Â  FADH₂)
+
+The hydrogen carriers function like taxis, transporting the electrons
+(and hydrogen ions) to the cristae of the mitochondria
+
+-   The cristae is the site of the electron transport chain, which uses
+    the energy transferred by the carriers to synthesize ATP
+-   This process requires oxygen to function, and hence only aerobic
+    respiration can generate ATP from hydrogen carriers
+-   This is why aerobic respiration unlocks more of the energy stored in
+    the organic molecules and produces more ATP
+
+Energy Transfer via Hydrogen Carriers
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to display taxi representation

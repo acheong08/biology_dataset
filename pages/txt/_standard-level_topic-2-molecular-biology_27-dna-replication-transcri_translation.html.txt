@@ -1,0 +1,61 @@
+Translation
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Translation is the synthesis of polypeptides on ribosomes
+
+â€¢ Â Translation depends on complementary base pairing between codons
+on mRNA and anticodons on tRNA
+
+Â  Â Â 
+Translation is the process of protein synthesis in which the genetic
+information encoded in mRNA is translated into a sequence of amino acids
+on a polypeptide chain
+
+-   Ribosomes bind to mRNA in the cytoplasm and move along the molecule
+    in a 5â€™Â â€“ 3â€™Â direction until it reaches a start codon (AUG)
+-   Anticodons on tRNA molecules align opposite appropriate codons
+    according to complementary base pairing (e.g. AUG = UAC)
+-   Each tRNA molecule carries a specific amino acid (according to the
+    genetic code)
+-   Ribosomes catalyse the formation of peptide bonds between adjacent
+    amino acids (via condensation reactions)
+-   The ribosome moves along the mRNA molecule synthesising a
+    polypeptide chain until it reaches a stop codon
+-   At this point translation ceases and the polypeptide chain is
+    released
+
+Overview of Translation
+
+[translation]
+
+[mr cat app]
+
+Translation Mnemonic
+
+The key components of translation are:
+
+-   Messenger RNA Â (goes toâ€¦)
+-   Ribosome Â (reads sequence inÂ â€¦)
+-   Codons Â (recognised byÂ â€¦)
+-   Anticodons Â (found onÂ â€¦)
+-   Transfer RNA Â (which carriesÂ â€¦)
+-   Amino acids Â (which join viaÂ â€¦)
+-   Peptide bonds Â (to formÂ â€¦)
+-   Polypeptides
+
+Mnemonic:Â  Mr Cat App
+
+Translation Animation
+
+This browser cannot play the embedded video file.
+
+[translation-sl]

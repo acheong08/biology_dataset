@@ -1,0 +1,61 @@
+C3, C4 and CAM Plants
+
+The Calvin cycle uses the enzyme Rubisco (RuBP carboxylase) to fix CO₂
+to RuBP and make a 3C compound (GP)
+
+-   Plants that fix carbon dioxide directly from the air are called C₃
+    plants (as the initial product is a 3C compound)
+
+Rubisco can also use oxygen (O₂) as an alternative substrate to undergo
+a series of reactions known as photorespiration
+
+-   Photorespiration creates a product that cannot be used to make
+    sugars and hence reduces the efficiency of the Calvin cycle
+-   Photorespiration reduces levels of photosynthesis by up to ~25% in
+    C₃ plants, reducing energy yield in these plants
+
+Photorespiration vs Photosynthesis
+
+[photorespiration]
+
+C₄ and CAM Plants
+
+Because oxygen acts as a competitive inhibitor for Rubisco,
+photosynthesis in C₃ plants is reduced in the presence of oxygen
+
+-   C₃ plants are less efficient in hot and dry regions, as stomata must
+    remain closed to prevent excessive water loss
+-   When stomata are closed, O₂ cannot diffuse out of the leaf,
+    increasing O₂ concentration relative to CO₂
+
+In these hot and arid conditions, other types of plants have evolved to
+limit the exposure of Rubisco to oxygen
+
+-   C₄ and CAM plantsÂ uses the enzyme PEP carboxylase to combine CO₂ to
+    a 3C compound (PEP) and make a 4C compound
+-   PEP carboxylase has a higher affinity for CO₂ than Rubisco and
+    doesnâ€™t bind to oxygen at all
+-   These plants can then transfer the CO₂Â (stored in the 4C compound)
+    to regions with low oxygen concentrations
+
+In the C₄ pathway, carbon dioxide is physically separated from oxygen in
+order to improve CO₂ binding to RubiscoÂ 
+
+-   The CO₂ is converted to a 4C compound and then sequestered to a
+    deeper tissue layer where less oxygen is present
+-   In this deeper tissue layer, the CO₂ is released and can enter the
+    Calvin cycle without competition from oxygen
+
+In the CAM pathway, carbon dioxide reserves are created (temporal
+isolation) in order to improve CO₂ binding to Rubisco
+
+-   CAM plants are adapted to arid environments where water loss is high
+    and stomata must remain closed during the day
+-   The CO₂ is converted into a 4C compound during the night, when
+    stomata are open and CO₂ is able to diffuse into the leaf
+-   This allows reserves of CO₂ to be created for use during the day,
+    when stomata are closed and O₂ cannot be released
+
+Comparison of Carbon Fixation Pathways
+
+[C3, C4 and CAM]

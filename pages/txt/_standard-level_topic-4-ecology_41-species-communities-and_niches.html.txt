@@ -1,0 +1,48 @@
+Niches
+
+An ecological niche describes the functional position and role of an
+organism within its environment
+
+An ecological niche will be comprised of various components, including:
+
+-   The habitat in which the organism lives
+-   The activity patterns of the organism (e.g. periods of time during
+    which it is active)
+-   The resources it obtains from the environment (e.g. food source,
+    territorial boundaries, etc.)
+-   The interactions that occur with other species in the region (e.g.
+    competition / predator-prey relationships)
+
+Types of Niches
+
+Some species may not be able to occupy their entire niche due to the
+presence or absence of other species
+
+-   The fundamental niche is the entire set of conditions under which an
+    organism can survive and reproduce (i.e. where it can live)
+-   The realised niche is the set of conditions actually used by a given
+    organism after interactions with other species are taken into
+    account (i.e. where it does live)
+
+Fundamental versus Realised Niche
+
+[fundamental vs realised niche]
+
+Niche Differentiation
+
+Niche differentiation describes the way by which competing species use
+the environment differently in order to exist
+
+If two species with identical niches compete, two distinct outcomes are
+possible:
+
+-   Competitive exclusion: Â One species will use the resources more
+    efficiently and drive the other species to local extinction
+-   Resource partitioning: Â Two species will alter their use of the
+    niche to avoid direct competition, allowing for co-existence
+
+Niche Differentiation
+
+[]
+          Term:             Niche                    Resource
+Partitioning                     Competitive Exclusion

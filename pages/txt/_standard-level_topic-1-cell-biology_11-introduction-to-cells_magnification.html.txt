@@ -1,0 +1,58 @@
+Magnification
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Calculation ofÂ magnification and the actual size of structures
+shown in drawings or micrographs
+
+Â  Â Â 
+Calculation of Magnification:
+
+To calculate the linear magnification of a drawing or image, the
+following equation should be used:
+
+-   Magnification = Image size (with ruler)Â Ã·Â Actual size (according
+    to scale bar)
+
+Calculation of Actual Size:
+
+To calculate the actual size of a magnified specimen, the equation is
+simply rearranged:
+
+-   Actual Size = Image size (with ruler)Â Ã·Â Magnification
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Use of a light microscope to investigate the structure of cells
+and tissues, with drawings of cells
+
+Â  Â Â 
+Light microscopes use visible light and a combination of lenses to
+magnify images of mounted specimens
+
+-   Living specimens can be viewed in their natural colour, although
+    stains may be applied to resolve specific structures
+
+When attempting to draw microscopic structures, the following
+conventions should be followed:
+
+-   A title should be included to identify the specimen (e.g. name of
+    organism, tissue or cell)
+-   A magnification or scale should be included to indicate relative
+    size
+-   Identifiable structures should be clearly labelled (drawings should
+    only reflect what is seen, not idealised versions)
+
+Summary of Visible Cell Features under Light Microscopy
+
+[cells under microscopes]

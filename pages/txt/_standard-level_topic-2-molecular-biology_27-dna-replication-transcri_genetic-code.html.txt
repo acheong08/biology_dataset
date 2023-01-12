@@ -1,0 +1,60 @@
+Genetic Code
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Codons of three bases on mRNA correspond to one amino acid in a
+polypeptide
+
+â€¢ Â The amino acid sequence of polypeptides is determined by mRNA
+according to the genetic code
+
+Â  Â Â 
+Codons
+
+-   The base sequence of an mRNA molecule encodes the production of a
+    polypeptide
+-   The mRNA sequence is read by the ribosome in triplets of bases
+    called codons
+-   Each codon codes for one amino acid with a polypeptide chain
+-   The order of the codons in an mRNA sequence determines the order of
+    amino acids in a polypeptide chain
+
+Genetic Code
+
+-   The genetic code is the set of rules by which information encoded
+    within mRNA sequences is converted into amino acid sequences
+    (polypeptides) by living cells
+-   The genetic code identifies the corresponding amino acid for each
+    codon combination
+-   As there are four possible bases in a nucleotide sequence, and three
+    bases per codon, there are 64 codon possibilities (4³)
+-   The coding region of an mRNA sequence always begins with a START
+    codon (AUG) and terminates with a STOP codon
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Use a table of the genetic code to deduce which codon(s)
+correspond to which amino acid
+
+Â  Â Â 
+Typically the genetic code shows the codon combinations expressed on an
+mRNA molecule
+
+-   Tables displaying the genetic code may occasionally show the
+    sequence on the sense strand of DNA (non-coding strand)
+-   These sequences are identical to the mRNA codons with the exception
+    of thymine (T) being present instead of uracil (U)
+
+The Genetic Code (Wheel)
+
+[genetic code (wheel)]

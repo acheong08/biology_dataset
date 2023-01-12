@@ -1,0 +1,93 @@
+Monoclonal Antibodies
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Fusion of a tumor cell with an antibody-producing cell creates a
+hybridoma cell
+
+â€¢ Â Monoclonal antibodies are produced by hybridoma cells
+
+Â  Â Â 
+Monoclonal antibodies are antibodies artificially derived from a single
+B cell clone (i.e. identical specific antibodies)
+
+-   An animal (typically a mouse) is injected with an antigen and
+    produces antigen-specific plasma cells
+-   The plasma cells are removed and fused (hybridised) with tumor cells
+    capable of endless divisions (immortal cell line)
+-   The resulting hybridoma cell is capable of synthesising large
+    quantities of monoclonal antibody
+
+Production of Monoclonal Antibodies
+
+[monoclonal antibodies]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Monoclonal antibodies to hCG are used in pregnancy test kits
+
+Â  Â Â 
+Monoclonal antibodies can be used for both the therapeutic treatment and
+clinical detection of disease
+
+-   An example of therapeutic use involves the use of antibodies in the
+    treatment of rabies
+-   An example of diagnostic use involves the use of antibodies in the
+    detection of pregnancy
+
+Treatment Use
+
+Monoclonal antibodies are commonly used to provide immune protection for
+individuals who contract harmful diseases
+
+-   Because the rabies virus can potentially be fatal, injecting
+    purified antibodies functions as an effective emergency treatment
+-   Monoclonal antibodies can be used to target cancer cells that the
+    bodyâ€™s own immune cells fail to recognise as harmful
+
+Therapeutic monoclonal antibodies are named according to the source
+organism from which the antibodies were derived
+
+-   Mice antibodies ('-omabâ€™) are easier to synthesise than human
+    antibodies but are less likely to be tolerated by the patient
+
+Examples of Therapeutic Monoclonal Antibodies
+
+[monoclonal therapy]
+
+Diagnostic Use
+
+Monoclonal antibodies can be used to test for pregnancy via the presence
+of human chorionic gonadotrophin (hCG) in urine
+
+-   hCG is a hormone produced by women during foetal development and
+    thus its presence in urine is indicative of pregnancy
+
+Pregnancy tests use a process called ELISA (enzyme-linked immunosorbent
+assay) to identify a substance via a colour change
+
+-   Free monoclonal antibodies specific to hCG are conjugated to an
+    enzyme that changes the colour of a dye
+-   A second set of monoclonal antibodies specific to hCG are
+    immobilised to the dye substrate
+-   If hCG is present in urine, it will interact with both sets of
+    monoclonal antibody (forming an antibodyÂ â€˜sandwichâ€™)
+-   When both sets of antibody are bound to hCG, the enzyme is brought
+    into physicial proximity with the dye, changing its colour
+-   A third set of monoclonal antibodies will bind any unattached
+    enzyme-linked antibodies, functioning as a control
+
+How a Pregnancy Detection Kit Works
+
+[]                  Pregnancy Tests:             Kit Components
+                Positive Result                  Negative Result

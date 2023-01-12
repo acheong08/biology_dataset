@@ -1,0 +1,105 @@
+Population Sampling
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Sampling techniques are used to estimate population size
+
+Â  Â Â 
+A population is all the individuals of a given species living in the
+same area at the same time
+
+-   Populations are fluid and are subject to continual change in numbers
+    through natality, mortality, immigration and emigration
+-   Populations may be large and impractical to count unless the species
+    is large and the target area is small
+
+Population sampling involves identifying individual numbers in small
+areas and then extrapolating to estimate population totals
+
+-   Sampled areas must be chosen randomly to avoidÂ selection bias
+    causing a misrepresentation of the population size
+-   The more samples that are taken (and the larger the sampling area),
+    the more accurate population estimates are likely to be
+
+Different sampling techniques are used to estimate population sizes for
+non-motile (sessile) and motile species
+
+-   Non-motile species can be sampled usingÂ quadrats (measurements can
+    include direct counts, percentage cover or frequency)
+-   Motile species can be sampled using the
+    capture-mark-release-recapture method (with estimates based on the
+    Lincoln index)
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of the capture-mark-release-recapture method to estimate the
+population size of an animal species
+
+Â  Â Â 
+Capture-Mark-Release-Recapture
+
+The capture-mark-release recapture method is a means of estimating the
+population size of a motile species
+
+-   An area is defined and marked off, then a selection ofÂ individuals
+    are captured, counted, marked and released (n₁)
+-   Marking must not be easily removable or adversely affect the
+    animalâ€™s survival prospects
+-   After sufficient time has passed to allow marked individuals to
+    reintegrate in the population, a second capture is made (n₂)
+-   In this second capture, both unmarked individuals and marked
+    individuals (n₃) are counted
+-   Based on the three values generated (n₁ ; n₂ ; n₃), an estimated
+    population size is derived using the Lincoln Index
+
+The Capture-Mark-Release-Recapture Method
+
+[MRR method]
+
+Lincoln Index
+
+The Lincoln index is used to estimate population size based on the
+capture-mark-release-recapture method
+
+-   Lincoln Index: Â Estimated Population = (n₁Â Ã— n₂)Â Ã· n₃
+
+The Lincoln index requires that the following assumptions are true:
+
+-   That all individuals in a given area have an equal chance of being
+    captured (sampling must be random)
+-   That marked individuals will be randomly distributed after release
+    (n₁ cannot be allowed to influence n₃)
+-   That marking individuals will not affect the mortality or natality
+    of the population
+
+The accuracy of the Lincoln index can be improved by a number of means:
+
+-   Increasing the size of the capture samples (larger samples will be
+    more representative but also more difficult to collect)
+-   Taking repeated samples in order to determine a statistical average
+
+Lincoln Index Equation:
+
+[lincoln index]
+
+Practice Question
+
+[question] The following data was obtained when monitoring mountain
+gorilla numbers in a nature reserve:
+Captured and marked = 25 gorillas
+Recaptured at a later date = 24 gorillas
+Number of marked individuals in recaptured sample = 8 gorillas
+Estimate the size of the mountain gorilla population using the Lincoln
+Index
+
+[metric system]

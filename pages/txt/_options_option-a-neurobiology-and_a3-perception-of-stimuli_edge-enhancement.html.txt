@@ -1,0 +1,41 @@
+Edge Enhancement
+
+The human eye has the capacity to see the edges of objects in greater
+contrast (edge enhancement)
+
+-   This is why the eye can detect shapes and outlines in dark
+    conditions, but not detect finer details
+
+Stimulated photoreceptors will activate opposing bipolar cells but
+inhibit adjacent bipolar cells
+
+-   This is known as vertical activation and lateral inhibition
+    respectively
+
+This will increase the contrast between the light and dark borders of an
+object due to the fact that:
+
+-   The light edge is not being laterally inhibited by photoreceptors in
+    the adjoining dark region (hence appears lighter)
+-   The dark edge is not being vertically activated but is receiving
+    lateral inhibition from the light edge (hence appears darker)
+
+Mechanism of Edge Enhancement in the Retina
+
+[edge enhancement]
+
+Optical Illusions
+
+Edge enhancement can give rise to a number of different optical
+illusions, including:
+
+-   Scintillating Grid Illusion â€“ Dots appear to change colour as the
+    point of visual focus is adjusted
+-   Hermannâ€™s Grid Illusion â€“ Grey spots appear to be visible at the
+    intersection between the white lines
+-   Simultaneous Contrast â€“ A inner grey square appears darker when
+    encased in a white square as opposed to a black square
+
+Types of Optical Illusions
+
+[optical illusions]

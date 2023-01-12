@@ -1,0 +1,86 @@
+Types of Leukocytes
+
+There are five distinct classes of leukocytes (white blood cells) that
+coordinate to provide defence against infectious disease:
+Neutrophils
+
+-   Most abundant type of white blood cell and the first responder to
+    microbial infection
+-   They are unable to renew their lysosomes and die after having
+    phagocytosed a few pathogens (forms the majority of pus)
+-   Analogy: Â Standard police officer â€“ quick to respond to the
+    situation, but lacks special training or skills and so dies rapidly
+
+Eosinophils
+
+-   Prominent at the sites of allergic reactions and parasitic
+    infections (rare in blood but common at mucous membranes)
+-   Do not phagocytose pathogens but instead release chemical products
+    which perforate cell membranes
+-   Consequently, they function as the primary response to large
+    multicellular parasites (e.g. helminth infections)
+-   Analogy: Â Fumigator â€“ specialised to deal with pests / parasites
+    (e.g. helminths) by releasing chemical products
+
+Basophil
+
+-   Basophils are chiefly responsible for initiating inflammatory
+    responses by releasing the chemicals histamine and heparin
+-   Functionally they are similar to mast cells, however they circulate
+    in the bloodstream whereas mast cells are localised
+-   Because they promote inflammation, they are common contributors to
+    allergic responses
+-   Analogy: Â Fireman â€“ the leukocyte involved when a region
+    isÂ inflamed (â€˜in flamesâ€™)
+
+Monocyte
+
+-   Monocytes are theÂ largest type of leukocyte and share phagocytosis
+    duties with neutrophils
+-   They are slower to respond than neutrophils but are longer lasting,
+    as they can renew their lysosomes for continued digestion
+-   Monocytes will differentiate into two types of cells in response to
+    pathogenic infection â€“ macrophages and dendritic cells
+-   Macrophages will remain in the tissue and phagocytose, whereas
+    dendritic cells present antigen fragments to lymphocytes
+-   Analogy: Â Riot police (macrophage) â€“ slower to respond than
+    standard police but better prepared and survives for longer
+-   Analogy: Â Signalman (dendritic cell) â€“ identifies the pathogen
+    and sends signals to the appropriate special forces (lymphocytes)
+
+Lymphocyte
+
+-   Lymphocytes are responsible for the production of antibodies which
+    target specific antigens present on pathogens
+-   They are more common in the lymphatic system than blood and are
+    slowest to respond (requiring antigen presentation)
+-   Lymphocytes include B cells (which become antibody-secreting plasma
+    cells) and T cells (which mediate B cell activity)
+-   Lymphocytes are also involved in the destruction of virus-infected
+    body cells (via cytotoxic T cells and natural killer cells)
+-   Analogy: Â Special forces / superheroes â€“ takes longest to
+    mobilise but specially trained to target specific pathogens
+
+Types of Leukocytes
+
+[My Image 1] [My Image 2]
+
+â‡’Â Â Click on the diagram to show as an analogy
+
+Prevalence of Leukocytes
+
+[angry monkey]
+
+The relative proportions of the different types of white blood cells
+are:
+
+â€¢ Neutrophils (roughly 60 â€“ 70%)
+
+â€¢Â Lymphocytes (roughly 20 â€“ 30%)
+
+â€¢Â Monocytes (approximately 1 â€“ 6%)
+
+â€¢Â Eosinophils (approximately 1 â€“ 3%)
+
+â€¢Â Basophils (less than 1%)
+Mnemonic: Â Never Let Monkeys Eat Bananas

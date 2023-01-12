@@ -1,0 +1,29 @@
+Operons
+
+An operon is a sequence of DNA containing a cluster of genes under the
+control of a single promoter
+
+-   Hence, genes within an operon will always be expressed together or
+    not at all (their expression patterns are linked)
+
+There are three basic components to an operon
+
+-   Promoter â€“ Upstream sequence to which RNA polymerase binds
+-   Operator â€“ Segment of DNA to which a repressor protein binds
+    (inhibits transcription by obstructing RNA polymerase)
+-   Structural genes â€“ Genes that are collectively regulated by the
+    operon
+
+Operons are related to stimulons and regulons:
+
+-   Stimulon â€“ Set of genes under regulation from a single cell
+    stimulus
+-   Regulon â€“ Set of genes under regulation from a single regulatory
+    protein (each gene has a different operator though)
+
+Originally, operons were thought to exist only in prokaryotes, however
+examples have since been found in eukaryotes
+
+Structure of an Operon
+
+[operon]

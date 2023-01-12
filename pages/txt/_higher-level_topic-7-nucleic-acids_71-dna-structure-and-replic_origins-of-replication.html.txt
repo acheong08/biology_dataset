@@ -1,0 +1,33 @@
+Origins of Replication
+
+Origins of replication are sequences where DNA replication is initiated
+within a genome
+
+-   Most bacteria have a single, circular molecule of DNA and possess
+    only a single origin of replication
+-   Eukaryotic chromosomes are usually significantly larger and hence
+    possess many origins of replication along their length
+-   DNA synthesis may occur bi-directionally from an origin of
+    replication
+
+DNA Synthesis at an Origin of Replication
+
+[origin of replication]
+
+When DNA replication occurs bi-directionally, the two replication forks
+move in opposite directions to create a replication bubble
+
+-   As replication bubbles expand in both directions, they will
+    eventually fuse together as the intervening regions are copied
+-   This functions to greatly limit the time required for DNA
+    replication to occur
+
+If human chromosomes did not possess multiple origins of replication, it
+would take roughly one month to copy a chromosome
+
+-   An average human chromosome is 150 million base pairs in length and
+    DNA polymerase copies at a rate of ~ 50 bp / sec
+-   150,000,000Â Ã· 50 = 3,000,000 seconds (Ã· 60) = 50,000 minutes
+    (Ã· 60) = 833 hours (Ã· 24) = ~ 35 days
+
+Â 

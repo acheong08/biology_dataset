@@ -1,0 +1,61 @@
+Mass Flow
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â High concentrations of solutes in the phloem at the source lead to
+water uptake by osmosis
+
+â€¢ Â Incompressibility of water allows transport along hydrostatic
+pressure gradients
+
+Â  Â Â 
+At the Source
+
+-   The active transport of solutes (such as sucrose) into the phloem by
+    companion cells makes the sap solution hypertonic
+-   This causes water to be drawn from the xylem via osmosis (water
+    moves towards higher solute concentrations)
+-   Due to the incompressibility of water, this build up of water in the
+    phloem causes the hydrostatic pressure to increase
+-   This increase in hydrostatic pressure forces the phloem sap to move
+    towards areas of lower pressure (mass flow)
+-   Hence, the phloem transports solutes away from the source (and
+    consequently towards the sink)
+
+Active Translocation via Mass Flow
+
+[active translocation]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Raised hydrostatic pressure causes the contents of the phloem to
+flow towards sinks
+
+Â  Â Â 
+At the Sink
+
+-   The solutes within the phloem are unloaded by companion cells and
+    transported into sinks (roots, fruits, seeds, etc.)
+-   This causes the sap solution at the sink to become increasingly
+    hypotonic (lower solute concentration)
+-   Consequently, water is drawn out of the phloem and back into the
+    xylem by osmosis
+-   This ensures that the hydrostatic pressure at the sink is always
+    lower than the hydrostatic pressure at the source
+-   Hence, phloem sap will always move from the source towards the sink
+-   When organic molecules are transported into the sink, they are
+    either metabolised or stored within the tonoplast of vacuoles
+
+Mechanisms of Phloem Unloading
+
+[phloem unloading]

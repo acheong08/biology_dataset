@@ -1,0 +1,72 @@
+Evolution
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â A gene pool consists of all the genes and their different alleles,
+present in an interbreeding population
+
+Â  Â Â 
+Gene Pools
+
+A gene pool represents the sum total of alleles for all genes present in
+a sexually reproducing population
+
+-   A large gene pool indicates high amounts of genetic diversity,
+    increasing the chances of biological fitness and survival
+-   A small gene pool indicates low amounts of genetic diversity,
+    reducing biological fitness and increasing chances of extinction
+
+Gene pools can be used to determine allele frequency â€“ the proportion
+of a particular allele within a population
+
+Representation of a Gene Pool
+
+[gene pool]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Evolution requires that allele frequencies change with time in
+populations
+
+Â  Â Â 
+Evolution is the cumulative change in the heritable characteristics of a
+population across successive generations
+
+-   This requires that allele frequencies change within the gene pool of
+    the population to reflect these evolving characteristics
+
+Mechanisms of Change
+
+Changes to allele frequency within a gene pool (evolution) can result
+from five key processes:
+
+-   Mutation: Â A random change in the genetic composition of an
+    organism due to changes in the DNA base sequence
+-   Gene flow: Â The movement of alleles into, or out of, a population
+    as a result of immigration or emigration
+-   Sexual reproduction: Â Sex can introduce new gene combinations and
+    alter allele frequencies if mating isÂ assortative
+-   Genetic drift: Â The change in the composition of a gene pool as a
+    result of a chance or random event
+-   Natural selection: Â The change in the composition of a gene pool as
+    a result of differentially selective environmental pressures
+
+Mechanisms for Changing Allele Frequency within a Gene Pool
+
+[mechanisms of change]
+
+TedEd Talks: Â The Five Fingers of Evolution
+
+This browser cannot play the embedded video file.
+
+[five-fingers-of-evolution--]

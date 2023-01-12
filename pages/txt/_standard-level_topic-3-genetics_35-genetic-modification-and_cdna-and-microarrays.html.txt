@@ -1,0 +1,35 @@
+cDNA and Microarrays
+
+Individuals can be screened for genetic diseases and cancers by using
+cDNA and microarrays
+
+-   This technology can also be used to investigate the protein
+    expression pathways that lead to these conditions
+
+cDNA
+
+-   Complementary DNA (cDNA) is a molecule synthesised from an mRNA
+    template via reverse transcription
+-   cDNA molecules represent gene sequences that are actively
+    transcribed by a cell (as they were synthesised from mRNA)Â 
+-   This makes them a valuable tool for determining expression patterns
+    of proteins in normal and diseased states
+
+Microarray
+
+-   A DNA microarray is a collection of microscopic DNA sequences
+    (oligos) attached to a solid surface
+-   These sequences represent fractions of a large library of genes that
+    are present in a cell
+-   If a gene is active within a cell, then the cDNA (produced from the
+    mRNA transcript) will bind to its complementary oligo
+-   If the cDNA has been fluorescently labeled, then the complementary
+    oligo can be identifiedÂ (along with the gene it represents)
+-   If cDNA from healthy and diseased cells are labeled with different
+    fluorophores, comparisons of gene expression can be made
+-   Genes that are only active in a diseased or normal state will be of
+    particular interest to scientists
+
+DNA Microarray Overview
+
+[microarray]

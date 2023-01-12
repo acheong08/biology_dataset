@@ -1,0 +1,56 @@
+Brain Damage
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of the pupil reflex to evaluate brain damage
+
+Â  Â Â 
+The Pupil Reflex
+
+The pupil reflex is an involuntary response originating at the brainstem
+and under the control of the autonomic nervous system
+
+-   It involves the resizing of the iris to regulate the amount of light
+    that reaches the retina (excess light can damage the retina)
+
+Pupils constrict in bright light (to prevent overstimulation of
+photoreceptors) and dilate in dim light (to maximise light exposure)
+
+-   In bright light, parasympathetic nerves trigger circular muscles to
+    contract and cause the pupils to constrict
+-   In dim light, sympathetic nerves trigger radial muscles to contract
+    and cause the pupils to dilate
+
+Overview of the Pupil Reflex
+
+[pupil reflex]
+
+Brain Death
+
+Brain death is defined as the permanent absence of measurable activity
+in both the cerebrum and brainstem
+
+-   The brainstem is responsible for involuntary autonomic responses and
+    may function alone to maintain homeostasis
+-   Hence, individuals with a non-functioning cerebrum but a functioning
+    brainstem may be kept alive in a vegetative state
+
+Brain death can be determined by medical professionals by testing the
+function of specific autonomic responses
+
+-   The pupil reflex is one autonomic test used to assess brain death
+    â€“ brain dead individuals will not exhibit a pupil reflex
+-   The Glasgow Coma Scale uses multiple tests to determine the
+    neurological health of someone with suspected brain injury
+
+Testing Levels of Consciousness
+
+[Glasgow Coma Scale]

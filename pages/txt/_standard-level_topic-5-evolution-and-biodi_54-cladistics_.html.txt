@@ -1,0 +1,35 @@
+5.4 Â Cladistics
+
+[big ninja]
+
+Essential Idea:
+The ancestry of groups of species can be deduced
+by comparing their base or amino acid sequences
+
+Â  Â  Â 
+Understandings:
+
+-   A clade is a group of organisms that have evolved from a common
+    ancestor
+-   Cladograms are tree diagrams that show the most probable sequence of
+    divergence in clades
+-   Evidence for which species are part of a clade can be obtained from
+    the base sequence of a gene or the corresponding amino acid sequence
+    of a protein
+-   Sequence differences accumulate gradually so there is a positive
+    correlation between the number of differences between two species
+    and the time since they diverged from a common ancestor
+-   Traits can be analogous or homologous
+-   Evidence from cladistics has shown that classification of some
+    groups based on structure did not correspond with the evolutionary
+    origins of a group or species
+
+Applications:
+
+-   Cladograms including humans and other primates
+-   Reclassification of the figwort family using evidence from
+    cladistics
+
+Skills:
+
+-   Analysis of cladograms to deduce evolutionary relationships

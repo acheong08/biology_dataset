@@ -1,0 +1,41 @@
+Chromatographs
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Separation of photosynthetic pigments by chromatograph
+
+Â  Â Â 
+Photosynthetic organisms do not rely on a single pigment to absorb
+light, but instead benefit from the combined action of many
+
+-   These pigments include chlorophylls,Â xanthophyll and carotenes
+
+Chromatography is an experimental technique by which mixtures can be
+separated
+
+-   A mixture is dissolved in a fluid (called the mobile phase) and
+    passed through a static material (called the stationary phase)
+-   The different components of the mixture travel at different speeds,
+    causing them to separate
+-   A retardation factor can then be calculated (Rf value = distance
+    component travels Ã· distance solvent travels)
+
+Two of the most common techniques for separating photosynthetic pigments
+are:
+
+-   Paper chromatography â€“ uses paper (cellulose) as the stationary
+    bed
+-   Thin layer chromatography â€“ uses a thin layer ofÂ adsorbent (e.g.
+    silica gel) which runs faster and has better separation
+
+Overview of the Chomatographic Separation of Photosynthetic Pigments
+
+[chromatography]

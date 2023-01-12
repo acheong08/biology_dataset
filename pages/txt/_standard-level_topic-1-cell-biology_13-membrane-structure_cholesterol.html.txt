@@ -1,0 +1,57 @@
+Cholesterol
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Cholesterol is a component of animal cell membranes
+
+Â  Â Â 
+Cholesterol is a component of animal cell membranes, where it functions
+to maintain integrity and mechanical stability
+
+-   It is absent in plant cells, as these plasma membranes are
+    surrounded and supported by a rigid cell wall made of cellulose
+
+[cholesterol molecule]
+
+Cholesterol is an amphipathic molecule (like phospholipids), meaning it
+has both hydrophilic and hydrophobic regions
+
+-   Cholesterolâ€™s hydroxyl (-OH) group is hydrophilic and aligns
+    towards the phosphate heads of phospholipids
+-   The remainder of the molecule (steroid ring and hydrocarbon tail) is
+    hydrophobic and associates with the phospholipid tails
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Cholesterol in mammalian membranes reduces membrane fluidity and
+permeability to some solutes
+
+Â  Â Â 
+Phospholipid bilayers are fluid, in that the phospholipids are in
+constant movement relative to one another
+
+Cholesterol interacts with the fatty acid tails of phospholipids to
+moderate the properties of the membrane:
+
+-   Cholesterol functions to immobilise the outer surface of the
+    membrane, reducing fluidity
+-   It makes the membrane less permeable to very small water-soluble
+    molecules that would otherwise freely cross
+-   It functions to separate phospholipid tails and so prevent
+    crystallisation of the membrane
+-   It helps secure peripheral proteins by forming high density lipid
+    rafts capable of anchoring the protein
+
+Â Cholesterol in Mammalian Membranes
+
+[cholesterol membrane]

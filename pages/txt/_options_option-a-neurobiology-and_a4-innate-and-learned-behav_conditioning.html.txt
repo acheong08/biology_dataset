@@ -1,0 +1,88 @@
+Conditioning
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Reflex conditioning involves forming new associations
+
+Â  Â Â 
+Conditioning is a process of behaviour modification whereby desired
+behaviours become associated with unrelated stimuli
+
+-   This process can be achieved via either classical (reflex)
+    conditioning or operant (instrumental) conditioning
+
+Reflex conditioning involves placing a neutral signal before a reflex in
+order to create an association between the two
+
+-   Reflex conditioning focuses on involuntary and autonomic behaviours
+-   It involves associating a desired behaviour with a new stimulus
+
+Operant conditioning involves applying reinforcement or punishment after
+a behaviour to increase or reduce its occurrence
+
+-   Operant conditioning focuses on strengthening or weakening voluntary
+    behaviours
+-   It involves associating a particular behaviour with a specific
+    consequence (either reward or punishment)
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Pavlovâ€™s experiments into reflex conditioning in dogs
+
+Â  Â Â 
+Reflex Conditioning
+
+Reflex conditioning was first described by Ivan Pavlov, a Russian
+physiologist who experimented on dogs
+
+-   Dogs normally salivate (unconditioned response) in anticipation of
+    being fed (unconditioned stimulus)
+-   Pavlov sounded a bell (neutral stimulus) prior to feeding a dog
+-   After many repetitions, the dog came to associate the bell with food
+    and began to salivate to the bell (conditioned response)
+-   Pavlov described this as a conditioned reflex â€“ the stimulus that
+    prompted the response had been changed
+
+Reflex Conditioning in Dogs
+
+[reflex conditioning]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Operant conditioning is a form of learning that consists of trial
+and error experiences
+
+Â  Â Â 
+Operant Conditioning
+
+Operant conditioning was first described by B. F. Skinner, an American
+psychologist who experimented on rats
+
+-   Rats were placed in a controlled chamber (called a Skinner box) that
+    contained a responsive lever
+-   The pushing of the lever by the rat was accidental but resulted in
+    several possible outcomes, including:
+    -   The delivery of food in response to light (desirable outcome =
+        positive reinforcement)
+    -   The silencing of a loud noise from a speaker (desirable outcome
+        = negative reinforcement)
+    -   The activation of an electrified floor if not pressed in
+        response to light (negative outcome = punishment)
+-   By trial and error, the mice learned to press the lever in response
+    to the different environmental contexts
+
+Operant Conditioning in Rats
+
+[operant conditioning]

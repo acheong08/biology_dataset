@@ -1,0 +1,46 @@
+Clonal Selection
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â B lymphocytes are activated by T lymphocytes in mammals
+
+â€¢ Â Activated B cells multiply to form clones of plasma cells and
+memory cells
+
+Â  Â Â 
+When the body is challenged by a foreign pathogen it will respond with
+both a non-specific and a specific immune reaction
+
+-   Non-specific immune cells called macrophages will engulf pathogens
+    non-selectively and break them down internally
+-   A proportion of macrophages (dendritic cells) will present the
+    antigenic fragments of the pathogen to specific lymphocytesÂ 
+
+The body contains millions of different T lymphocytes and B lymphocytes
+that each recognise a single, specific antigen
+
+-   Antigenic fragments are presented to specific helper T lymphocytes
+    (T_(H)Â cells) that, when activated, releases cytokines
+-   The cytokines stimulate a specific B cell that produces antibodies
+    to the antigen toÂ divide and form clones (clonal selection)
+-   Most of the clones will develop into short-lived plasma cells that
+    produce large quantities of specific antibody
+-   A small proportion of clones will differentiate into long-lived
+    memory cells that function to provide long-term immunity
+
+Pathogens typically contain multiple distinct antigenic fragments on
+their surface and hence a single pathogen is likely to stimulate several
+different T and B lymphocytes to produce a variety of specific
+antibodies (polyclonal activation)
+
+Clonal Selection
+
+[clonal selection]

@@ -1,0 +1,63 @@
+Ribosomes and tRNA
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â The use of molecular visualisation software to analyse the
+structure of eukaryotic ribosomesÂ 
+
+Â  Â  and a tRNA molecule
+
+Â  Â Â 
+Ribosomes
+
+-   Ribosomes are made of protein (for stability) and ribosomal RNA (for
+    catalytic activity)
+-   They consist of a large and small subunit:
+    -   The small subunit contains an mRNA binding site
+    -   The large subunit contains three tRNA binding sites â€“ an
+        aminoacyl (A) site, a peptidyl (P) site and an exit (E) site
+-   Ribosomes can be found either freely floating in the cytosol or
+    bound to the rough ER (in eukaryotes)
+-   Ribosomes differ in size in prokaryotes and eukaryotes (prokaryotes
+    = 70S ; eukaryotes = 80S)
+
+Structure of a Ribosome
+
+[ribosome structure]
+
+Transfer RNA (tRNA)
+
+tRNA molecules fold into a cloverleaf structure with four key regions:
+
+-   The acceptor stem (3â€™-CCA) carries an amino acid
+-   The anticodon associates with the mRNA codon (via complementary base
+    pairing)
+-   The T arm associates with the ribosome (via the E, P and A binding
+    sites)
+-   The D arm associates with the tRNA activating enzyme (responsible
+    for adding the amino acid to the acceptor stem)
+
+Structure of tRNA
+
+[tRNA structure]
+
+Molecular Visualisation
+
+To view the structure of a ribosome or a tRNA molecule via an
+interactive pop-up, click on the name of the structure below:
+
+* Hint:Â For the ribosome, select nucleic acids and then colour
+structure by chain to identify the two subunits and three tRNA binding
+sitesÂ 
+
+Ribosome and tRNA Molecules
+
+[ribosome and tRNA]

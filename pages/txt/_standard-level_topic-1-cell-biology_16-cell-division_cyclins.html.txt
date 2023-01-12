@@ -1,0 +1,43 @@
+Cyclins
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Cyclins are involved in the control of the cell cycle
+
+Â  Â Â 
+Mechanism of Cyclin Action
+
+Cyclins are a family of regulatory proteins that control the progression
+of the cell cycle
+
+Cyclins activate cyclin dependent kinases (CDKs), which control cell
+cycle processes through phosphorylation
+
+-   When a cyclin and CDK form a complex, the complex will bind to a
+    target protein and modify it via phosphorylation
+-   The phosphorylated target protein will trigger some specific event
+    within the cell cycle (e.g. centrosome duplication, etc.)
+-   After the event has occurred, the cyclin is degraded and the CDK is
+    rendered inactive again
+
+[cyclin activity]
+
+Cyclin Expression Patterns
+
+Cyclin concentrations need to be tightly regulated in order to ensure
+the cell cycle progresses in a proper sequence
+
+-   Different cyclins specifically bind to, and activate, different
+    classes of cyclin dependent kinases
+-   Cyclin levels will peak when their target protein is required for
+    function and remain at lower levels at all other times
+
+[cyclin expression]

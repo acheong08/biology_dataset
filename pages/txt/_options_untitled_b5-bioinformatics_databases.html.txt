@@ -1,0 +1,67 @@
+Databases
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Databases allow scientists easy access to information
+
+â€¢ Â The body of data stored in databases is increasing exponentially
+
+Â  Â Â 
+Bioinformatics is an interdisciplinary field that uses computer science
+to sort, store and understand biological data
+
+-   This information is stored in databases, which use algorithms to
+    collate relevant data for interpretation and analysis
+
+The body of available data stored in databases is increasing
+exponentially as a result of:
+
+-   Advancements in sequencing protocols (promotes faster data
+    collection)Â 
+-   Development of new software tools (results in easier access to data
+    â€“ which promotes collaboration)
+-   A rapid increase in the number of labs undertaking associated
+    researchÂ 
+
+Examples of databases used to collect and collect relevant biological
+information include:
+
+-   Genbank â€“ Genetic sequence database
+-   RCSB â€“ Protein database
+-   EBI â€“ Molecular biology database (genes, proteins and chemicals)
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Explore chromosome 21 in databases (for example inÂ Ensembl)
+
+Â  Â Â 
+Chromosome 21 is the smallest human chromosome, with roughly 48 million
+base pairs
+
+-   It was the second chromosome to be completely sequenced as part of
+    the Human Genome Project
+-   Chromosome 21 is predicted to contain roughly 400 â€“ 600 genes
+    (number varies according to predictive measure used)
+
+Information regarding the structure and approximate sequence of
+chromosome 21 is stored in bioinformatic databases
+
+-   This information is commonly conveyed as an ideogram (a graphical
+    representation of chromosomal content)
+
+Chromosome 21 can be explored in a number of different databases,
+including NCBI and Ensembl
+
+Ideogram of Chromosome 21
+
+[chromosome 21]

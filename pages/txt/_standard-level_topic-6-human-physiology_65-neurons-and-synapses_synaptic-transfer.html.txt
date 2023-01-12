@@ -1,0 +1,46 @@
+Synaptic Transfer
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Synapses are junctions between neurons and between neurons and
+receptor or effector cells
+
+Â  Â Â 
+Nerves transmit electrical impulses by changing the ionic distribution
+across the neuronal membrane (membrane potential)
+
+-   Therefore, electrical signals are not able to be conducted when a
+    semi-permeable membrane is absent
+
+Synapses are the physical gaps that separate neurons from other cells
+(otherÂ neurons and receptor or effector cells)
+
+-   Neurons transmit information across synapses by converting the
+    electrical signal into a chemical signal
+
+Chemical Transfer Across Synapses
+
+-   When an action potential reaches the axon terminal, it triggers the
+    opening of voltage-gated calcium channels
+-   Calcium ions (Ca²⁺) diffuse into the cell and promote the fusion of
+    vesicles (containing neurotransmitter) with the cell membrane
+-   The neurotransmitters are released from the axon terminal by
+    exocytosis and cross the synaptic cleft
+-   Neurotransmitters bind to specific receptors on the post-synaptic
+    membrane and open ligand-gated ion channels
+-   The opening of ion channels generates an electrical impulse in the
+    post-synapticÂ neuron, propagating the pre-synaptic signal
+-   The neurotransmitters released into the synapse are either recycled
+    (by reuptake pumps) or degraded (by enzymatic activity)
+
+Process of Synaptic Signal Transmission
+
+[synaptic transfer]

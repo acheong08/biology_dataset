@@ -1,0 +1,48 @@
+Types of Metabolism
+
+All living things undergo metabolism and may be classified according to
+three key conditions:
+
+-   The method by which they obtain their carbon
+-   The method by which they derive their energy
+-   The method by which they generate reducing equivalents
+
+1. Â Carbon Source
+
+Organisms can obtain carbon for synthesising organic molecules by own of
+three means:
+
+-   Autotrophic â€“ Carbon is obtained from inorganic compounds (e.g.
+    CO₂)
+-   Heterotrophic â€“ Carbon is obtained from organic compounds (e.g.
+    sugars)
+-   Mixotrophic â€“ Carbon may be obtained from either inorganic or
+    organic sources
+
+2. Â Energy Source
+
+Organisms can derive the energy they need for living and growing by one
+of two means:
+
+-   Phototrophic â€“ The energy is obtained from sunlight
+-   Chemotrophic â€“ The energy is obtained from externally derived
+    chemical compoundsÂ 
+
+3. Â Reducing Equivalents
+
+Reducing equivalents are chemical species that can transfer electrons
+needed for energy conversions and biosynthesis
+
+Organisms can obtain reducing equivalents from one of two sources:
+
+-   Lithotrophic â€“ Electrons are derived from inorganic compounds
+    (e.g. H₂, NH₃, CO, H₂S, SO₄²⁻, Fe)
+-   Organotrophic â€“ Electrons are derived from organic compounds (e.g.
+    carbohydrates, proteins, lipids)
+
+These terms can be combined to describe the organism â€“ e.g.
+photolithoautotrophs (plants), chemoorganoheterotrophs (animals)
+
+Types of Metabolism
+
+[modes of metabolism]

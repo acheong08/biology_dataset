@@ -1,0 +1,48 @@
+DNA Structure
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â DNA is a double helix molecule made of two antiparallel strands of
+nucleotides linked by hydrogen bonding
+
+Â  Â between complementary base pairs
+
+Â  Â Â 
+Nucleic acids are composed of nucleotide monomers which are linked into
+a single strand via condensation reactions
+
+-   The phosphate group of one nucleotide attaches to the sugar of
+    another nucleotide (at the 3â€™â€“ hydroxyl (-OH) group)
+-   This results in a phosphodiester bond forming between the two
+    nucleotides (and water is produced as a by-product)
+-   Successive condensation reactions result in the formation of long
+    polynucleotide strands
+
+Two polynucleotide chains of DNA are held together via hydrogen bonding
+between complementary nitrogenous bases
+
+-   Adenine (A) pairs with Thymine (T) via two hydrogen bonds
+-   Guanine (G) pairs with Cytosine (C) via three hydrogen bonds
+
+In order for the bases to be facing each other and thus able to pair,
+the strands must be running in opposite directionsÂ 
+
+-   The two strands of DNA are described as being antiparallel
+
+As the antiparallel chains lengthen, the atoms will organise themselves
+into the most stableÂ energy configurationÂ Â 
+
+-   This atomic arrangement results in the double-stranded DNA forming a
+    double helix (~10 â€“ 15 bases per twist)
+
+Organisation of DNA
+
+[double stranded DNA]

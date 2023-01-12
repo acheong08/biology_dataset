@@ -1,0 +1,33 @@
+Lung Capacity
+
+Lung capacities refer to the volumes of air associated with the
+different phases of the respiratory cycle:
+
+-   Total lung capacity â€“ Volume of air in the lungs after a maximal
+    inhalation (~ 6 litres in a normal adult male)
+-   Vital capacity â€“ Volume of air that can be exchanged by the lungs
+    via a maximal inhalation and exhalation
+-   Residual volume â€“ Volume of air that is always present in the
+    lungs (~ 20% of total lung capacity)
+-   Tidal volume â€“ Volume of air that is exchanged via normal
+    breathing (~ 500 ml per breath)
+
+Ventilation rate (breathing frequency) at rest for a typical adult is
+roughly 12 â€“ 16 breaths per minute
+
+-   Ventilation rate can be substantially increased with physical
+    activity (maximal increase is roughly 5 â€“ 6 fold over normal)
+
+A number of factors contribute to an individualâ€™s total lung capacity
+and ventilation rate, including:
+
+-   Height (taller people tend to have larger chests and hence larger
+    total lung capacities)
+-   Location (people living at high altitudes tend to have larger
+    capacities to compensate for the lower atmospheric pressure)
+-   Lifestyle (obese people and smokers tend to have lower capacities
+    and higher rates of ventilation)
+
+Overview of Lung Capacities
+
+[lung capacity]

@@ -1,0 +1,89 @@
+Thermal Properties
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Hydrogen bonding and dipolarity explain the cohesive, adhesive,
+thermal and solvent properties of water
+
+Â  Â Â 
+Water has the capacity to absorb significant amounts of heat before
+changing state
+
+-   This is due to the extensive hydrogen bonding between water
+    molecules â€“ the H-bonds need to be broken before a change in state
+    can occur and this requires the absorption of energy (heat)
+
+Consequently, water is an excellent medium for living organisms as it is
+relatively slow to change temperature and thus supports the maintenance
+of constant conditions (internal and external)
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Comparison of the thermal properties of water with those of
+methane
+
+Â  Â Â 
+Methane (CH₄) provides a good basis for comparison with water due to the
+many similarities between their structures:
+
+-   Comparable size and weight (H₂O = 18 dalton ; CH₄ = 16 dalton)
+-   Comparable valence structures (both have tetrahedralÂ orbital
+    formations, but water is bent due to unbonded electron pairs)Â 
+
+Comparison of Water and Methane Molecules
+
+[water versus methane]
+
+Differences between Water and Methane
+
+The differences in thermal properties between water and methane arise
+from differences in polarity between the molecules:
+
+-   Water is polar and can form intermolecular hydrogen bonds (due to
+    high electronegativity of oxygen atom)
+-   Methane is non-polar and can only form weak dispersion forces
+    between its molecules (carbon has a lower electronegativity)
+
+This means water absorbs more heat before changing state (each H-bond
+has an average energy of 20 kJ/mol)
+
+-   Water has a significantly higher melting and boiling point
+-   Water has a higher specific heat capacity (energy required to raise
+    the temperature of 1 g of substance by 1ÂºC)
+-   Water has a higher heat of vaporisation (energy absorbed per gram as
+    it changes from a liquid to a gas /Â vapour)
+-   Water as a higher heat of fusion (energy required to be lost to
+    change 1 g of liquid to 1 g of solid at 0ÂºC)
+
+Table of Key Thermal PropertiesÂ Â (Water versus Methane)
+
+[water versus methane thermal table]
+
+[ninja icon]
+
+Application:
+
+â€¢ Â Use of water as a coolant in sweat
+
+Â  Â Â 
+The evaporation of water as sweat is a fundamental mechanism employed by
+humans as a means of cooling down
+
+-   The change of water from liquid to vapour (evaporation) requires an
+    input of energy
+-   This energy comes from the surface of the skin when it is hot,
+    therefore when the sweat evaporates the skin is cooled
+-   Because water has a high specific heat capacity, it absorbs a lot of
+    thermal energy before it evaporates
+-   Thus water functions as a highly effective coolant, making it the
+    principal component of sweat

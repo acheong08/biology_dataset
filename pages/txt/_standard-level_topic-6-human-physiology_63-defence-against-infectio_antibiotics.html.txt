@@ -1,0 +1,85 @@
+Antibiotics
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Antibiotics block processes that occur in prokaryotic cells but
+not in eukaryotic cells
+
+â€¢ Â Viruses lack a metabolism and cannot therefore be treated with
+antibiotics
+
+Â  Â Â 
+Antibiotics are compounds that kill or inhibit the growth of microbes
+(specifically bacteria) by targeting prokaryotic metabolism
+
+-   Metabolic features that may be targeted by antibiotics include key
+    enzymes, 70S ribosomes and components of the cell wall
+-   Because eukaryotic cells do not possess these features, antibiotics
+    will target the pathogenic bacteria and not the infected host
+-   Antibiotics may either kill the invading bacteria (bactericidal) or
+    suppress its potential to reproduce (bacteriostatic)
+
+Viruses do not possess a metabolism (they are not alive) and instead
+take over the cellular machinery of infected host cells
+
+-   As such, they cannot be treated with antibiotics and must instead be
+    treated with specific antiviral agents
+-   Antiviral treatments target features specific to viruses (e.g. viral
+    enzymes like reverse transcriptase or components of the capsid)
+
+Antibiotic Targets in a Typical Prokaryote
+
+[antibiotics]
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Some strains of bacteria have evolved with genes that confer
+resistance to antibiotics and some strains of Â 
+
+Â  Â Â bacteria have multiple resistance
+
+Â  Â Â 
+Since the discovery of the first antibiotic in 1928, antibiotic
+compounds have been used to treat a variety of bacterial infections
+
+-   Antibiotics can be narrow spectrum (effective against specific
+    bacteria) or broad spectrum (effective against many bacteria)
+
+Some strains of bacteria have evolved with genes that confer resistance
+to antibiotics and some strains have multiple resistance
+
+-   Genes may confer resistance by encoding traits that degrade the
+    antibiotic, block its entry, increase its removal or alter the
+    target
+-   Because bacteria reproduce at a rapid rate, resistant strains of
+    bacteria can proliferate very quickly following the initial mutation
+-   Additionally, resistant strains can pass resistance genes to
+    susceptible strains via bacterial conjugation (horizontal gene
+    transfer)
+
+The prevalance of resistant bacterial strains is increasing rapidly with
+human populations due to a number of factors:
+
+-   Antibiotics are often over-prescribed (particularly broad-spectrum
+    drugs) or misused (e.g. given to treat a viral infection)
+-   Many antibiotics are freely available without a prescription and
+    certain antibiotics are commonly included in livestock feed
+-   Multi-drug resistant bacteria are especially common in hospitals
+    (i.e. nosocomial infections) where antibiotic use is high
+
+An example of an antibiotic resistant strain of bacteria is Golden Staph
+(MRSA â€“ Methicillin Resistant Staphylococcus aureus)
+
+Development of Antibiotic Resistance
+
+[antibiotic resistance]

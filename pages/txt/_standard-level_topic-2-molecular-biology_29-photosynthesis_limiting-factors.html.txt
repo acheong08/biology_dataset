@@ -1,0 +1,120 @@
+Limiting Factors
+
+Previous
+
+Next
+
+List
+
+[ninja icon]
+
+Understanding:
+
+â€¢ Â Temperature, light intensity and CO₂ concentration are possible
+limiting factors on the rate ofÂ photosynthesis
+
+Â  Â Â 
+
+[limiting factor]
+
+The law of limiting factors states that when a chemical process depends
+on more than one essential condition being favourable, the rate of
+reaction will be limited by the factor that is nearest its minimum value
+
+Photosynthesis is dependent on a number of favourable conditions,
+including:
+
+-   Temperature
+-   Light intensity
+-   Carbon dioxide concentration
+
+Temperature
+
+-   Photosynthesis is controlled by enzymes, which are sensitive to
+    temperature fluctuations
+-   As temperature increases reaction rate will increase, as reactants
+    have greater kinetic energy and more collisions result
+-   Above a certain temperature the rate of photosynthesis will decrease
+    as essential enzymes begin to denature
+
+The Effect of Temperature on Photosynthetic Rate
+
+[temperature photosynthesis]
+
+Light Intensity
+
+-   Light is absorbed by chlorophyll, which convert the radiant energy
+    into chemical energy (ATP)
+-   As light intensity increases reaction rate will increase, as more
+    chlorophyll are beingÂ photo-activated
+-   At a certain light intensity photosynthetic rate will plateau, as
+    all available chlorophyll are saturated with light
+-   Different wavelengths of light will have different effects on the
+    rate of photosynthesis (e.g. green light is reflected)
+
+The Effect of Light Intensity on Photosynthetic Rate
+
+[light intensity photosynthesis]
+
+Carbon Dioxide Concentration
+
+-   Carbon dioxide is involved in the fixation of carbon atoms to form
+    organic molecules
+-   As carbon dioxide concentration increases reaction rate will
+    increase, as more organic molecules are being produced
+-   At a certain concentration of CO₂ photosynthetic rate will plateau,
+    as the enzymes responsible for carbon fixation are saturated
+
+Effect of Carbon Dioxide Concentration on Photosynthetic Rate
+
+[CO2 concentration photosynthesis]
+
+[ninja icon]
+
+Skill:
+
+â€¢ Â Design of experiments to investigate the effects of limiting
+factors on photosynthesis
+
+Â  Â Â 
+Photosynthesis can be measured directly via the uptake of CO₂ or
+production of O₂, or indirectly via a change in biomass
+
+-   It is important to recognise that these levels may be influenced by
+    the relative amount of cell respiration occurring in the tissue
+
+Measuring CO₂ Uptake
+
+-   Carbon dioxide uptake can be measured by placing leaf tissue in an
+    enclosed space with water
+-   Water free of dissolved carbon dioxide can initially be produced by
+    boiling and cooling water
+-   Carbon dioxide interacts with the water molecules, producing
+    bicarbonate and hydrogen ions, which changes the pH (â†‘ acidity)
+-   Increased uptake of CO₂ by the plant will lower the concentration in
+    solution and increase the alkalinity (measure with probe)
+-   Alternatively, carbon dioxide levels may be monitored via a data
+    logger
+
+Measuring O₂ Production
+
+-   Oxygen production can be measured by submerging a plant in an
+    enclosed water-filled space attached to a sealed gas syringe
+-   Any oxygen gas produced will bubble out of solution and can be
+    measured by a change in meniscus level on the syringe
+-   Alternatively, oxygen production could be measured by the time taken
+    for submerged leaf discs to surface
+-   Oxygen levels can also be measured with a data logger if the
+    appropriate probe is available
+
+Measuring Biomass (Indirect)
+
+-   Glucose production can be indirectly measured by a change in the
+    plantâ€™s biomass (weight)
+-   This requires the plant tissue to be completely dehydrated prior to
+    weighing to ensure the change in biomass represents organic matter
+    and not water content
+-   An alternative method for measuring glucose production is to
+    determine the change in starch levels (glucose is stored as starch)
+-   Starch can be identified via iodine staining (turns starch solution
+    purple) and quantitated using a colorimeterÂ 

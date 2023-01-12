@@ -1,0 +1,38 @@
+Models of Action
+
+There are two models used to describe the way enzymes interact with
+substrates:
+
+-   The 'lock and keyâ€™Â model
+-   TheÂ â€˜induced fitâ€™Â model
+
+The Lock and Key Model
+
+According to the lock and key model, the enzymeâ€™s active site
+complements the substrate precisely
+
+The substrate fits a particular active site like a key fits into a
+particular lock
+
+This theory of enzyme-substrate interaction explains how enzymes
+exhibitÂ specificityÂ for a particular substrate
+
+[]
+
+The Induced Fit Model
+
+According to the induced fit model, the enzymeâ€™s active site is not a
+completely rigid fit for the substrate
+
+Instead, the active site will undergo aÂ conformational changeÂ when
+exposed to a substrate to improve binding
+
+This theory of enzyme-substrate interactions has two advantages compared
+to the lock and key model:
+
+-   It explains how enzymes may exhibitÂ broad specificityÂ (e.g. lipase
+    can bind to a variety of lipids)
+-   It explains how catalysis may occur (the conformational change
+    stresses bonds in the substrate, increasing reactivity)
+
+[]

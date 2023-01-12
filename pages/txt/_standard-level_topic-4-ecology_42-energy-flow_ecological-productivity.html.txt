@@ -1,0 +1,36 @@
+Ecological Productivity
+
+In ecology, production (or productivity) refers to the rate of
+generation of biomass in an ecosystem
+
+-   It is usually expressed in units of mass per area per time (e.g. kg
+    m^(â€“2) day^(â€“1))
+
+Primary Production
+
+Primary production describes the production of chemical energy in
+organic compounds by producers
+
+-   The main source of energy for primary production is sunlight, but a
+    fraction may be driven by chemosynthesis byÂ lithotrophs
+
+Primary production may be categorised as one of two types:
+
+-   Gross primary production (GPP) is the amount of chemical energy as
+    biomass that a producer creates in a given length of time
+-   Net primary production (NPP) is the amount of chemical energy that
+    is not consumed by respiration (NPP = GPP â€“ respiration)
+
+Secondary Production
+
+Secondary production describes the generation of biomass by
+heterotrophic organisms (consumers)
+
+-   This biomass generation is driven by the transfer of organic
+    compounds between trophic levels via feeding
+-   Secondary production may also be categorised according to gross
+    (total) and net (usable) amounts of biomass
+
+Ecological Productivity
+
+[productivity]
